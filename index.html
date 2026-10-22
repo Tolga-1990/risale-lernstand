@@ -141,6 +141,7 @@ textarea.note { border-style: dashed; border-color: var(--gilt); }
 .tile .dots i { width: 5px; height: 5px; border-radius: 50%; background: currentColor; opacity: .85; }
 .tile.read { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
 .tile.due { background: var(--due-soft); border-color: var(--due); color: var(--due); }
+.tile.skip { cursor: default; opacity: .35; border-style: dashed; background: transparent; }
 .tile.hasq::after { content: ""; position: absolute; top: 5px; right: 5px; width: 6px; height: 6px; border-radius: 50%; background: var(--gilt); }
 .legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: .82rem; color: var(--muted); }
 .legend span { display: inline-flex; align-items: center; gap: 6px; }
@@ -262,7 +263,7 @@ details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
   "use strict";
   const BOOKS = [
     { key: "soz", name: "Sözler", unit: "Söz", count: 33 },
-    { key: "mek", name: "Mektubat", unit: "Mektup", count: 33 },
+    { key: "mek", name: "Mektubat", unit: "Mektup", count: 33, skip: { 14: "nicht geschrieben", 25: "nicht niedergeschrieben", 27: "separat herausgegeben", 30: "eigenes Werk", 31: "eigenes Werk (Einunddreissig Blitze)", 32: "eigenes Werk (Schlaglichter)", 33: "in den «Worten» enthalten" }, skipNote: "Ausgegraut laut deutscher Ausgabe: 14. und 25. Brief wurden nicht geschrieben, der 27. ist separat erschienen, der 30. bis 32. sind eigene Werke, der 33. steht in den «Worten»." },
     { key: "lem", name: "Lem'alar", unit: "Lem'a", count: 33 },
     { key: "sua", name: "Şualar", unit: "Şua", count: 15 }
   ];
@@ -485,11 +486,13 @@ details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
     const chips = $("bookChips"); chips.innerHTML = "";
     BOOKS.forEach(b => chips.append(h("button", { class: "chip", "aria-pressed": String(bookTab === b.key), text: b.name, onclick: () => { bookTab = b.key; renderBooks(); } })));
     const b = bookByKey(bookTab), view = $("bookView"); view.innerHTML = "";
-    let read = 0; for (let n = 1; n <= b.count; n++) if (secEntry(secKey(b.key, n)).reads.length) read++;
-    const bar = h("div", { class: "bar" }, h("i")); bar.firstChild.style.width = (read / b.count * 100) + "%";
+    const skip = b.skip || {}, total = b.count - Object.keys(skip).length;
+    let read = 0; for (let n = 1; n <= b.count; n++) if (!skip[n] && secEntry(secKey(b.key, n)).reads.length) read++;
+    const bar = h("div", { class: "bar" }, h("i")); bar.firstChild.style.width = (read / total * 100) + "%";
     const grid = h("div", { class: "grid" });
     const qs = allQs();
     for (let n = 1; n <= b.count; n++) {
+      if (skip[n]) { grid.append(h("div", { class: "tile skip", title: n + ". " + b.unit + ": " + skip[n], "aria-label": n + ". " + b.unit + ", " + skip[n] }, h("span", { class: "n", text: n }), h("span", { class: "dots" }))); continue; }
       const key = secKey(b.key, n), e = secEntry(key), due = isReadDue(e);
       const nq = qs.filter(q => q.book === b.key && Number(q.sec) === n).length;
       const dots = h("span", { class: "dots" }); for (let i = 0; i < Math.min(e.reads.length, 5); i++) dots.append(h("i"));
@@ -498,8 +501,9 @@ details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
         onclick: () => openSheet(key) }, h("span", { class: "n", text: n }), dots));
     }
     view.append(h("div", { class: "card" },
-      h("div", { class: "bookhead" }, h("h2", { text: b.name }), h("span", { class: "sub num", text: read + " von " + b.count + " gelesen" })),
+      h("div", { class: "bookhead" }, h("h2", { text: b.name }), h("span", { class: "sub num", text: read + " von " + total + " gelesen" })),
       bar, grid,
+      b.skipNote ? h("p", { class: "sub", style: "font-size:.82rem", text: b.skipNote }) : null,
       h("div", { class: "legend" }, h("span", {}, h("i"), "offen"), h("span", {}, h("i", { class: "r" }), "gelesen"), h("span", {}, h("i", { class: "d" }), "Lesen fällig"), h("span", {}, h("i", { class: "g" }), "Fragen vorhanden"))));
   }
 
