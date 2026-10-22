@@ -1,5 +1,5 @@
 {
- "version": "2026-10-22b",
+ "version": "2026-10-22c",
  "questions": [
   {
    "id": "soz-01-01",
@@ -495,6 +495,572 @@
    ],
    "correct": 2,
    "explanation": "Er sieht in den Geschöpfen Spiegel der beständigen Namen Gottes. Tod und Verfall erscheinen ihm als Erneuerung, die Schönheit steigert und Freude erneuert. So wird sein Mitleid zu Frohsinn, während der Gottvergessene in Verzweiflung bleibt."
+  },
+  {
+   "id": "mek-02-01",
+   "book": "mek",
+   "sec": 2,
+   "secTitle": "Zweiter Brief",
+   "page": 20,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Warum nimmt der Autor das Geschenk des Schülers dieses eine Mal an?",
+   "options": [
+    "Weil das Geschenk sehr wertvoll war",
+    "Weil der Schüler weiter fortgeschritten ist und ihm innerlich näher steht als Bruder und Neffe",
+    "Weil er das Geschenk weitergeben wollte",
+    "Weil er sein Prinzip grundsätzlich aufgegeben hat"
+   ],
+   "correct": 1,
+   "explanation": "Er würde Geschenke weder von seinem Bruder Abdulmecid noch von seinem Neffen Abdurrahman annehmen. Weil der Schüler weiter fortgeschritten ist und ihm innerlich näher steht, lehnt er dessen Geschenk dieses Mal nicht ab."
+  },
+  {
+   "id": "mek-02-02",
+   "book": "mek",
+   "sec": 2,
+   "secTitle": "Zweiter Brief",
+   "page": 20,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Worauf beruht laut Text das Prinzip, keine Vergünstigungen anzunehmen?",
+   "options": [
+    "Auf Askese und künstlicher Selbstbeschränkung",
+    "Auf einer Anweisung seines Lehrers",
+    "Auf vier oder fünf ernsthaften Gründen, ein Erbe des Alten Said",
+    "Auf Misstrauen gegenüber seinen Schülern"
+   ],
+   "correct": 2,
+   "explanation": "Der Alte Said nahm niemals Vergünstigungen an und zog es eher vor zu sterben. Der Autor betont, dass dies keine Askese und keine erkünstelte Selbstbeschränkung ist, sondern auf vier oder fünf ernsthaften Gründen beruht."
+  },
+  {
+   "id": "mek-02-03",
+   "book": "mek",
+   "sec": 2,
+   "secTitle": "Zweiter Brief",
+   "page": 21,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was folgt laut Text aus den Versen über die Verkünder der Wahrheit (Sure 10, 72 und Sure 36, 21)?",
+   "options": [
+    "Dass Verkünder der Wahrheit ihren Lohn allein von Gott erwarten und so ihre Unabhängigkeit zeigen",
+    "Dass Lehrer für ihren Unterricht bezahlt werden sollen",
+    "Dass man Geschenke nur von Verwandten annehmen darf",
+    "Dass man den Propheten nicht folgen muss"
+   ],
+   "correct": 0,
+   "explanation": "Wir sind verantwortlich, den Propheten in der Verbreitung der Wahrheit zu folgen. Sie haben gesagt, ihr Lohn komme allein von Gott, und so ihre Unabhängigkeit und Zurückhaltung gegenüber den Menschen gezeigt."
+  },
+  {
+   "id": "mek-02-04",
+   "book": "mek",
+   "sec": 2,
+   "secTitle": "Zweiter Brief",
+   "page": 21,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was bezeichnet der Autor als Schatz, den er gegen nichts eintauschen möchte?",
+   "options": [
+    "Seine Bücher und Abhandlungen",
+    "Die Liebe seiner Schüler",
+    "Sein Wissen über den Qur'an",
+    "Gottvertrauen, Bescheidenheit und Sparsamkeit"
+   ],
+   "correct": 3,
+   "explanation": "Gottvertrauen, Bescheidenheit und Sparsamkeit sind ein unerschöpflicher Schatz. Er will keine Güter von Menschen annehmen, um sich diese Goldmine nicht zu versperren, und dankt dem Versorger, dass er nie in eine solche Notlage kam.",
+   "term": "Rezzaq"
+  },
+  {
+   "id": "mek-02-05",
+   "book": "mek",
+   "sec": 2,
+   "secTitle": "Zweiter Brief",
+   "page": 22,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was nennt der Autor als wichtigsten Grund für seine Selbstgenügsamkeit?",
+   "options": [
+    "Eine Aussage von Ibn-i Hacer: Etwas anzunehmen, das einem als Gerechtem gegeben wird, ist verboten, wenn man nicht rein ist",
+    "Eine Krankheit, die ihn von Speisen abhalten liess",
+    "Ein Gelübde aus seiner Jugend",
+    "Die Armut seiner Schüler"
+   ],
+   "correct": 0,
+   "explanation": "Der Sechste und wichtigste Grund ist die Aussage von Ibn-i Hacer. Hielte er sich selbst für gerecht, wäre das ein Zeichen von Stolz; weiss er, dass er nicht zu den Gerechten zählt, darf er solche Güter nicht annehmen.",
+   "term": "haram"
+  },
+  {
+   "id": "mek-03-01",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 24,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Von wo aus betrachtete der Autor im Dritten Brief den Nachthimmel?",
+   "options": [
+    "Von einem Berggipfel ohne Unterkunft",
+    "Vom Dach einer Moschee",
+    "Aus seinem Baumhaus im Gipfel einer Zeder",
+    "Von einem Schiff aus"
+   ],
+   "correct": 2,
+   "explanation": "Er betrachtete eines Nachts aus der Höhe seines Baumhauses im Gipfel einer Zeder das Antlitz des Himmels und erkannte darin den Schwur aus Sure 81, 15–16."
+  },
+  {
+   "id": "mek-03-02",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 24,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was führen die vor- und zurücklaufenden Planeten laut Text vor Augen?",
+   "options": [
+    "Ein Zeichen für kommendes Unglück",
+    "Ein besonders schön gesticktes Kunstwerk, eine Tafel mit Beispielen",
+    "Den Zufall in der Natur",
+    "Die Grenzen des menschlichen Wissens"
+   ],
+   "correct": 1,
+   "explanation": "Der Vers über die Planeten zeigt das Licht des Wunders und das Geheimnis der Beredsamkeit. Die Planeten bilden mit ihren Bewegungen immer neue kunstvolle Muster am Himmel."
+  },
+  {
+   "id": "mek-03-03",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 25,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was lehrt der Mond laut Text alle bewusstseinsbegabten Wesen?",
+   "options": [
+    "Dass die Zeit unendlich ist",
+    "Dass die Erde der Mittelpunkt des Alls ist",
+    "Dass Licht von selbst entsteht",
+    "Dass der, der ihn so gemacht hat, alles vermag"
+   ],
+   "correct": 3,
+   "explanation": "Bestimmung, Bahn und Stellung des Mondes zu Erde und Sonne sind so präzise, dass für den Allmächtigen nichts schwer sein kann. Darin unterrichtet der Mond alle Wesen mit Bewusstsein."
+  },
+  {
+   "id": "mek-03-04",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 26,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Womit vergleicht der Text die Erde im Anschluss an Sure 67, 15?",
+   "options": [
+    "Mit einem Schiff oder Reittier, das in unseren Dienst gestellt ist",
+    "Mit einem Gefängnis",
+    "Mit einem Garten",
+    "Mit einer Uhr"
+   ],
+   "correct": 0,
+   "explanation": "Die Erde gleicht einem Schiff oder Reittier im Dienst des Menschen. Der Autor sah sich wie auf einem riesigen Schiff, das mit grosser Geschwindigkeit durch das All eilt."
+  },
+  {
+   "id": "mek-03-05",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 27,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wie gelangen laut der Ersten Anmerkung die Bewohner der Hölle zum Ort der Auferstehung?",
+   "options": [
+    "Sie gehen den Weg aus eigener Kraft",
+    "Engel tragen jeden einzeln",
+    "Die Erde lädt sie wie ein grosses Schiff ein und bringt sie dorthin",
+    "Sie werden vom Wind getragen"
+   ],
+   "correct": 2,
+   "explanation": "Wie Völker auf grossen Schiffen zu einem Kongress fahren, lädt die Erde ihre Bewohner ein, bringt sie zum Ort der Auferstehung und lädt sie dort aus. Dazu nennt der Text, dass die Erde ihre lange Reise in einem Jahr zurücklegt."
+  },
+  {
+   "id": "mek-03-06",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 28,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was geschieht laut der Zweiten Anmerkung, wenn alle Dinge auf ein einziges Wesen zurückgeführt werden?",
+   "options": [
+    "Sie werden schwieriger",
+    "Sie werden leicht; führt man sie auf viele Ursachen zurück, entstehen Schwierigkeiten bis zur Unmöglichkeit",
+    "Es macht keinen Unterschied",
+    "Sie verlieren ihre Ordnung"
+   ],
+   "correct": 1,
+   "explanation": "Eine einzige Person, etwa ein Offizier, kann viele Einzelne mit einer Handlung formieren. Überliesse man es jedem Einzelnen, ginge es nur unter grossen Schwierigkeiten. Kurzum: Unendliche Schwierigkeit auf den Wegen des Irrtums, unendliche Leichtigkeit auf dem Weg der Einheit."
+  },
+  {
+   "id": "mek-03-07",
+   "book": "mek",
+   "sec": 3,
+   "secTitle": "Dritter Brief",
+   "page": 30,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welches Beispiel aus dem Alltag nennt der Text für die Leichtigkeit in der Einheit?",
+   "options": [
+    "Bauern, die ihre Felder teilen",
+    "Soldaten, die einzeln kämpfen",
+    "Familien, die getrennt wohnen",
+    "Geschäftsleute und Handwerker, die Handelsgesellschaften bilden"
+   ],
+   "correct": 3,
+   "explanation": "Wegen der Schwierigkeit in der Vielheit kommen Geschäftsleute und Handwerker aus der Vielheit zur Einheit und bilden Handelsgesellschaften, um sich die Arbeit zu erleichtern."
+  },
+  {
+   "id": "mek-04-01",
+   "book": "mek",
+   "sec": 4,
+   "secTitle": "Vierter Brief",
+   "page": 31,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wo befindet sich der Autor, als er den Vierten Brief schreibt?",
+   "options": [
+    "In Barla in seinem Zimmer",
+    "In den Tscham-Bergen auf dem Wipfel einer riesigen Tanne",
+    "Im Gefängnis",
+    "Auf einer Reise nach Istanbul"
+   ],
+   "correct": 1,
+   "explanation": "Er schreibt von einem hohen Gipfel in den Tscham-Bergen, auf dem Wipfel einer Tanne. Er möchte dort ein, zwei Monate allein bleiben und danach nach Barla zurückkehren."
+  },
+  {
+   "id": "mek-04-02",
+   "book": "mek",
+   "sec": 4,
+   "secTitle": "Vierter Brief",
+   "page": 32,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche göttlichen Namen offenbaren sich dem Autor laut «Erstens» während seines Dienstes am Qur'an?",
+   "options": [
+    "Vedud und Kadir",
+    "Rahman und Malik",
+    "Rahim und Hakim",
+    "Samed und Ehad"
+   ],
+   "correct": 2,
+   "explanation": "Manchen wurde der Name Vedud (Freund) offenbart. Dem Autor wurden zur Zeit seines Dienstes am Qur'an die Namen Rahim (Barmherziger) und Hakim (Allweiser) offenbart. Die Sözler zeigen dieses Geheimnis."
+  },
+  {
+   "id": "mek-04-03",
+   "book": "mek",
+   "sec": 4,
+   "secTitle": "Vierter Brief",
+   "page": 32,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche vier Dinge sind laut Text im Orden der Besitzlosen notwendig?",
+   "options": [
+    "Vollkommene Armut, Unterwerfung, Dankbarkeit und Hingabe an Gott",
+    "Fasten, Schweigen, Wachen und Einsamkeit",
+    "Wissen, Lehre, Schrift und Rede",
+    "Verzicht auf Diesseits, Jenseits, Dasein und Verzicht"
+   ],
+   "correct": 0,
+   "explanation": "Für den Naqshibandi-Orden nennt das Gedicht vier Verzichte. Im Orden der Besitzlosen (adjz-i mendi) sind dagegen vollkommene Armut, vollkommene Unterwerfung, vollkommene Dankbarkeit und vollkommene Hingabe nötig.",
+   "term": "adjz-i mendi"
+  },
+  {
+   "id": "mek-04-04",
+   "book": "mek",
+   "sec": 4,
+   "secTitle": "Vierter Brief",
+   "page": 33,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was bedeutet laut Fussnote, dass die Sterne die aufmerksamen Augen des Himmels sind?",
+   "options": [
+    "Dass die Sterne das Schicksal der Menschen bestimmen",
+    "Dass sie wie Engel die Kunstwerke der Erde betrachten und zugleich auf die Urbilder des Paradieses blicken",
+    "Dass man mit ihnen die Zeit messen kann",
+    "Dass sie nur nachts existieren"
+   ],
+   "correct": 1,
+   "explanation": "Wie Engel die Wunder der Macht auf der Erde betrachten, schauen die Sterne auf die feinen Kunstwerke der Erde und erblicken dort die unvergänglichen Urbilder des Paradieses. Sie haben einen Blick für beide Welten."
+  },
+  {
+   "id": "mek-05-01",
+   "book": "mek",
+   "sec": 5,
+   "secTitle": "Fünfter Brief",
+   "page": 35,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was zieht Imam Rabbani laut Fünftem Brief allen Freuden, Ekstasen und tausend Wundern vor?",
+   "options": [
+    "Ein Leben in Zurückgezogenheit",
+    "Die Entfaltung einer einzigen Glaubenswahrheit",
+    "Die Gründung eines Ordens",
+    "Die Pilgerfahrt"
+   ],
+   "correct": 1,
+   "explanation": "Imam Rabbani sagt in seinen Mektubat, er ziehe die Entfaltung einer einzigen Glaubenswahrheit allen Freuden, Ekstasen und Wundern vor. Der Endpunkt des Sufi-Weges ist die Entfaltung der Glaubenswahrheiten."
+  },
+  {
+   "id": "mek-05-02",
+   "book": "mek",
+   "sec": 5,
+   "secTitle": "Fünfter Brief",
+   "page": 35,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Mit welchen zwei Flügeln marschiert der Naqshibandi-Orden laut Imam Rabbani voran?",
+   "options": [
+    "Mit Wissen und Askese",
+    "Mit Gedenken und Musik",
+    "Mit festem Vertrauen in die Glaubenswahrheiten und Erfüllung der religiösen Pflichten",
+    "Mit Lehre und Reisen"
+   ],
+   "correct": 2,
+   "explanation": "Ist einer der beiden Flügel fehlerhaft, ist kein Vorankommen möglich. Daraus leitet der Autor drei Stufen ab, deren erste und grösste der unmittelbare Dienst an den Glaubenswahrheiten ist."
+  },
+  {
+   "id": "mek-05-03",
+   "book": "mek",
+   "sec": 5,
+   "secTitle": "Fünfter Brief",
+   "page": 36,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Womit vergleicht der Text Mystik und Glaubenswahrheiten?",
+   "options": [
+    "Mit Wurzel und Krone eines Baumes",
+    "Mit Tag und Nacht",
+    "Mit Lehrer und Schüler",
+    "Mit Obst und Brot: Ohne Obst kann man leben, ohne Brot nicht"
+   ],
+   "correct": 3,
+   "explanation": "Ohne Glauben gelangt man nicht ins Paradies, ohne Mystik aber viele. Die Mystik gleicht dem Obst, die Glaubenswahrheiten sind wie die Grundnahrung. Deshalb würden die grossen Meister heute ihre Kraft für die Glaubenswahrheiten einsetzen."
+  },
+  {
+   "id": "mek-05-04",
+   "book": "mek",
+   "sec": 5,
+   "secTitle": "Fünfter Brief",
+   "page": 37,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche Art von Irreführung ist laut Text schwer zu beenden?",
+   "options": [
+    "Die aus Philosophie und Wissenschaft",
+    "Die aus Unwissenheit",
+    "Die aus Armut",
+    "Die aus Krankheit"
+   ],
+   "correct": 0,
+   "explanation": "Irreführung aus Unwissenheit lässt sich leicht beseitigen. Die aus Philosophie und Wissenschaft ist schwer zu beenden, weil diese Leute sich für überlegen halten. Als Gegengift nennt der Autor die Sözler."
+  },
+  {
+   "id": "mek-06-01",
+   "book": "mek",
+   "sec": 6,
+   "secTitle": "Sechster Brief",
+   "page": 38,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wie viele Fremdheiten beschreibt der Autor im Sechsten Brief?",
+   "options": [
+    "Zwei",
+    "Drei",
+    "Fünf",
+    "Sieben"
+   ],
+   "correct": 2,
+   "explanation": "Nachts allein in den Bergen sah er sich inmitten einer fünffach verschlungenen Fremde. Später verwandelte das Licht des Glaubens diese fünf Fremdheiten."
+  },
+  {
+   "id": "mek-06-02",
+   "book": "mek",
+   "sec": 6,
+   "secTitle": "Sechster Brief",
+   "page": 39,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was ist laut «Erstens» der Grund für die erste Fremde?",
+   "options": [
+    "Ein Streit mit seinen Schülern",
+    "Das Geheimnis des Alters: Die meisten Nahestehenden sind in die Zwischenwelt gegangen",
+    "Die Verbannung aus seiner Heimat",
+    "Eine schwere Krankheit"
+   ],
+   "correct": 1,
+   "explanation": "Freunde und Verwandte sind in die Zwischenwelt (Alem-i Berzah) hinübergegangen und haben ihn zurückgelassen. Daraus entstanden weitere Fremdheiten, bis er erkannte, dass seine Seele zur Reise in die Ewigkeit bereit ist.",
+   "term": "Alem-i Berzah"
+  },
+  {
+   "id": "mek-06-03",
+   "book": "mek",
+   "sec": 6,
+   "secTitle": "Sechster Brief",
+   "page": 39,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was verwandelte die fünf Fremdheiten in einen lichtvollen, vertrauten Kreis?",
+   "options": [
+    "Der Besuch seiner Schüler",
+    "Die Rückkehr in die Heimat",
+    "Das Licht des Glaubens, der Segen des Qur'an und die Freigebigkeit des Allbarmherzigen",
+    "Die Ankunft des Frühlings"
+   ],
+   "correct": 2,
+   "explanation": "Nach seinem Gebet kamen ihm das Licht des Glaubens, der Segen des Qur'an und die Freigebigkeit des Allbarmherzigen zu Hilfe und verwandelten die dunklen Fremdheiten."
+  },
+  {
+   "id": "mek-06-04",
+   "book": "mek",
+   "sec": 6,
+   "secTitle": "Sechster Brief",
+   "page": 41,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche Aussage aus den Hikem-i Ataiyye zitiert der Brief?",
+   "options": [
+    "Wer Gott gefunden hat, kann nichts verlieren; wer Ihn verloren hat, kann nichts gewinnen",
+    "Wer viel reist, lernt viel",
+    "Geduld ist der Schlüssel zur Freude",
+    "Die Welt ist ein Gasthaus"
+   ],
+   "correct": 0,
+   "explanation": "Wer Gott gefunden hat, hat alles gefunden. Wer Ihn nicht gefunden hat, für den wäre auch alles Gefundene nur Unglück. Danach versteht der Autor den Hadith über die Fremdlinge."
+  },
+  {
+   "id": "mek-06-05",
+   "book": "mek",
+   "sec": 6,
+   "secTitle": "Sechster Brief",
+   "page": 42,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche Frage stellt der Autor am Ende des Sechsten Briefes seinen Brüdern?",
+   "options": [
+    "Ob sie ihn in den Bergen besuchen wollen",
+    "Ob er nach Barla zurückkehren soll",
+    "Ob die Sözler übersetzt werden sollen",
+    "Ob die bisherigen Sözler ausreichen und seine Aufgabe beendet ist"
+   ],
+   "correct": 3,
+   "explanation": "Er fragt, ob die Sözler genügen, sodass er sie zu Stellvertretern ernennen, seine Bindungen lösen und sich in eine lichtvolle Fremde zurückziehen könnte."
+  },
+  {
+   "id": "mek-07-01",
+   "book": "mek",
+   "sec": 7,
+   "secTitle": "Siebenter Brief",
+   "page": 43,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welchen Vorwurf behandelt der Siebente Brief?",
+   "options": [
+    "Dass der Prophet keine Kinder hatte",
+    "Dass die Heirat des Propheten mit Seyneb der Befriedigung seines Verlangens gedient habe",
+    "Dass der Prophet zu viel gereist sei",
+    "Dass Khadidja reich war"
+   ],
+   "correct": 1,
+   "explanation": "Die Frage kam über Schamli Hafis: Leute des Irrweges kritisieren die Heirat mit Seyneb wie die Heuchler früherer Zeit. Der Autor weist den Vorwurf entschieden zurück."
+  },
+  {
+   "id": "mek-07-02",
+   "book": "mek",
+   "sec": 7,
+   "secTitle": "Siebenter Brief",
+   "page": 43,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welches Argument nennt der Text gegen diesen Vorwurf?",
+   "options": [
+    "Dass die Heirat nie stattgefunden habe",
+    "Dass Seyneb sehr jung war",
+    "Dass der Prophet bis zum vierzigsten Lebensjahr in Keuschheit mit einer einzigen, älteren Frau lebte und erst danach mehrere Frauen heiratete",
+    "Dass der Prophet von seiner Familie dazu gedrängt wurde"
+   ],
+   "correct": 2,
+   "explanation": "In der Zeit der stärksten Leidenschaft lebte er mit Khadidja allein. Viele Ehen erst nach dem vierzigsten Lebensjahr zeigen, dass sie anderen, wichtigen Gründen dienten."
+  },
+  {
+   "id": "mek-07-03",
+   "book": "mek",
+   "sec": 7,
+   "secTitle": "Siebenter Brief",
+   "page": 44,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welchen wichtigen Grund für die mehreren Ehen nennt der Text?",
+   "options": [
+    "Politische Bündnisse mit anderen Stämmen",
+    "Die Frauen überlieferten die Geheimnisse des Glaubens in seinem privaten Leben, beinahe die Hälfte geht auf sie zurück",
+    "Der Wunsch nach vielen Nachkommen",
+    "Die Versorgung von Witwen"
+   ],
+   "correct": 1,
+   "explanation": "Seine Taten und sein Umgang sind Massstab für das Glaubensleben. Die Sahabis überlieferten das öffentliche Verhalten, seine Frauen das private. Dafür waren mehrere Frauen verschiedenen Charakters nötig."
+  },
+  {
+   "id": "mek-07-04",
+   "book": "mek",
+   "sec": 7,
+   "secTitle": "Siebenter Brief",
+   "page": 45,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche Bestimmung begründet laut Text Sure 33, 37?",
+   "options": [
+    "Dass Gläubige die Frauen ihrer Adoptivsöhne heiraten dürfen, weil die Anrede «mein Sohn» kein Rechtsverhältnis schafft",
+    "Dass Adoptivsöhne erbberechtigt sind",
+    "Dass Ehen nur innerhalb des Stammes erlaubt sind",
+    "Dass Scheidungen verboten sind"
+   ],
+   "correct": 0,
+   "explanation": "Der Vers begründet laut Text eine allgemeine Bestimmung: Die Anrede «mein Sohn» stellt kein Rechtsverhältnis her. Der Text grenzt das ausdrücklich vom Fall des Sihar ab, bei dem ein Mann seine Frau mit seiner Mutter gleichsetzt."
+  },
+  {
+   "id": "mek-08-01",
+   "book": "mek",
+   "sec": 8,
+   "secTitle": "Achter Brief",
+   "page": 47,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welches Mittel nennt der Autor, um zu den Namen «der Erbarmer, der Allbarmherzige» vorzudringen?",
+   "options": [
+    "Viel Wissen und Lesen",
+    "Einsamkeit und Fasten",
+    "Reisen zu den Heiligen",
+    "Armut in Dankbarkeit und Ohnmacht verbunden mit Liebe"
+   ],
+   "correct": 3,
+   "explanation": "Die beiden Namen erscheinen ihm als gewaltiges Licht, das alle Bedürfnisse des Geistes stillt. Das wichtigste Mittel ist Armut in Dankbarkeit und eine Ohnmacht verbunden mit Liebe, also Dienst, Anbetung und das Bewusstsein der eigenen Bedürftigkeit (S. 47–48)."
+  },
+  {
+   "id": "mek-08-02",
+   "book": "mek",
+   "sec": 8,
+   "secTitle": "Achter Brief",
+   "page": 48,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was empfand Jakob laut dem Autor gegenüber Joseph?",
+   "options": [
+    "Leidenschaft",
+    "Weltliche Liebe",
+    "Mitgefühl, das reiner und erhabener ist als Liebe und Leidenschaft",
+    "Stolz auf seinen Sohn"
+   ],
+   "correct": 2,
+   "explanation": "Anders als die Kenner der Wahrheit, sogar als Imam Rabbani, sagt der Autor: Es war keine Liebe (muhabbet) und keine Leidenschaft (ashk), sondern Mitgefühl (shefqat). Dieses führt zum Namen Rahim."
+  },
+  {
+   "id": "mek-08-03",
+   "book": "mek",
+   "sec": 8,
+   "secTitle": "Achter Brief",
+   "page": 48,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche Geschichte zeigt laut Text die Leidenschaft als Mittel zum Namen «der Freund» (Vedud)?",
+   "options": [
+    "Die Liebe Suleichas zu Joseph",
+    "Die Liebe Jakobs zu Joseph",
+    "Die Freundschaft zwischen Abraham und Gott",
+    "Die Geschichte von Adam und Eva"
+   ],
+   "correct": 0,
+   "explanation": "Die Leidenschaft (ashk), die zum Namen Vedud führt, zeigt sich in der Liebe Suleichas zu Joseph. Der Qur'an zeigt, dass Jakobs Empfindungen höher stehen, weil Mitgefühl höher ist als Leidenschaft.",
+   "term": "ashk"
+  },
+  {
+   "id": "mek-08-04",
+   "book": "mek",
+   "sec": 8,
+   "secTitle": "Achter Brief",
+   "page": 49,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Worin unterscheidet sich laut Text Mitgefühl von Leidenschaft?",
+   "options": [
+    "Mitgefühl ist schwächer als Leidenschaft",
+    "Mitgefühl ist selbstlos und erwartet keine Gegenleistung, Leidenschaft verlangt ein Entgelt",
+    "Leidenschaft ist dauerhafter",
+    "Es gibt keinen Unterschied"
+   ],
+   "correct": 1,
+   "explanation": "Mitgefühl ist aufrichtig und unentgeltlich, wie die Liebe der Tiere zu ihren Jungen. Leidenschaft wünscht ein Entgelt und beschränkt den Blick auf den Geliebten. Mitgefühl umfasst dagegen viele Dinge und spiegelt den Namen Rahim."
   }
  ]
 }
