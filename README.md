@@ -16,7 +16,12 @@ Nach dem ersten Öffnen funktioniert die App auch offline.
 
 ## Fragen
 
-Die Fragen stehen in `questions.json`. Seitenangaben und Links folgen der Online-Külliyat des Risale-i Nur Enstitüsü (kulliyat.risaleinurenstitusu.org). Die Fragen und Erklärungen sind eigene Formulierungen; der Originaltext wird nicht wiedergegeben, sondern verlinkt.
+Die Fragen stehen in `questions.json`.
+
+- **Sözler:** Seitenangaben und Links nach der Online-Külliyat des Risale-i Nur Enstitüsü (kulliyat.risaleinurenstitusu.org).
+- **Mektubat:** Seitenangaben nach der deutschen Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln).
+
+Fragen und Erklärungen sind eigene Formulierungen. Der Text der Werke wird nicht wiedergegeben.
 
 ## Dateien
 

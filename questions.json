@@ -1,5 +1,5 @@
 {
- "version": "2026-10-22",
+ "version": "2026-10-22b",
  "questions": [
   {
    "id": "soz-01-01",
@@ -256,6 +256,245 @@
    ],
    "correct": 0,
    "explanation": "Weil Gott durch alle Dinge gibt, sollen auch wir im Namen Gottes geben, nehmen und handeln. Von denen, die nicht in seinem Namen geben, sollen wir nicht annehmen."
+  },
+  {
+   "id": "mek-01-01",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 7,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wie viele Lebensbereiche unterscheidet der Erste Brief in der Antwort auf die Frage nach Hidhir?",
+   "options": [
+    "Drei",
+    "Vier",
+    "Fünf",
+    "Sieben"
+   ],
+   "correct": 2,
+   "explanation": "Die Antwort nennt fünf Lebensbereiche und ordnet Hidhir dem zweiten zu."
+  },
+  {
+   "id": "mek-01-02",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 7,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Warum haben laut Text einige Gelehrte bezweifelt, dass Hidhir lebt?",
+   "options": [
+    "Weil es über ihn keine Überlieferungen gibt",
+    "Weil er im zweiten Lebensbereich lebt und nicht in dem unseren",
+    "Weil nur Propheten nach dem Tod weiterleben",
+    "Weil er seit langer Zeit nicht mehr gesehen wurde"
+   ],
+   "correct": 1,
+   "explanation": "Hidhir lebt, aber im zweiten Lebensbereich. Weil dieser sich von unserem Leben unterscheidet, haben einige Gelehrte daran gezweifelt."
+  },
+  {
+   "id": "mek-01-03",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was kennzeichnet den zweiten Lebensbereich, in dem Hidhir und Iljas leben?",
+   "options": [
+    "Sie können an vielen Orten gleichzeitig anwesend sein und sind nicht ständig an menschliche Lebensumstände gebunden",
+    "Sie leben ausschliesslich im Himmel mit einem Lichtkörper",
+    "Sie wissen nicht, dass sie gestorben sind",
+    "Sie sind vollständig an Essen und Trinken gebunden wie wir"
+   ],
+   "correct": 0,
+   "explanation": "In diesem Bereich sind sie bis zu einem gewissen Grad frei: an vielen Orten zugleich und nicht ständig von menschlichen Umständen abhängig. Sie können essen und trinken, müssen es aber nicht."
+  },
+  {
+   "id": "mek-01-04",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wer lebt laut Text im dritten Lebensbereich?",
+   "options": [
+    "Die Märtyrer",
+    "Hidhir und Iljas",
+    "Die Bewohner der Gräber",
+    "Idris und Isa"
+   ],
+   "correct": 3,
+   "explanation": "Idris und Isa leben im dritten Bereich, frei von menschlichen Lebensbedingungen, in einem engelgleichen Leben mit einem Körper von der Feinheit des Lichtes."
+  },
+  {
+   "id": "mek-01-05",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 9,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Mit welchem Gleichnis erklärt der Text den Unterschied zwischen dem Leben der Märtyrer und dem der übrigen Toten?",
+   "options": [
+    "Zwei Reisende in der Wüste, von denen nur einer einen Führer hat",
+    "Zwei Menschen träumen von einem paradiesgleichen Schloss; nur einer weiss, dass er träumt",
+    "Zwei Gärten, von denen nur einer bewässert wird",
+    "Zwei Diener, von denen nur einer den Befehl des Königs kennt"
+   ],
+   "correct": 1,
+   "explanation": "Wer weiss, dass er träumt, erlebt die Freuden als mangelhaft. Wer es nicht weiss, erlebt eine wirkliche Glückseligkeit. So erleben die Märtyrer ihr Leben im Zwischenreich, ohne zu wissen, dass sie gestorben sind."
+  },
+  {
+   "id": "mek-01-06",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 10,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Wie beschreibt der Text den Tod beim fünften Lebensbereich?",
+   "options": [
+    "Als Hinrichtung und Verlöschen",
+    "Als endgültiges Nichts",
+    "Als Ortswechsel, Befreiung der Seele und Entlassung aus dem Dienst",
+    "Als Strafe für alle Menschen"
+   ],
+   "correct": 2,
+   "explanation": "Der Tod ist kein Verlöschen und kein Nichts, sondern ein Ortswechsel, eine Befreiung der Seele und eine Entlassung aus dem Dienst. Zur Fortdauer des Geistes verweist der Text auf das Neunundzwanzigste Wort.",
+   "term": "beqa-i ruh"
+  },
+  {
+   "id": "mek-01-07",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 11,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was soll das Beispiel vom Tod des Saatkorns zeigen?",
+   "options": [
+    "Dass der Tod wie das Leben erschaffen und wohlgeordnet ist und neues Leben einleitet",
+    "Dass Pflanzen keine Seele haben",
+    "Dass der Tod nur Zerfall und Fäulnis ist",
+    "Dass Leben und Tod zufällig entstehen"
+   ],
+   "correct": 0,
+   "explanation": "Der Zerfall des Saatkorns sieht nur äusserlich wie Fäulnis aus. In Wahrheit ist er ein geordneter Vorgang und der Beginn der neuen Saat. Daraus folgt, dass der Tod ebenso erschaffen und geordnet ist wie das Leben."
+  },
+  {
+   "id": "mek-01-08",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 11,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welcher Gnadenaspekt des Todes wird im Text als erster genannt?",
+   "options": [
+    "Er löscht die Erinnerung an das irdische Leben aus",
+    "Er befreit von den Pflichten des Lebens und führt zum Wiedersehen mit neunundneunzig von hundert Freunden",
+    "Er gibt Gelegenheit, Versäumtes nachzuholen",
+    "Er macht alle Menschen gleich"
+   ],
+   "correct": 1,
+   "explanation": "Erstens befreit der Tod von schweren Pflichten und drückender Verantwortung und ist ein Eingangstor zum Berzah, wo man neunundneunzig von hundert Freunden wiedertrifft."
+  },
+  {
+   "id": "mek-01-09",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 12,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Womit vergleicht der Text den Tod beim vierten Gnadenaspekt?",
+   "options": [
+    "Mit einer Reise in ein fremdes Land",
+    "Mit dem Ende eines Festes",
+    "Mit dem Abend nach getaner Arbeit",
+    "Mit dem Schlaf, dessen grosser Bruder der Tod ist"
+   ],
+   "correct": 3,
+   "explanation": "Wie der Schlaf eine Erholung und Ruhepause ist, besonders für Opfer von Unfällen und Krankheiten, so ist der Tod als grosser Bruder des Schlafes ein Gnadengeschenk für die Opfer von Unglück. Für die Leute des Irrweges gilt dies laut Text nicht."
+  },
+  {
+   "id": "mek-01-10",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 13,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Welche zwei Arten von Hölle unterscheidet der Text bei der Frage, wo die Hölle ist?",
+   "options": [
+    "Eine diesseitige und eine nur gedachte",
+    "Eine für Menschen und eine für Dschinn",
+    "Eine kleine im Inneren der Erde und eine grosse, in die die kleine später eingeht",
+    "Eine zeitliche und eine nur symbolische"
+   ],
+   "correct": 2,
+   "explanation": "Die kleine Hölle liegt in der Mitte der Erde und übernimmt Aufgaben der grossen. Die grosse liegt unterhalb der jährlichen Umlaufbahn der Erde; die kleine wird später in die grosse übergehen."
+  },
+  {
+   "id": "mek-01-11",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 15,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Womit vergleicht die Zusammenfassung Paradies und Hölle?",
+   "options": [
+    "Mit zwei Früchten an einem Ast des Schöpfungsbaumes, der sich in die Ewigkeit erstreckt",
+    "Mit zwei Städten an einem Fluss",
+    "Mit Tag und Nacht",
+    "Mit zwei Seiten einer Münze"
+   ],
+   "correct": 0,
+   "explanation": "Paradies und Hölle sind wie zwei Früchte am Ende eines Zweiges des Schöpfungsbaumes. Ausserdem werden sie als zwei Speicher und zwei Becken beschrieben, in die der Strom des Seins mündet, das Schlechte unten, das Gute oben."
+  },
+  {
+   "id": "mek-01-12",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 17,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was veranschaulicht das Gleichnis vom Zimmer mit vier mannshohen Spiegeln?",
+   "options": [
+    "Dass die äussere Welt eine Täuschung ist",
+    "Dass jeder neben der gemeinsamen Welt eine eigene, vergängliche Welt hat, deren Mitte sein Leben ist",
+    "Dass Spiegel die Wahrheit verzerren",
+    "Dass Menschen ihre Umgebung nach Belieben verändern können"
+   ],
+   "correct": 1,
+   "explanation": "Neben dem wirklichen, gemeinsamen Zimmer gibt es in jedem Spiegel ein persönliches Zimmer, das man leicht verändern oder zerstören kann, das gemeinsame aber nicht. So hat jeder eine eigene Welt, deren Pfosten und Pforte sein Leben ist."
+  },
+  {
+   "id": "mek-01-13",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 17,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Unter welcher Bedingung kann sich die platonische Liebe zur Welt in eine wahre Liebe verwandeln?",
+   "options": [
+    "Wenn man sich ganz aus der Welt zurückzieht",
+    "Wenn man die Welt für beständig hält",
+    "Wenn man die Liebe auf möglichst viele Dinge verteilt",
+    "Wenn man die eigene, an das Leben gebundene Welt nicht mit der Aussenwelt verwechselt"
+   ],
+   "correct": 3,
+   "explanation": "Die Liebe wandelt sich, wenn man die Vergänglichkeit erkennt und sich den Seiten der Welt zuwendet, die Spiegel der Namen Gottes und Saatfeld für das Jenseits sind. Bedingung ist, die eigene vergängliche Welt nicht mit der Aussenwelt zu verwechseln."
+  },
+  {
+   "id": "mek-01-14",
+   "book": "mek",
+   "sec": 1,
+   "secTitle": "Erster Brief",
+   "page": 19,
+   "edition": "Deutsche Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln)",
+   "q": "Was sieht derjenige, der sich aus der Gottvergessenheit gerettet hat, im Tod und Verfall der Geschöpfe?",
+   "options": [
+    "Ein sinnloses Ende, das ihn verzweifeln lässt",
+    "Eine Strafe für die Geschöpfe",
+    "Eine Erneuerung, welche die Schönheit steigert und die Freude erneuert",
+    "Etwas, das man am besten nicht beachtet"
+   ],
+   "correct": 2,
+   "explanation": "Er sieht in den Geschöpfen Spiegel der beständigen Namen Gottes. Tod und Verfall erscheinen ihm als Erneuerung, die Schönheit steigert und Freude erneuert. So wird sein Mitleid zu Frohsinn, während der Gottvergessene in Verzweiflung bleibt."
   }
  ]
 }
