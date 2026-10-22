@@ -1,0 +1,588 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Risale-i Nur Lernstand</title>
+<meta name="description" content="Multiple-Choice-Fragen zur Risale-i Nur mit Seitenangabe, Quelle und eigenen Notizen.">
+<meta name="theme-color" content="#1f5a49" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121a17" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Risale Lernen">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,500;0,700;1,500&family=Alegreya+Sans:wght@400;500;700&display=swap">
+<style>
+/* Layout: one narrow column; summary on top, two tabs (Üben, Bücher); section details open as a bottom sheet. */
+:root {
+  --bg: #f1f3ef;
+  --surface: #fbfcfa;
+  --ink: #1d2b26;
+  --muted: #5f6d67;
+  --line: #d6ddd8;
+  --accent: #1f5a49;
+  --accent-soft: #dce9e3;
+  --gilt: #a7802e;
+  --gilt-soft: #f2e8d2;
+  --due: #b2502f;
+  --due-soft: #f6e1d8;
+  --font-display: "Alegreya", Georgia, "Times New Roman", serif;
+  --font-body: "Alegreya Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --r: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #121a17; --surface: #1a2420; --ink: #e6ece8; --muted: #9aa8a1; --line: #2d3b35;
+    --accent: #7cc2a8; --accent-soft: #23392f; --gilt: #d6b26a; --gilt-soft: #3a3120;
+    --due: #e88a68; --due-soft: #3d251c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #121a17; --surface: #1a2420; --ink: #e6ece8; --muted: #9aa8a1; --line: #2d3b35;
+  --accent: #7cc2a8; --accent-soft: #23392f; --gilt: #d6b26a; --gilt-soft: #3a3120;
+  --due: #e88a68; --due-soft: #3d251c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+:root { padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+[hidden] { display: none !important; }
+img { max-width: 100%; }
+body {
+  margin: 0; -webkit-text-size-adjust: 100%;
+  background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.45;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 48px;
+}
+.wrap { max-width: 640px; margin: 0 auto; display: flex; flex-direction: column; gap: 18px; }
+h1, h2, h3 { font-family: var(--font-display); font-weight: 700; margin: 0; text-wrap: balance; }
+h1 { font-size: 1.9rem; line-height: 1.1; }
+h2 { font-size: 1.4rem; }
+.sub { color: var(--muted); margin: 0; font-size: .92rem; }
+.label { text-transform: uppercase; letter-spacing: .08em; font-size: .72rem; font-weight: 700; color: var(--muted); }
+.num { font-variant-numeric: tabular-nums; }
+.stack { display: flex; flex-direction: column; gap: 12px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+a { color: var(--accent); text-underline-offset: 3px; }
+
+.notice { font-size: .85rem; color: var(--muted); border-left: 3px solid var(--gilt); padding: 2px 0 2px 10px; margin: 0; }
+
+.summary { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; }
+.stat { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.stat b { font-family: var(--font-display); font-size: 1.6rem; line-height: 1.1; font-variant-numeric: tabular-nums; }
+.stat.due b { color: var(--due); }
+
+.tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; }
+.tab, .chip {
+  flex: 0 0 auto; font: inherit; font-weight: 500; border: 1px solid var(--line); background: var(--surface); color: var(--ink);
+  padding: 7px 13px; border-radius: 999px; cursor: pointer; display: inline-flex; align-items: center; gap: 6px;
+}
+.tab[aria-selected="true"], .chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+button:focus-visible, textarea:focus-visible, input:focus-visible, a:focus-visible { outline: 2px solid var(--gilt); outline-offset: 2px; }
+
+button.primary, button.ghost {
+  font: inherit; font-weight: 700; border-radius: 8px; padding: 10px 14px; cursor: pointer; border: 1px solid var(--accent);
+}
+button.primary { background: var(--accent); color: var(--surface); }
+button.ghost, label.ghost { background: transparent; color: var(--accent); }
+label.filebtn { font-weight: 700; border-radius: 8px; padding: 10px 14px; cursor: pointer; border: 1px solid var(--accent); display: inline-block; }
+button.link { font: inherit; background: none; border: 0; padding: 0; color: var(--accent); cursor: pointer; text-decoration: underline; text-underline-offset: 3px; }
+button:disabled { opacity: .5; cursor: default; }
+
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.empty { color: var(--muted); background: var(--surface); border: 1px dashed var(--line); border-radius: var(--r); padding: 16px; margin: 0; }
+
+.bookrates { display: flex; flex-direction: column; gap: 8px; }
+.bookrate { display: grid; grid-template-columns: 6.5em minmax(0, 1fr) 7em; gap: 10px; align-items: center; font-size: .92rem; }
+.bookrate span:last-child { text-align: right; color: var(--muted); }
+.bar { height: 8px; background: var(--line); border-radius: 999px; overflow: hidden; }
+.bar > i { display: block; height: 100%; background: var(--accent); border-radius: 999px; transition: width .3s; }
+
+.quiz .src { color: var(--muted); font-size: .88rem; }
+.quiz .q { font-family: var(--font-display); font-size: 1.3rem; line-height: 1.3; font-weight: 700; }
+.opts { display: flex; flex-direction: column; gap: 8px; }
+.opt {
+  font: inherit; text-align: left; background: var(--bg); color: var(--ink); border: 1px solid var(--line); border-radius: 8px;
+  padding: 10px 12px; cursor: pointer; display: grid; grid-template-columns: 1.6em minmax(0, 1fr); gap: 6px;
+}
+.opt b { color: var(--muted); }
+.opt.right { background: var(--accent-soft); border-color: var(--accent); }
+.opt.wrong { background: var(--due-soft); border-color: var(--due); }
+.opt:disabled { cursor: default; opacity: 1; }
+.verdict { font-weight: 700; }
+.verdict.ok { color: var(--accent); }
+.verdict.no { color: var(--due); }
+.solution { border-top: 1px solid var(--line); padding-top: 12px; display: flex; flex-direction: column; gap: 12px; }
+.sourcebox { background: var(--gilt-soft); border-left: 3px solid var(--gilt); border-radius: 0 8px 8px 0; padding: 8px 12px; display: flex; flex-direction: column; gap: 2px; }
+.sourcebox b { font-family: var(--font-display); font-size: 1.05rem; }
+.sourcebox small { color: var(--muted); }
+.term { font-family: var(--font-display); font-style: italic; }
+
+.field { display: flex; flex-direction: column; gap: 4px; min-width: 0; }
+.field > span { font-size: .85rem; font-weight: 700; color: var(--muted); }
+input[type=date], input[type=number], textarea {
+  font: inherit; padding: 9px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); width: 100%; min-width: 0;
+}
+textarea { resize: vertical; min-height: 96px; }
+textarea.note { border-style: dashed; border-color: var(--gilt); }
+.status { font-size: .82rem; color: var(--muted); min-height: 1.1em; margin: 0; }
+
+.bookhead { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); gap: 8px; }
+.tile {
+  font: inherit; aspect-ratio: 1; max-width: 100%; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--muted);
+  cursor: pointer; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px; padding: 0; position: relative;
+}
+.tile .n { font-family: var(--font-display); font-size: 1.25rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.tile .dots { display: flex; gap: 2px; height: 5px; }
+.tile .dots i { width: 5px; height: 5px; border-radius: 50%; background: currentColor; opacity: .85; }
+.tile.read { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+.tile.due { background: var(--due-soft); border-color: var(--due); color: var(--due); }
+.tile.hasq::after { content: ""; position: absolute; top: 5px; right: 5px; width: 6px; height: 6px; border-radius: 50%; background: var(--gilt); }
+.legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: .82rem; color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 12px; height: 12px; border-radius: 3px; border: 1px solid var(--line); background: var(--surface); }
+.legend i.r { background: var(--accent-soft); border-color: var(--accent); }
+.legend i.d { background: var(--due-soft); border-color: var(--due); }
+.legend i.g { border-radius: 50%; background: var(--gilt); border-color: var(--gilt); width: 8px; height: 8px; }
+
+details.settings { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 12px 14px; }
+details.settings summary { cursor: pointer; font-weight: 700; }
+details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
+.intervals { display: flex; gap: 8px; flex-wrap: wrap; align-items: end; margin-bottom: 8px; }
+.intervals label { display: flex; flex-direction: column; gap: 2px; font-size: .8rem; color: var(--muted); }
+.intervals input { width: 74px; font-variant-numeric: tabular-nums; }
+
+.scrim { position: fixed; inset: 0; background: rgba(10, 20, 16, .45); z-index: 20; }
+.sheet {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 21; background: var(--surface); color: var(--ink);
+  border-radius: 16px 16px 0 0; max-height: 88%; overflow-y: auto; box-shadow: 0 -8px 30px rgba(0,0,0,.2);
+  padding: 18px max(18px, env(safe-area-inset-right, 0px)) calc(22px + env(safe-area-inset-bottom, 0px)) max(18px, env(safe-area-inset-left, 0px));
+}
+.sheet-in { max-width: 600px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
+.sheet-head { display: flex; justify-content: space-between; align-items: start; gap: 12px; }
+.sheet-head h3 { font-size: 1.5rem; }
+.close { font: inherit; font-size: 1.4rem; line-height: 1; background: none; border: 0; color: var(--muted); cursor: pointer; padding: 4px 8px; }
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.facts div { background: var(--bg); border-radius: 8px; padding: 8px 10px; min-width: 0; }
+.facts b { display: block; font-variant-numeric: tabular-nums; }
+.rating { display: flex; gap: 6px; flex-wrap: wrap; }
+.rating button { font: inherit; min-width: 44px; padding: 8px 0; border-radius: 8px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); cursor: pointer; font-weight: 700; }
+.rating button[aria-pressed="true"] { background: var(--gilt-soft); border-color: var(--gilt); }
+.history { display: flex; flex-wrap: wrap; gap: 6px; }
+.history span { display: inline-flex; align-items: center; gap: 4px; background: var(--bg); border: 1px solid var(--line); border-radius: 999px; padding: 3px 4px 3px 10px; font-size: .88rem; font-variant-numeric: tabular-nums; }
+.history button { font: inherit; border: 0; background: none; color: var(--muted); cursor: pointer; padding: 0 6px; font-size: 1rem; }
+.page { border-top: 1px solid var(--line); padding-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+.page .row { justify-content: space-between; }
+@media (prefers-reduced-motion: reduce) { .bar > i { transition: none; } }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="label">Lernstand</div>
+    <h1>Risale-i Nur</h1>
+    <p class="sub">Multiple-Choice-Fragen je Abschnitt, mit Seitenangabe, Link zur Quelle und deinen Notizen.</p>
+  </header>
+
+  <p class="notice" id="storageNotice" hidden></p>
+
+  <section class="summary" aria-label="Übersicht">
+    <div class="stat"><span class="label">Trefferquote</span><b id="sRate" class="num">–</b><span class="sub num" id="sRateOf">noch keine Antworten</span></div>
+    <div class="stat due"><span class="label">Fällig</span><b id="sDue" class="num">0</b><span class="sub">Fragen heute</span></div>
+    <div class="stat"><span class="label">Fragen</span><b id="sQs" class="num">0</b><span class="sub num" id="sQsSub">in der Sammlung</span></div>
+  </section>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tab-ueben" aria-selected="true">Üben</button>
+    <button class="tab" role="tab" id="tab-buecher" aria-selected="false">Bücher</button>
+  </nav>
+
+  <section id="panel-ueben" class="stack">
+    <div id="quizBox"></div>
+    <div id="practiceStart" class="card">
+      <h2>Üben</h2>
+      <div class="row" id="filterChips"></div>
+      <div class="row">
+        <button class="primary" id="startDue">Fällige Fragen</button>
+        <button class="ghost" id="startAll">Alle gemischt</button>
+      </div>
+      <p class="status" id="practiceStatus"></p>
+    </div>
+    <div class="card">
+      <span class="label">Trefferquote je Buch</span>
+      <div class="bookrates" id="bookRates"></div>
+    </div>
+  </section>
+
+  <section id="panel-buecher" class="stack" hidden>
+    <div class="row" id="bookChips"></div>
+    <div id="bookView" class="stack"></div>
+  </section>
+
+  <details class="settings">
+    <summary>Abstände für Wiederholungen</summary>
+    <p>Fragen: nach einer richtigen Antwort wird die Frage nach dieser Zahl von Tagen wieder fällig, Stufe für Stufe. Eine falsche Antwort setzt sie auf morgen zurück.</p>
+    <div class="intervals" id="qIntervals"></div>
+    <p>Lesen: nach der wievielten Lesung ein Abschnitt wieder fällig wird, in Tagen.</p>
+    <div class="intervals" id="rIntervals"></div>
+  </details>
+
+  <details class="settings">
+    <summary>Daten sichern und übertragen</summary>
+    <p>Fortschritt und Notizen liegen nur auf diesem Gerät. Mit einer Sicherung kannst du sie auf ein anderes Gerät übertragen oder vor dem Löschen des Browsers schützen.</p>
+    <div class="row">
+      <button class="primary" type="button" id="btnExport">Sicherung herunterladen</button>
+      <label class="ghost filebtn" for="importFile">Sicherung einlesen</label>
+      <input type="file" id="importFile" accept="application/json,.json" hidden>
+    </div>
+    <p class="status" id="dataStatus"></p>
+  </details>
+
+  <p class="sub" style="font-size:.8rem">Seitenangaben und Links folgen der Online-Külliyat des Risale-i Nur Enstitüsü (kulliyat.risaleinurenstitusu.org).</p>
+</div>
+
+<div class="scrim" id="scrim" hidden></div>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-labelledby="shTitle" hidden>
+  <div class="sheet-in">
+    <div class="sheet-head">
+      <div><div class="label" id="shKicker"></div><h3 id="shTitle"></h3></div>
+      <button class="close" id="shClose" aria-label="Schliessen">×</button>
+    </div>
+    <div id="shBody" class="stack"></div>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  const BOOKS = [
+    { key: "soz", name: "Sözler", unit: "Söz", count: 33 },
+    { key: "mek", name: "Mektubat", unit: "Mektup", count: 33 },
+    { key: "lem", name: "Lem'alar", unit: "Lem'a", count: 33 },
+    { key: "sua", name: "Şualar", unit: "Şua", count: 15 }
+  ];
+  const DEF_R = [7, 21, 60, 180, 365];
+  const DEF_Q = [1, 3, 7, 14, 30, 90];
+  const LETTERS = ["A", "B", "C", "D"];
+
+  let docs = {};              // private: sections, r_ progress, n_ notes, settings
+  let bank = {};              // shared question bank
+  let settings = { rIntervals: DEF_R.slice(), qIntervals: DEF_Q.slice() };
+  let bookTab = "soz", filter = "all";
+  let quiz = null;            // { ids, i, picked, right, label }
+  let sheetKey = null;
+
+  const $ = id => document.getElementById(id);
+  function h(tag, attrs, ...kids) {
+    const el = document.createElement(tag);
+    for (const k in (attrs || {})) {
+      const v = attrs[k];
+      if (k === "class") el.className = v; else if (k === "text") el.textContent = v;
+      else if (k.startsWith("on")) el[k] = v; else if (v !== null && v !== undefined && v !== false) el.setAttribute(k, v === true ? "" : v);
+    }
+    kids.flat().forEach(c => { if (c !== null && c !== undefined && c !== false) el.append(c.nodeType ? c : String(c)); });
+    return el;
+  }
+  const today = () => { const d = new Date(); return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0"); };
+  const dayNum = s => { const [y, m, d] = s.split("-").map(Number); return Math.round(Date.UTC(y, m - 1, d) / 86400000); };
+  const addDays = (s, n) => new Date((dayNum(s) + n) * 86400000).toISOString().slice(0, 10);
+  const fmt = s => { if (!s) return "–"; const [y, m, d] = s.split("-"); return d + "." + m + "." + y; };
+  const pct = (a, b) => b ? Math.round(a / b * 100) + " %" : "–";
+  const secKey = (b, n) => b + "-" + n;
+  const bookByKey = k => BOOKS.find(b => b.key === k);
+
+  // ---------- derived ----------
+  const secEntry = key => { const v = docs[key] || {}; return { reads: Array.isArray(v.reads) ? v.reads : [], rating: v.rating ?? null, notes: v.notes || "" }; };
+  const prog = id => { const v = docs["r_" + id] || {}; return { asked: v.asked || 0, right: v.right || 0, box: v.box || 0, due: v.due || null, last: v.last || null }; };
+  const allQs = () => Object.keys(bank).map(id => Object.assign({ id }, bank[id])).filter(q => Array.isArray(q.options) && q.options.length === 4);
+  const isQDue = q => { const p = prog(q.id); return !p.due || dayNum(p.due) <= dayNum(today()); };
+  const noteKey = (book, sec, page) => "n_" + book + "-" + sec + "-" + page;
+  const noteOf = (book, sec, page) => (docs[noteKey(book, sec, page)] || {}).text || "";
+  function sourceLine(q) { const b = bookByKey(q.book); return (b ? b.name : "") + ", " + (q.secTitle || (q.sec + ". " + (b ? b.unit : ""))) + ", S. " + q.page; }
+  function rateOf(qs) { let a = 0, r = 0; qs.forEach(q => { const p = prog(q.id); a += p.asked; r += p.right; }); return { a, r }; }
+  const lastRead = e => e.reads.length ? e.reads.slice().sort().at(-1) : null;
+  function readDue(e) { const l = lastRead(e); if (!l) return null; const iv = settings.rIntervals; return addDays(l, iv[Math.min(e.reads.length, iv.length) - 1]); }
+  const isReadDue = e => { const d = readDue(e); return d ? dayNum(d) <= dayNum(today()) : false; };
+
+  // ---------- storage ----------
+  let store = null;
+  const queue = [];
+  function save(id, data) { data = Object.assign({}, data, { updatedAt: new Date().toISOString() }); docs[id] = data; if (store) store.set(id, data); else queue.push(id); }
+  function saveSettings() { save("settings", settings); }
+  function notice(t) { const n = $("storageNotice"); n.textContent = t; n.hidden = false; }
+  function applySettings() {
+    const s = docs.settings; if (!s) return;
+    if (Array.isArray(s.rIntervals) && s.rIntervals.length) settings.rIntervals = s.rIntervals.map(Number);
+    else if (Array.isArray(s.intervals) && s.intervals.length) settings.rIntervals = s.intervals.map(Number);
+    if (Array.isArray(s.qIntervals) && s.qIntervals.length) settings.qIntervals = s.qIntervals.map(Number);
+  }
+
+  const K = "risale-lernstand-pwa";
+  function persist() { try { localStorage.setItem(K, JSON.stringify({ docs })); return true; } catch (e) { notice("Speichern auf diesem Gerät ist fehlgeschlagen. Ist der private Modus aktiv?"); return false; } }
+  async function initStore() {
+    try { const o = JSON.parse(localStorage.getItem(K) || "null"); if (o && o.docs) docs = Object.assign(o.docs, docs); } catch (e) {}
+    store = { set: persist }; persist();
+    applySettings(); renderAll();
+    try {
+      const res = await fetch("questions.json", { cache: "no-cache" });
+      if (!res.ok) throw new Error(res.status);
+      const data = await res.json();
+      const nb = {}; (data.questions || []).forEach(q => { if (q && q.id) nb[q.id] = q; });
+      bank = nb; bankVersion = data.version || "";
+    } catch (e) {
+      $("practiceStatus").textContent = "Die Fragen konnten nicht geladen werden. Bitte einmal mit Internetverbindung öffnen.";
+    }
+    renderAll();
+  }
+  let bankVersion = "";
+
+  // ---------- backup ----------
+  function exportData() {
+    const blob = new Blob([JSON.stringify({ app: "risale-lernstand", exported: new Date().toISOString(), docs }, null, 1)], { type: "application/json" });
+    const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = "risale-lernstand-sicherung-" + today() + ".json";
+    document.body.append(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000);
+    $("dataStatus").textContent = "Sicherung erstellt. Speichere die Datei an einem Ort, den du auch auf dem anderen Gerät erreichst.";
+  }
+  function importData(file) {
+    const st = $("dataStatus");
+    const rd = new FileReader();
+    rd.onload = () => {
+      let o; try { o = JSON.parse(rd.result); } catch (e) { st.textContent = "Die Datei ist keine gültige Sicherung."; return; }
+      if (!o || o.app !== "risale-lernstand" || typeof o.docs !== "object") { st.textContent = "Die Datei ist keine Sicherung dieser App."; return; }
+      let added = 0, updated = 0;
+      for (const k in o.docs) {
+        const inc = o.docs[k] || {}, cur = docs[k];
+        if (!cur) { docs[k] = inc; added++; }
+        else if ((inc.updatedAt || "") > (cur.updatedAt || "")) { docs[k] = inc; updated++; }
+      }
+      persist(); applySettings(); renderAll();
+      st.textContent = "Übernommen: " + added + " neue und " + updated + " aktualisierte Einträge. Bei Einträgen, die auf beiden Geräten geändert wurden, gilt der neuere Stand.";
+    };
+    rd.onerror = () => { st.textContent = "Die Datei konnte nicht gelesen werden."; };
+    rd.readAsText(file);
+  }
+
+  // ---------- render ----------
+  const typing = () => document.activeElement && document.activeElement.classList && document.activeElement.classList.contains("note");
+  function renderAll() {
+    renderSummary(); renderPracticeStart(); renderBooks(); renderIntervals();
+    if (!typing()) { renderQuiz(); if (sheetKey) fillSheet(); }
+  }
+
+  function renderSummary() {
+    const qs = allQs(), { a, r } = rateOf(qs);
+    $("sRate").textContent = pct(r, a);
+    $("sRateOf").textContent = a ? r + " von " + a + " richtig" : "noch keine Antworten";
+    $("sDue").textContent = qs.filter(isQDue).length;
+    $("sQs").textContent = qs.length;
+    const secs = new Set(qs.map(q => q.book + "-" + q.sec)).size;
+    $("sQsSub").textContent = secs ? "aus " + secs + (secs === 1 ? " Abschnitt" : " Abschnitten") : "in der Sammlung";
+  }
+
+  const filteredQs = () => allQs().filter(q => filter === "all" || q.book === filter);
+
+  function renderPracticeStart() {
+    const chips = $("filterChips"); chips.innerHTML = "";
+    [{ key: "all", name: "Alle Bücher" }].concat(BOOKS).forEach(b => chips.append(h("button", { class: "chip", "aria-pressed": String(filter === b.key), text: b.name, onclick: () => { filter = b.key; renderAll(); } })));
+    const qs = filteredQs(), due = qs.filter(isQDue);
+    $("startDue").textContent = "Fällige Fragen (" + due.length + ")";
+    $("startDue").disabled = !due.length; $("startAll").disabled = !qs.length;
+    if (Object.keys(bank).length || !$("practiceStatus").textContent.startsWith("Die Fragensammlung"))
+      $("practiceStatus").textContent = qs.length ? (due.length ? "" : "Für diese Auswahl ist heute nichts fällig.") : "Für dieses Buch gibt es noch keine Fragen.";
+    const br = $("bookRates"); br.innerHTML = "";
+    BOOKS.forEach(b => {
+      const bq = allQs().filter(q => q.book === b.key), { a, r } = rateOf(bq);
+      const bar = h("div", { class: "bar" }, h("i")); bar.firstChild.style.width = (a ? r / a * 100 : 0) + "%";
+      br.append(h("div", { class: "bookrate" }, h("span", { text: b.name }), bar, h("span", { class: "num", text: a ? pct(r, a) + " · " + bq.length + " Fr." : bq.length + " Fragen" })));
+    });
+    $("practiceStart").hidden = !!quiz;
+  }
+
+  function startQuiz(qs, label) {
+    const ids = qs.map(q => [Math.random(), q.id]).sort((x, y) => x[0] - y[0]).map(x => x[1]).slice(0, 20);
+    if (!ids.length) return;
+    quiz = { ids, i: 0, picked: null, right: 0, label };
+    setTab("ueben"); renderAll(); $("quizBox").scrollIntoView({ block: "start", behavior: "smooth" });
+  }
+  $("startDue").onclick = () => startQuiz(filteredQs().filter(isQDue));
+  $("startAll").onclick = () => startQuiz(filteredQs());
+
+  function answer(idx) {
+    const id = quiz.ids[quiz.i], q = bank[id]; if (!q || quiz.picked !== null) return;
+    quiz.picked = idx;
+    const ok = idx === q.correct; if (ok) quiz.right++;
+    const p = prog(id);
+    const box = ok ? Math.min(p.box + 1, settings.qIntervals.length) : 0;
+    const due = ok ? addDays(today(), settings.qIntervals[box - 1]) : addDays(today(), 1);
+    save("r_" + id, { asked: p.asked + 1, right: p.right + (ok ? 1 : 0), box, due, last: today() });
+    renderAll();
+  }
+
+  // note editor bound to a page; autosaves
+  let noteTimer = null, noteFlush = null;
+  function flushNote() { clearTimeout(noteTimer); noteTimer = null; if (noteFlush) { const f = noteFlush; noteFlush = null; f(); } }
+  function noteEditor(book, sec, page, id) {
+    const ta = h("textarea", { class: "note", id, placeholder: "Was nimmst du aus dieser Seite mit? Kernaussage in eigenen Worten, Fragen, Bezüge" });
+    ta.value = noteOf(book, sec, page);
+    const st = h("p", { class: "status" });
+    ta.oninput = () => { st.textContent = ""; noteFlush = () => { save(noteKey(book, sec, page), { text: ta.value, book, sec: Number(sec), page: Number(page) }); st.textContent = "Notiz gespeichert"; }; clearTimeout(noteTimer); noteTimer = setTimeout(flushNote, 900); };
+    ta.onblur = flushNote;
+    return [ta, st];
+  }
+
+  function renderQuiz() {
+    const box = $("quizBox"); box.innerHTML = "";
+    if (!quiz) return;
+    if (quiz.i >= quiz.ids.length) {
+      box.append(h("div", { class: "card" },
+        h("span", { class: "label", text: "Ergebnis" + (quiz.label ? " · " + quiz.label : "") }),
+        h("h2", { class: "num", text: quiz.right + " von " + quiz.ids.length + " richtig" }),
+        h("p", { class: "sub", text: "Falsch beantwortete Fragen kommen morgen wieder." }),
+        h("div", { class: "row" }, h("button", { class: "primary", text: "Fertig", onclick: () => { quiz = null; renderAll(); } }))));
+      return;
+    }
+    const id = quiz.ids[quiz.i], q = bank[id];
+    if (!q) { quiz.ids.splice(quiz.i, 1); return renderQuiz(); }
+    const card = h("div", { class: "card quiz" },
+      h("div", { class: "row", style: "justify-content:space-between" },
+        h("span", { class: "label num", text: "Frage " + (quiz.i + 1) + " von " + quiz.ids.length + (quiz.label ? " · " + quiz.label : "") }),
+        h("button", { class: "link", text: "Beenden", onclick: () => { flushNote(); quiz = null; renderAll(); } })),
+      h("div", { class: "src", text: sourceLine(q) }),
+      h("div", { class: "q", text: q.q }));
+    const opts = h("div", { class: "opts" });
+    q.options.forEach((o, i) => {
+      let cls = "opt";
+      if (quiz.picked !== null) { if (i === q.correct) cls += " right"; else if (i === quiz.picked) cls += " wrong"; }
+      opts.append(h("button", { class: cls, disabled: quiz.picked !== null, onclick: () => answer(i) }, h("b", { text: LETTERS[i] }), h("span", { text: o })));
+    });
+    card.append(opts);
+    if (quiz.picked !== null) {
+      const ok = quiz.picked === q.correct;
+      const [ta, st] = noteEditor(q.book, q.sec, q.page, "quizNote");
+      card.append(h("div", { class: "solution" },
+        h("div", { class: "verdict " + (ok ? "ok" : "no"), text: ok ? "Richtig." : "Nicht richtig. Richtig ist " + LETTERS[q.correct] + "." }),
+        h("div", {}, h("span", { class: "label", text: "Musterlösung" }),
+          h("p", { style: "margin:4px 0 0" }, h("b", { text: LETTERS[q.correct] + ") " + q.options[q.correct] }), ". " + (q.explanation || "")),
+          q.term ? h("p", { class: "sub", style: "margin-top:4px" }, "Stichwort im Text: ", h("span", { class: "term", text: q.term })) : null),
+        h("div", { class: "sourcebox" },
+          h("span", { class: "label", text: "Quelle" }),
+          h("b", { text: sourceLine(q) }),
+          q.url ? h("a", { href: q.url, target: "_blank", rel: "noopener", text: "Seite " + q.page + " online lesen" }) : null,
+          q.edition ? h("small", { text: q.edition }) : null),
+        h("label", { class: "field" }, h("span", { text: "Deine Notiz zu Seite " + q.page }), ta, st),
+        h("div", { class: "row" },
+          h("button", { class: "primary", text: quiz.i + 1 < quiz.ids.length ? "Nächste Frage" : "Ergebnis anzeigen", onclick: () => { flushNote(); quiz.i++; quiz.picked = null; renderAll(); } }))));
+    }
+    box.append(card);
+  }
+
+  function renderBooks() {
+    const chips = $("bookChips"); chips.innerHTML = "";
+    BOOKS.forEach(b => chips.append(h("button", { class: "chip", "aria-pressed": String(bookTab === b.key), text: b.name, onclick: () => { bookTab = b.key; renderBooks(); } })));
+    const b = bookByKey(bookTab), view = $("bookView"); view.innerHTML = "";
+    let read = 0; for (let n = 1; n <= b.count; n++) if (secEntry(secKey(b.key, n)).reads.length) read++;
+    const bar = h("div", { class: "bar" }, h("i")); bar.firstChild.style.width = (read / b.count * 100) + "%";
+    const grid = h("div", { class: "grid" });
+    const qs = allQs();
+    for (let n = 1; n <= b.count; n++) {
+      const key = secKey(b.key, n), e = secEntry(key), due = isReadDue(e);
+      const nq = qs.filter(q => q.book === b.key && Number(q.sec) === n).length;
+      const dots = h("span", { class: "dots" }); for (let i = 0; i < Math.min(e.reads.length, 5); i++) dots.append(h("i"));
+      grid.append(h("button", { class: "tile" + (due ? " due" : e.reads.length ? " read" : "") + (nq ? " hasq" : ""),
+        "aria-label": n + ". " + b.unit + ", " + (e.reads.length ? e.reads.length + " mal gelesen" : "offen") + (due ? ", Wiederholung fällig" : "") + (nq ? ", " + nq + " Fragen" : ""),
+        onclick: () => openSheet(key) }, h("span", { class: "n", text: n }), dots));
+    }
+    view.append(h("div", { class: "card" },
+      h("div", { class: "bookhead" }, h("h2", { text: b.name }), h("span", { class: "sub num", text: read + " von " + b.count + " gelesen" })),
+      bar, grid,
+      h("div", { class: "legend" }, h("span", {}, h("i"), "offen"), h("span", {}, h("i", { class: "r" }), "gelesen"), h("span", {}, h("i", { class: "d" }), "Lesen fällig"), h("span", {}, h("i", { class: "g" }), "Fragen vorhanden"))));
+  }
+
+  function renderIntervals() {
+    const mk = (boxId, defs, labelFn, keyName) => {
+      const box = $(boxId); if (box.contains(document.activeElement)) return; box.innerHTML = "";
+      defs.forEach((d, i) => {
+        const inp = h("input", { type: "number", min: "1", id: keyName + i, value: settings[keyName][i] ?? d });
+        inp.onchange = () => { const v = Math.max(1, parseInt(inp.value, 10) || d); inp.value = v; while (settings[keyName].length < defs.length) settings[keyName].push(defs[settings[keyName].length]); settings[keyName][i] = v; saveSettings(); renderAll(); };
+        box.append(h("label", {}, labelFn(i), inp));
+      });
+    };
+    mk("qIntervals", DEF_Q, i => "Stufe " + (i + 1), "qIntervals");
+    mk("rIntervals", DEF_R, i => (i < 4 ? "nach " + (i + 1) + "." : "ab 5.") + " Lesung", "rIntervals");
+  }
+
+  function setTab(t) { ["ueben", "buecher"].forEach(k => { $("tab-" + k).setAttribute("aria-selected", String(k === t)); $("panel-" + k).hidden = k !== t; }); }
+  ["ueben", "buecher"].forEach(k => $("tab-" + k).onclick = () => setTab(k));
+
+  // ---------- section sheet ----------
+  function openSheet(key) { flushNote(); sheetKey = key; fillSheet(); $("scrim").hidden = false; $("sheet").hidden = false; $("shClose").focus(); }
+  function closeSheet() { flushNote(); sheetKey = null; $("scrim").hidden = true; $("sheet").hidden = true; }
+  $("shClose").onclick = closeSheet; $("scrim").onclick = closeSheet;
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && sheetKey) closeSheet(); });
+
+  function fillSheet() {
+    const key = sheetKey, [bk, n] = key.split("-"), b = bookByKey(bk), e = secEntry(key);
+    const qs = allQs().filter(q => q.book === bk && Number(q.sec) === Number(n));
+    const title = qs[0] && qs[0].secTitle ? qs[0].secTitle : n + ". " + b.unit;
+    $("shKicker").textContent = b.name; $("shTitle").textContent = title;
+    const body = $("shBody"); body.innerHTML = "";
+    const d = readDue(e);
+    const dueB = h("b", { text: d ? fmt(d) : "–" }); if (isReadDue(e)) dueB.style.color = "var(--due)";
+    body.append(h("div", { class: "facts" },
+      h("div", {}, h("span", { class: "label", text: "Gelesen" }), h("b", { text: e.reads.length ? e.reads.length + "×" : "noch nicht" })),
+      h("div", {}, h("span", { class: "label", text: "Zuletzt" }), h("b", { text: fmt(lastRead(e)) })),
+      h("div", {}, h("span", { class: "label", text: "Wieder lesen" }), dueB)));
+
+    const { a, r } = rateOf(qs);
+    body.append(h("div", { class: "stack", style: "gap:8px" },
+      h("span", { class: "label", text: "Fragen" }),
+      h("span", { class: "sub num", text: qs.length ? qs.length + " Fragen, Trefferquote " + pct(r, a) : "Zu diesem Abschnitt gibt es noch keine Fragen." }),
+      qs.length ? h("div", { class: "row" }, h("button", { class: "primary", text: "Diesen Abschnitt üben", onclick: () => { closeSheet(); startQuiz(qs, title); } })) : null));
+
+    const date = h("input", { type: "date", id: "shDate", value: today(), max: today(), "aria-label": "Datum der Lesung" });
+    const msg = h("p", { class: "status" });
+    body.append(h("div", {}, h("span", { class: "label", text: "Lesung eintragen" }),
+      h("div", { class: "row", style: "margin-top:6px" }, h("div", { style: "flex:0 1 11em" }, date), h("button", { class: "ghost", text: "Als gelesen eintragen", onclick: () => {
+        const dt = date.value || today(), en = secEntry(key);
+        if (en.reads.includes(dt)) { msg.textContent = "Für den " + fmt(dt) + " ist schon eine Lesung eingetragen."; return; }
+        en.reads.push(dt); save(key, en); renderAll();
+      } })), msg));
+
+    const rate = h("div", { class: "rating", style: "margin-top:6px" });
+    for (let i = 1; i <= 5; i++) rate.append(h("button", { text: i, "aria-pressed": String(e.rating === i), "aria-label": "Verständnis " + i + " von 5", onclick: () => { const en = secEntry(key); en.rating = en.rating === i ? null : i; save(key, en); renderAll(); } }));
+    body.append(h("div", {}, h("span", { class: "label", text: "Selbsteinschätzung" }), rate, h("p", { class: "status", text: "1 = kaum verstanden, 5 = könnte es erklären" })));
+
+    const pages = [...new Set(qs.map(q => Number(q.page)))].sort((x, y) => x - y);
+    if (pages.length) {
+      const wrapP = h("div", { class: "stack", style: "gap:10px" }, h("span", { class: "label", text: "Seiten und deine Notizen" }));
+      pages.forEach(pg => {
+        const q0 = qs.find(q => Number(q.page) === pg);
+        const [ta, st] = noteEditor(bk, n, pg, "secNote" + pg);
+        wrapP.append(h("div", { class: "page" },
+          h("div", { class: "row" }, h("b", { class: "num", text: "Seite " + pg }), q0 && q0.url ? h("a", { href: q0.url, target: "_blank", rel: "noopener", text: "online lesen" }) : null),
+          ta, st));
+      });
+      body.append(wrapP);
+    }
+
+    const hist = h("div", { class: "history", style: "margin-top:6px" });
+    if (!e.reads.length) hist.append(h("span", { style: "padding-right:10px", text: "noch keine" }));
+    e.reads.slice().sort().reverse().forEach(dt => hist.append(h("span", {}, fmt(dt), h("button", { text: "×", "aria-label": "Lesung vom " + fmt(dt) + " entfernen", onclick: () => { const en = secEntry(key); en.reads.splice(en.reads.indexOf(dt), 1); save(key, en); renderAll(); } }))));
+    body.append(h("div", {}, h("span", { class: "label", text: "Lesungen" }), hist));
+    if (e.notes.trim()) body.append(h("div", {}, h("span", { class: "label", text: "Frühere Notiz zum Abschnitt" }), h("p", { class: "sub", style: "white-space:pre-wrap;margin-top:4px", text: e.notes })));
+  }
+
+  $("btnExport").onclick = exportData;
+  $("importFile").onchange = e => { const f = e.target.files && e.target.files[0]; if (f) importData(f); e.target.value = ""; };
+  if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+  renderAll();
+  initStore();
+})();
+</script>
+</body>
+</html>
