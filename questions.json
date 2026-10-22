@@ -1,5 +1,5 @@
 {
- "version": "2026-10-22c",
+ "version": "2026-10-22d",
  "questions": [
   {
    "id": "soz-01-01",
@@ -272,7 +272,9 @@
     "Sieben"
    ],
    "correct": 2,
-   "explanation": "Die Antwort nennt fünf Lebensbereiche und ordnet Hidhir dem zweiten zu."
+   "explanation": "Die Antwort nennt fünf Lebensbereiche und ordnet Hidhir dem zweiten zu.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_2308",
+   "appLink": true
   },
   {
    "id": "mek-01-02",
@@ -289,7 +291,9 @@
     "Weil er seit langer Zeit nicht mehr gesehen wurde"
    ],
    "correct": 1,
-   "explanation": "Hidhir lebt, aber im zweiten Lebensbereich. Weil dieser sich von unserem Leben unterscheidet, haben einige Gelehrte daran gezweifelt."
+   "explanation": "Hidhir lebt, aber im zweiten Lebensbereich. Weil dieser sich von unserem Leben unterscheidet, haben einige Gelehrte daran gezweifelt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_2308",
+   "appLink": true
   },
   {
    "id": "mek-01-03",
@@ -306,7 +310,9 @@
     "Sie sind vollständig an Essen und Trinken gebunden wie wir"
    ],
    "correct": 0,
-   "explanation": "In diesem Bereich sind sie bis zu einem gewissen Grad frei: an vielen Orten zugleich und nicht ständig von menschlichen Umständen abhängig. Sie können essen und trinken, müssen es aber nicht."
+   "explanation": "In diesem Bereich sind sie bis zu einem gewissen Grad frei: an vielen Orten zugleich und nicht ständig von menschlichen Umständen abhängig. Sie können essen und trinken, müssen es aber nicht.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_3621",
+   "appLink": true
   },
   {
    "id": "mek-01-04",
@@ -323,7 +329,9 @@
     "Idris und Isa"
    ],
    "correct": 3,
-   "explanation": "Idris und Isa leben im dritten Bereich, frei von menschlichen Lebensbedingungen, in einem engelgleichen Leben mit einem Körper von der Feinheit des Lichtes."
+   "explanation": "Idris und Isa leben im dritten Bereich, frei von menschlichen Lebensbedingungen, in einem engelgleichen Leben mit einem Körper von der Feinheit des Lichtes.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_3621",
+   "appLink": true
   },
   {
    "id": "mek-01-05",
@@ -340,7 +348,9 @@
     "Zwei Diener, von denen nur einer den Befehl des Königs kennt"
    ],
    "correct": 1,
-   "explanation": "Wer weiss, dass er träumt, erlebt die Freuden als mangelhaft. Wer es nicht weiss, erlebt eine wirkliche Glückseligkeit. So erleben die Märtyrer ihr Leben im Zwischenreich, ohne zu wissen, dass sie gestorben sind."
+   "explanation": "Wer weiss, dass er träumt, erlebt die Freuden als mangelhaft. Wer es nicht weiss, erlebt eine wirkliche Glückseligkeit. So erleben die Märtyrer ihr Leben im Zwischenreich, ohne zu wissen, dass sie gestorben sind.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_5637",
+   "appLink": true
   },
   {
    "id": "mek-01-06",
@@ -358,7 +368,9 @@
    ],
    "correct": 2,
    "explanation": "Der Tod ist kein Verlöschen und kein Nichts, sondern ein Ortswechsel, eine Befreiung der Seele und eine Entlassung aus dem Dienst. Zur Fortdauer des Geistes verweist der Text auf das Neunundzwanzigste Wort.",
-   "term": "beqa-i ruh"
+   "term": "beqa-i ruh",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_7587",
+   "appLink": true
   },
   {
    "id": "mek-01-07",
@@ -375,7 +387,9 @@
     "Dass Leben und Tod zufällig entstehen"
    ],
    "correct": 0,
-   "explanation": "Der Zerfall des Saatkorns sieht nur äusserlich wie Fäulnis aus. In Wahrheit ist er ein geordneter Vorgang und der Beginn der neuen Saat. Daraus folgt, dass der Tod ebenso erschaffen und geordnet ist wie das Leben."
+   "explanation": "Der Zerfall des Saatkorns sieht nur äusserlich wie Fäulnis aus. In Wahrheit ist er ein geordneter Vorgang und der Beginn der neuen Saat. Daraus folgt, dass der Tod ebenso erschaffen und geordnet ist wie das Leben.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_9439",
+   "appLink": true
   },
   {
    "id": "mek-01-08",
@@ -392,7 +406,9 @@
     "Er macht alle Menschen gleich"
    ],
    "correct": 1,
-   "explanation": "Erstens befreit der Tod von schweren Pflichten und drückender Verantwortung und ist ein Eingangstor zum Berzah, wo man neunundneunzig von hundert Freunden wiedertrifft."
+   "explanation": "Erstens befreit der Tod von schweren Pflichten und drückender Verantwortung und ist ein Eingangstor zum Berzah, wo man neunundneunzig von hundert Freunden wiedertrifft.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_9439",
+   "appLink": true
   },
   {
    "id": "mek-01-09",
@@ -409,7 +425,9 @@
     "Mit dem Schlaf, dessen grosser Bruder der Tod ist"
    ],
    "correct": 3,
-   "explanation": "Wie der Schlaf eine Erholung und Ruhepause ist, besonders für Opfer von Unfällen und Krankheiten, so ist der Tod als grosser Bruder des Schlafes ein Gnadengeschenk für die Opfer von Unglück. Für die Leute des Irrweges gilt dies laut Text nicht."
+   "explanation": "Wie der Schlaf eine Erholung und Ruhepause ist, besonders für Opfer von Unfällen und Krankheiten, so ist der Tod als grosser Bruder des Schlafes ein Gnadengeschenk für die Opfer von Unglück. Für die Leute des Irrweges gilt dies laut Text nicht.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_11274",
+   "appLink": true
   },
   {
    "id": "mek-01-10",
@@ -426,7 +444,9 @@
     "Eine zeitliche und eine nur symbolische"
    ],
    "correct": 2,
-   "explanation": "Die kleine Hölle liegt in der Mitte der Erde und übernimmt Aufgaben der grossen. Die grosse liegt unterhalb der jährlichen Umlaufbahn der Erde; die kleine wird später in die grosse übergehen."
+   "explanation": "Die kleine Hölle liegt in der Mitte der Erde und übernimmt Aufgaben der grossen. Die grosse liegt unterhalb der jährlichen Umlaufbahn der Erde; die kleine wird später in die grosse übergehen.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_13162",
+   "appLink": true
   },
   {
    "id": "mek-01-11",
@@ -443,7 +463,9 @@
     "Mit zwei Seiten einer Münze"
    ],
    "correct": 0,
-   "explanation": "Paradies und Hölle sind wie zwei Früchte am Ende eines Zweiges des Schöpfungsbaumes. Ausserdem werden sie als zwei Speicher und zwei Becken beschrieben, in die der Strom des Seins mündet, das Schlechte unten, das Gute oben."
+   "explanation": "Paradies und Hölle sind wie zwei Früchte am Ende eines Zweiges des Schöpfungsbaumes. Ausserdem werden sie als zwei Speicher und zwei Becken beschrieben, in die der Strom des Seins mündet, das Schlechte unten, das Gute oben.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_17124",
+   "appLink": true
   },
   {
    "id": "mek-01-12",
@@ -460,7 +482,9 @@
     "Dass Menschen ihre Umgebung nach Belieben verändern können"
    ],
    "correct": 1,
-   "explanation": "Neben dem wirklichen, gemeinsamen Zimmer gibt es in jedem Spiegel ein persönliches Zimmer, das man leicht verändern oder zerstören kann, das gemeinsame aber nicht. So hat jeder eine eigene Welt, deren Pfosten und Pforte sein Leben ist."
+   "explanation": "Neben dem wirklichen, gemeinsamen Zimmer gibt es in jedem Spiegel ein persönliches Zimmer, das man leicht verändern oder zerstören kann, das gemeinsame aber nicht. So hat jeder eine eigene Welt, deren Pfosten und Pforte sein Leben ist.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_21146",
+   "appLink": true
   },
   {
    "id": "mek-01-13",
@@ -477,7 +501,9 @@
     "Wenn man die eigene, an das Leben gebundene Welt nicht mit der Aussenwelt verwechselt"
    ],
    "correct": 3,
-   "explanation": "Die Liebe wandelt sich, wenn man die Vergänglichkeit erkennt und sich den Seiten der Welt zuwendet, die Spiegel der Namen Gottes und Saatfeld für das Jenseits sind. Bedingung ist, die eigene vergängliche Welt nicht mit der Aussenwelt zu verwechseln."
+   "explanation": "Die Liebe wandelt sich, wenn man die Vergänglichkeit erkennt und sich den Seiten der Welt zuwendet, die Spiegel der Namen Gottes und Saatfeld für das Jenseits sind. Bedingung ist, die eigene vergängliche Welt nicht mit der Aussenwelt zu verwechseln.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_21146",
+   "appLink": true
   },
   {
    "id": "mek-01-14",
@@ -494,7 +520,9 @@
     "Etwas, das man am besten nicht beachtet"
    ],
    "correct": 2,
-   "explanation": "Er sieht in den Geschöpfen Spiegel der beständigen Namen Gottes. Tod und Verfall erscheinen ihm als Erneuerung, die Schönheit steigert und Freude erneuert. So wird sein Mitleid zu Frohsinn, während der Gottvergessene in Verzweiflung bleibt."
+   "explanation": "Er sieht in den Geschöpfen Spiegel der beständigen Namen Gottes. Tod und Verfall erscheinen ihm als Erneuerung, die Schönheit steigert und Freude erneuert. So wird sein Mitleid zu Frohsinn, während der Gottvergessene in Verzweiflung bleibt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_24638",
+   "appLink": true
   },
   {
    "id": "mek-02-01",
@@ -511,7 +539,9 @@
     "Weil er sein Prinzip grundsätzlich aufgegeben hat"
    ],
    "correct": 1,
-   "explanation": "Er würde Geschenke weder von seinem Bruder Abdulmecid noch von seinem Neffen Abdurrahman annehmen. Weil der Schüler weiter fortgeschritten ist und ihm innerlich näher steht, lehnt er dessen Geschenk dieses Mal nicht ab."
+   "explanation": "Er würde Geschenke weder von seinem Bruder Abdulmecid noch von seinem Neffen Abdurrahman annehmen. Weil der Schüler weiter fortgeschritten ist und ihm innerlich näher steht, lehnt er dessen Geschenk dieses Mal nicht ab.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_25821",
+   "appLink": true
   },
   {
    "id": "mek-02-02",
@@ -528,7 +558,9 @@
     "Auf Misstrauen gegenüber seinen Schülern"
    ],
    "correct": 2,
-   "explanation": "Der Alte Said nahm niemals Vergünstigungen an und zog es eher vor zu sterben. Der Autor betont, dass dies keine Askese und keine erkünstelte Selbstbeschränkung ist, sondern auf vier oder fünf ernsthaften Gründen beruht."
+   "explanation": "Der Alte Said nahm niemals Vergünstigungen an und zog es eher vor zu sterben. Der Autor betont, dass dies keine Askese und keine erkünstelte Selbstbeschränkung ist, sondern auf vier oder fünf ernsthaften Gründen beruht.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_25821",
+   "appLink": true
   },
   {
    "id": "mek-02-03",
@@ -545,7 +577,9 @@
     "Dass man den Propheten nicht folgen muss"
    ],
    "correct": 0,
-   "explanation": "Wir sind verantwortlich, den Propheten in der Verbreitung der Wahrheit zu folgen. Sie haben gesagt, ihr Lohn komme allein von Gott, und so ihre Unabhängigkeit und Zurückhaltung gegenüber den Menschen gezeigt."
+   "explanation": "Wir sind verantwortlich, den Propheten in der Verbreitung der Wahrheit zu folgen. Sie haben gesagt, ihr Lohn komme allein von Gott, und so ihre Unabhängigkeit und Zurückhaltung gegenüber den Menschen gezeigt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_27385",
+   "appLink": true
   },
   {
    "id": "mek-02-04",
@@ -563,7 +597,9 @@
    ],
    "correct": 3,
    "explanation": "Gottvertrauen, Bescheidenheit und Sparsamkeit sind ein unerschöpflicher Schatz. Er will keine Güter von Menschen annehmen, um sich diese Goldmine nicht zu versperren, und dankt dem Versorger, dass er nie in eine solche Notlage kam.",
-   "term": "Rezzaq"
+   "term": "Rezzaq",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_27385",
+   "appLink": true
   },
   {
    "id": "mek-02-05",
@@ -581,7 +617,9 @@
    ],
    "correct": 0,
    "explanation": "Der Sechste und wichtigste Grund ist die Aussage von Ibn-i Hacer. Hielte er sich selbst für gerecht, wäre das ein Zeichen von Stolz; weiss er, dass er nicht zu den Gerechten zählt, darf er solche Güter nicht annehmen.",
-   "term": "haram"
+   "term": "haram",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_29092",
+   "appLink": true
   },
   {
    "id": "mek-03-01",
@@ -598,7 +636,9 @@
     "Von einem Schiff aus"
    ],
    "correct": 2,
-   "explanation": "Er betrachtete eines Nachts aus der Höhe seines Baumhauses im Gipfel einer Zeder das Antlitz des Himmels und erkannte darin den Schwur aus Sure 81, 15–16."
+   "explanation": "Er betrachtete eines Nachts aus der Höhe seines Baumhauses im Gipfel einer Zeder das Antlitz des Himmels und erkannte darin den Schwur aus Sure 81, 15–16.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_31442",
+   "appLink": true
   },
   {
    "id": "mek-03-02",
@@ -615,7 +655,9 @@
     "Die Grenzen des menschlichen Wissens"
    ],
    "correct": 1,
-   "explanation": "Der Vers über die Planeten zeigt das Licht des Wunders und das Geheimnis der Beredsamkeit. Die Planeten bilden mit ihren Bewegungen immer neue kunstvolle Muster am Himmel."
+   "explanation": "Der Vers über die Planeten zeigt das Licht des Wunders und das Geheimnis der Beredsamkeit. Die Planeten bilden mit ihren Bewegungen immer neue kunstvolle Muster am Himmel.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_31442",
+   "appLink": true
   },
   {
    "id": "mek-03-03",
@@ -632,7 +674,9 @@
     "Dass der, der ihn so gemacht hat, alles vermag"
    ],
    "correct": 3,
-   "explanation": "Bestimmung, Bahn und Stellung des Mondes zu Erde und Sonne sind so präzise, dass für den Allmächtigen nichts schwer sein kann. Darin unterrichtet der Mond alle Wesen mit Bewusstsein."
+   "explanation": "Bestimmung, Bahn und Stellung des Mondes zu Erde und Sonne sind so präzise, dass für den Allmächtigen nichts schwer sein kann. Darin unterrichtet der Mond alle Wesen mit Bewusstsein.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_33044",
+   "appLink": true
   },
   {
    "id": "mek-03-04",
@@ -649,7 +693,9 @@
     "Mit einer Uhr"
    ],
    "correct": 0,
-   "explanation": "Die Erde gleicht einem Schiff oder Reittier im Dienst des Menschen. Der Autor sah sich wie auf einem riesigen Schiff, das mit grosser Geschwindigkeit durch das All eilt."
+   "explanation": "Die Erde gleicht einem Schiff oder Reittier im Dienst des Menschen. Der Autor sah sich wie auf einem riesigen Schiff, das mit grosser Geschwindigkeit durch das All eilt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_34754",
+   "appLink": true
   },
   {
    "id": "mek-03-05",
@@ -666,7 +712,9 @@
     "Sie werden vom Wind getragen"
    ],
    "correct": 2,
-   "explanation": "Wie Völker auf grossen Schiffen zu einem Kongress fahren, lädt die Erde ihre Bewohner ein, bringt sie zum Ort der Auferstehung und lädt sie dort aus. Dazu nennt der Text, dass die Erde ihre lange Reise in einem Jahr zurücklegt."
+   "explanation": "Wie Völker auf grossen Schiffen zu einem Kongress fahren, lädt die Erde ihre Bewohner ein, bringt sie zum Ort der Auferstehung und lädt sie dort aus. Dazu nennt der Text, dass die Erde ihre lange Reise in einem Jahr zurücklegt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_36376",
+   "appLink": true
   },
   {
    "id": "mek-03-06",
@@ -683,7 +731,9 @@
     "Sie verlieren ihre Ordnung"
    ],
    "correct": 1,
-   "explanation": "Eine einzige Person, etwa ein Offizier, kann viele Einzelne mit einer Handlung formieren. Überliesse man es jedem Einzelnen, ginge es nur unter grossen Schwierigkeiten. Kurzum: Unendliche Schwierigkeit auf den Wegen des Irrtums, unendliche Leichtigkeit auf dem Weg der Einheit."
+   "explanation": "Eine einzige Person, etwa ein Offizier, kann viele Einzelne mit einer Handlung formieren. Überliesse man es jedem Einzelnen, ginge es nur unter grossen Schwierigkeiten. Kurzum: Unendliche Schwierigkeit auf den Wegen des Irrtums, unendliche Leichtigkeit auf dem Weg der Einheit.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_38325",
+   "appLink": true
   },
   {
    "id": "mek-03-07",
@@ -700,7 +750,9 @@
     "Geschäftsleute und Handwerker, die Handelsgesellschaften bilden"
    ],
    "correct": 3,
-   "explanation": "Wegen der Schwierigkeit in der Vielheit kommen Geschäftsleute und Handwerker aus der Vielheit zur Einheit und bilden Handelsgesellschaften, um sich die Arbeit zu erleichtern."
+   "explanation": "Wegen der Schwierigkeit in der Vielheit kommen Geschäftsleute und Handwerker aus der Vielheit zur Einheit und bilden Handelsgesellschaften, um sich die Arbeit zu erleichtern.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_41769",
+   "appLink": true
   },
   {
    "id": "mek-04-01",
@@ -717,7 +769,9 @@
     "Auf einer Reise nach Istanbul"
    ],
    "correct": 1,
-   "explanation": "Er schreibt von einem hohen Gipfel in den Tscham-Bergen, auf dem Wipfel einer Tanne. Er möchte dort ein, zwei Monate allein bleiben und danach nach Barla zurückkehren."
+   "explanation": "Er schreibt von einem hohen Gipfel in den Tscham-Bergen, auf dem Wipfel einer Tanne. Er möchte dort ein, zwei Monate allein bleiben und danach nach Barla zurückkehren.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_42698",
+   "appLink": true
   },
   {
    "id": "mek-04-02",
@@ -734,7 +788,9 @@
     "Samed und Ehad"
    ],
    "correct": 2,
-   "explanation": "Manchen wurde der Name Vedud (Freund) offenbart. Dem Autor wurden zur Zeit seines Dienstes am Qur'an die Namen Rahim (Barmherziger) und Hakim (Allweiser) offenbart. Die Sözler zeigen dieses Geheimnis."
+   "explanation": "Manchen wurde der Name Vedud (Freund) offenbart. Dem Autor wurden zur Zeit seines Dienstes am Qur'an die Namen Rahim (Barmherziger) und Hakim (Allweiser) offenbart. Die Sözler zeigen dieses Geheimnis.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_44387",
+   "appLink": true
   },
   {
    "id": "mek-04-03",
@@ -752,7 +808,9 @@
    ],
    "correct": 0,
    "explanation": "Für den Naqshibandi-Orden nennt das Gedicht vier Verzichte. Im Orden der Besitzlosen (adjz-i mendi) sind dagegen vollkommene Armut, vollkommene Unterwerfung, vollkommene Dankbarkeit und vollkommene Hingabe nötig.",
-   "term": "adjz-i mendi"
+   "term": "adjz-i mendi",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_44387",
+   "appLink": true
   },
   {
    "id": "mek-04-04",
@@ -769,7 +827,9 @@
     "Dass sie nur nachts existieren"
    ],
    "correct": 1,
-   "explanation": "Wie Engel die Wunder der Macht auf der Erde betrachten, schauen die Sterne auf die feinen Kunstwerke der Erde und erblicken dort die unvergänglichen Urbilder des Paradieses. Sie haben einen Blick für beide Welten."
+   "explanation": "Wie Engel die Wunder der Macht auf der Erde betrachten, schauen die Sterne auf die feinen Kunstwerke der Erde und erblicken dort die unvergänglichen Urbilder des Paradieses. Sie haben einen Blick für beide Welten.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_46231",
+   "appLink": true
   },
   {
    "id": "mek-05-01",
@@ -786,7 +846,9 @@
     "Die Pilgerfahrt"
    ],
    "correct": 1,
-   "explanation": "Imam Rabbani sagt in seinen Mektubat, er ziehe die Entfaltung einer einzigen Glaubenswahrheit allen Freuden, Ekstasen und Wundern vor. Der Endpunkt des Sufi-Weges ist die Entfaltung der Glaubenswahrheiten."
+   "explanation": "Imam Rabbani sagt in seinen Mektubat, er ziehe die Entfaltung einer einzigen Glaubenswahrheit allen Freuden, Ekstasen und Wundern vor. Der Endpunkt des Sufi-Weges ist die Entfaltung der Glaubenswahrheiten.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_49130",
+   "appLink": true
   },
   {
    "id": "mek-05-02",
@@ -803,7 +865,9 @@
     "Mit Lehre und Reisen"
    ],
    "correct": 2,
-   "explanation": "Ist einer der beiden Flügel fehlerhaft, ist kein Vorankommen möglich. Daraus leitet der Autor drei Stufen ab, deren erste und grösste der unmittelbare Dienst an den Glaubenswahrheiten ist."
+   "explanation": "Ist einer der beiden Flügel fehlerhaft, ist kein Vorankommen möglich. Daraus leitet der Autor drei Stufen ab, deren erste und grösste der unmittelbare Dienst an den Glaubenswahrheiten ist.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_49130",
+   "appLink": true
   },
   {
    "id": "mek-05-03",
@@ -820,7 +884,9 @@
     "Mit Obst und Brot: Ohne Obst kann man leben, ohne Brot nicht"
    ],
    "correct": 3,
-   "explanation": "Ohne Glauben gelangt man nicht ins Paradies, ohne Mystik aber viele. Die Mystik gleicht dem Obst, die Glaubenswahrheiten sind wie die Grundnahrung. Deshalb würden die grossen Meister heute ihre Kraft für die Glaubenswahrheiten einsetzen."
+   "explanation": "Ohne Glauben gelangt man nicht ins Paradies, ohne Mystik aber viele. Die Mystik gleicht dem Obst, die Glaubenswahrheiten sind wie die Grundnahrung. Deshalb würden die grossen Meister heute ihre Kraft für die Glaubenswahrheiten einsetzen.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_50831",
+   "appLink": true
   },
   {
    "id": "mek-05-04",
@@ -837,7 +903,9 @@
     "Die aus Krankheit"
    ],
    "correct": 0,
-   "explanation": "Irreführung aus Unwissenheit lässt sich leicht beseitigen. Die aus Philosophie und Wissenschaft ist schwer zu beenden, weil diese Leute sich für überlegen halten. Als Gegengift nennt der Autor die Sözler."
+   "explanation": "Irreführung aus Unwissenheit lässt sich leicht beseitigen. Die aus Philosophie und Wissenschaft ist schwer zu beenden, weil diese Leute sich für überlegen halten. Als Gegengift nennt der Autor die Sözler.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_52372",
+   "appLink": true
   },
   {
    "id": "mek-06-01",
@@ -854,7 +922,9 @@
     "Sieben"
    ],
    "correct": 2,
-   "explanation": "Nachts allein in den Bergen sah er sich inmitten einer fünffach verschlungenen Fremde. Später verwandelte das Licht des Glaubens diese fünf Fremdheiten."
+   "explanation": "Nachts allein in den Bergen sah er sich inmitten einer fünffach verschlungenen Fremde. Später verwandelte das Licht des Glaubens diese fünf Fremdheiten.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_53497",
+   "appLink": true
   },
   {
    "id": "mek-06-02",
@@ -872,7 +942,9 @@
    ],
    "correct": 1,
    "explanation": "Freunde und Verwandte sind in die Zwischenwelt (Alem-i Berzah) hinübergegangen und haben ihn zurückgelassen. Daraus entstanden weitere Fremdheiten, bis er erkannte, dass seine Seele zur Reise in die Ewigkeit bereit ist.",
-   "term": "Alem-i Berzah"
+   "term": "Alem-i Berzah",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_55118",
+   "appLink": true
   },
   {
    "id": "mek-06-03",
@@ -889,7 +961,9 @@
     "Die Ankunft des Frühlings"
    ],
    "correct": 2,
-   "explanation": "Nach seinem Gebet kamen ihm das Licht des Glaubens, der Segen des Qur'an und die Freigebigkeit des Allbarmherzigen zu Hilfe und verwandelten die dunklen Fremdheiten."
+   "explanation": "Nach seinem Gebet kamen ihm das Licht des Glaubens, der Segen des Qur'an und die Freigebigkeit des Allbarmherzigen zu Hilfe und verwandelten die dunklen Fremdheiten.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_55118",
+   "appLink": true
   },
   {
    "id": "mek-06-04",
@@ -906,7 +980,9 @@
     "Die Welt ist ein Gasthaus"
    ],
    "correct": 0,
-   "explanation": "Wer Gott gefunden hat, hat alles gefunden. Wer Ihn nicht gefunden hat, für den wäre auch alles Gefundene nur Unglück. Danach versteht der Autor den Hadith über die Fremdlinge."
+   "explanation": "Wer Gott gefunden hat, hat alles gefunden. Wer Ihn nicht gefunden hat, für den wäre auch alles Gefundene nur Unglück. Danach versteht der Autor den Hadith über die Fremdlinge.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_58022",
+   "appLink": true
   },
   {
    "id": "mek-06-05",
@@ -923,7 +999,9 @@
     "Ob die bisherigen Sözler ausreichen und seine Aufgabe beendet ist"
    ],
    "correct": 3,
-   "explanation": "Er fragt, ob die Sözler genügen, sodass er sie zu Stellvertretern ernennen, seine Bindungen lösen und sich in eine lichtvolle Fremde zurückziehen könnte."
+   "explanation": "Er fragt, ob die Sözler genügen, sodass er sie zu Stellvertretern ernennen, seine Bindungen lösen und sich in eine lichtvolle Fremde zurückziehen könnte.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_59363",
+   "appLink": true
   },
   {
    "id": "mek-07-01",
@@ -940,7 +1018,9 @@
     "Dass Khadidja reich war"
    ],
    "correct": 1,
-   "explanation": "Die Frage kam über Schamli Hafis: Leute des Irrweges kritisieren die Heirat mit Seyneb wie die Heuchler früherer Zeit. Der Autor weist den Vorwurf entschieden zurück."
+   "explanation": "Die Frage kam über Schamli Hafis: Leute des Irrweges kritisieren die Heirat mit Seyneb wie die Heuchler früherer Zeit. Der Autor weist den Vorwurf entschieden zurück.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_60718",
+   "appLink": true
   },
   {
    "id": "mek-07-02",
@@ -957,7 +1037,9 @@
     "Dass der Prophet von seiner Familie dazu gedrängt wurde"
    ],
    "correct": 2,
-   "explanation": "In der Zeit der stärksten Leidenschaft lebte er mit Khadidja allein. Viele Ehen erst nach dem vierzigsten Lebensjahr zeigen, dass sie anderen, wichtigen Gründen dienten."
+   "explanation": "In der Zeit der stärksten Leidenschaft lebte er mit Khadidja allein. Viele Ehen erst nach dem vierzigsten Lebensjahr zeigen, dass sie anderen, wichtigen Gründen dienten.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_60718",
+   "appLink": true
   },
   {
    "id": "mek-07-03",
@@ -974,7 +1056,9 @@
     "Die Versorgung von Witwen"
    ],
    "correct": 1,
-   "explanation": "Seine Taten und sein Umgang sind Massstab für das Glaubensleben. Die Sahabis überlieferten das öffentliche Verhalten, seine Frauen das private. Dafür waren mehrere Frauen verschiedenen Charakters nötig."
+   "explanation": "Seine Taten und sein Umgang sind Massstab für das Glaubensleben. Die Sahabis überlieferten das öffentliche Verhalten, seine Frauen das private. Dafür waren mehrere Frauen verschiedenen Charakters nötig.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_62412",
+   "appLink": true
   },
   {
    "id": "mek-07-04",
@@ -991,7 +1075,9 @@
     "Dass Scheidungen verboten sind"
    ],
    "correct": 0,
-   "explanation": "Der Vers begründet laut Text eine allgemeine Bestimmung: Die Anrede «mein Sohn» stellt kein Rechtsverhältnis her. Der Text grenzt das ausdrücklich vom Fall des Sihar ab, bei dem ein Mann seine Frau mit seiner Mutter gleichsetzt."
+   "explanation": "Der Vers begründet laut Text eine allgemeine Bestimmung: Die Anrede «mein Sohn» stellt kein Rechtsverhältnis her. Der Text grenzt das ausdrücklich vom Fall des Sihar ab, bei dem ein Mann seine Frau mit seiner Mutter gleichsetzt.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_64215",
+   "appLink": true
   },
   {
    "id": "mek-08-01",
@@ -1008,7 +1094,9 @@
     "Armut in Dankbarkeit und Ohnmacht verbunden mit Liebe"
    ],
    "correct": 3,
-   "explanation": "Die beiden Namen erscheinen ihm als gewaltiges Licht, das alle Bedürfnisse des Geistes stillt. Das wichtigste Mittel ist Armut in Dankbarkeit und eine Ohnmacht verbunden mit Liebe, also Dienst, Anbetung und das Bewusstsein der eigenen Bedürftigkeit (S. 47–48)."
+   "explanation": "Die beiden Namen erscheinen ihm als gewaltiges Licht, das alle Bedürfnisse des Geistes stillt. Das wichtigste Mittel ist Armut in Dankbarkeit und eine Ohnmacht verbunden mit Liebe, also Dienst, Anbetung und das Bewusstsein der eigenen Bedürftigkeit (S. 47–48).",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_67297",
+   "appLink": true
   },
   {
    "id": "mek-08-02",
@@ -1025,7 +1113,9 @@
     "Stolz auf seinen Sohn"
    ],
    "correct": 2,
-   "explanation": "Anders als die Kenner der Wahrheit, sogar als Imam Rabbani, sagt der Autor: Es war keine Liebe (muhabbet) und keine Leidenschaft (ashk), sondern Mitgefühl (shefqat). Dieses führt zum Namen Rahim."
+   "explanation": "Anders als die Kenner der Wahrheit, sogar als Imam Rabbani, sagt der Autor: Es war keine Liebe (muhabbet) und keine Leidenschaft (ashk), sondern Mitgefühl (shefqat). Dieses führt zum Namen Rahim.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_68721",
+   "appLink": true
   },
   {
    "id": "mek-08-03",
@@ -1043,7 +1133,9 @@
    ],
    "correct": 0,
    "explanation": "Die Leidenschaft (ashk), die zum Namen Vedud führt, zeigt sich in der Liebe Suleichas zu Joseph. Der Qur'an zeigt, dass Jakobs Empfindungen höher stehen, weil Mitgefühl höher ist als Leidenschaft.",
-   "term": "ashk"
+   "term": "ashk",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_68721",
+   "appLink": true
   },
   {
    "id": "mek-08-04",
@@ -1060,7 +1152,9 @@
     "Es gibt keinen Unterschied"
    ],
    "correct": 1,
-   "explanation": "Mitgefühl ist aufrichtig und unentgeltlich, wie die Liebe der Tiere zu ihren Jungen. Leidenschaft wünscht ein Entgelt und beschränkt den Blick auf den Geliebten. Mitgefühl umfasst dagegen viele Dinge und spiegelt den Namen Rahim."
+   "explanation": "Mitgefühl ist aufrichtig und unentgeltlich, wie die Liebe der Tiere zu ihren Jungen. Leidenschaft wünscht ein Entgelt und beschränkt den Blick auf den Geliebten. Mitgefühl umfasst dagegen viele Dinge und spiegelt den Namen Rahim.",
+   "url": "https://syesilova72.github.io/?kitap=almektubat_70793",
+   "appLink": true
   }
  ]
 }

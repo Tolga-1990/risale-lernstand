@@ -473,7 +473,7 @@ details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
         h("div", { class: "sourcebox" },
           h("span", { class: "label", text: "Quelle" }),
           h("b", { text: sourceLine(q) }),
-          q.url ? h("a", { href: q.url, target: "_blank", rel: "noopener", text: "Seite " + q.page + " online lesen" }) : null,
+          q.url ? h("a", { href: q.url, target: "_blank", rel: "noopener", text: q.appLink ? "In Lese-App öffnen (springt in die Nähe von S. " + q.page + ")" : "Seite " + q.page + " online lesen" }) : null,
           q.edition ? h("small", { text: q.edition }) : null),
         h("label", { class: "field" }, h("span", { text: "Deine Notiz zu Seite " + q.page }), ta, st),
         h("div", { class: "row" },
@@ -568,7 +568,7 @@ details.settings p { color: var(--muted); font-size: .9rem; margin: 8px 0; }
         const q0 = qs.find(q => Number(q.page) === pg);
         const [ta, st] = noteEditor(bk, n, pg, "secNote" + pg);
         wrapP.append(h("div", { class: "page" },
-          h("div", { class: "row" }, h("b", { class: "num", text: "Seite " + pg }), q0 && q0.url ? h("a", { href: q0.url, target: "_blank", rel: "noopener", text: "online lesen" }) : null),
+          h("div", { class: "row" }, h("b", { class: "num", text: "Seite " + pg }), q0 && q0.url ? h("a", { href: q0.url, target: "_blank", rel: "noopener", text: q0.appLink ? "in Lese-App öffnen" : "online lesen" }) : null),
           ta, st));
       });
       body.append(wrapP);
