@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23c",
+ "version": "2026-10-23d",
  "questions": [
   {
    "id": "mek-01-01",
@@ -3449,6 +3449,655 @@
    ],
    "correct": 0,
    "explanation": "Laut Fussnote ist der Erdball im Vergleich zum Jenseits nur eine knappe Seite; die Gärten des Frühlings zu erschaffen ist schwieriger als das Paradies.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-41",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 126,
+   "q": "Welches Argument nennt die Fussnote auf S. 126 gegen die Umkehrung von Wahrheiten?",
+   "options": [
+    "Ein Gegenteil kann nicht seine Beschaffenheit behalten und zugleich sein eigenes Gegenteil sein, etwa unendliche Schönheit nicht zugleich hässlich",
+    "Wahrheiten ändern sich mit der Zeit",
+    "Was die Mehrheit glaubt, ist wahr",
+    "Wahrheit ist Ansichtssache"
+   ],
+   "correct": 0,
+   "explanation": "Ebenso kann die Herrschaft Gottes in ihrer Vollkommenheit nicht zugleich hässlich sein; das wäre das Seltsamste aller unmöglichen Beispiele.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-42",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 127,
+   "q": "Welche Namen bilden laut der Sechsten Wahrheit das Tor zu Glanz und Unsterblichkeit?",
+   "options": [
+    "Djemil und Djelil",
+    "Djelil und Baqi",
+    "Hafiz und Raqib",
+    "Hayy und Qayyum"
+   ],
+   "correct": 1,
+   "explanation": "Eine Herrschaft, der Sonnen und Atome wie gehorsame Soldaten unterworfen sind, stützt sich nicht auf vergängliche Menschen in einer Herberge, sondern errichtet einen ewigen Sitz.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-43",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 128,
+   "q": "Was tun die Gäste im Gleichnis von der Herberge am Weg mit den Dingen dort?",
+   "options": [
+    "Sie nehmen sie mit",
+    "Sie beschädigen sie",
+    "Jeder fotografiert sie mit seiner eigenen Kamera, und die Diener des Herrn halten die Handlungen der Gäste im Bild fest",
+    "Sie kaufen sie"
+   ],
+   "correct": 2,
+   "explanation": "Der Herr gibt Millionen Taler für eine Nacht aus, zerstört täglich einen Teil und richtet für Neuankömmlinge neu ein. Daran zeigt sich, dass er ewige Wohnstätten und unerschöpfliche Schätze besitzt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-44",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 129,
+   "q": "Was besagt der Dritte Grundsatz über den Schmuck dieser Welt?",
+   "options": [
+    "Er dient allein dem Vergnügen",
+    "Er ist überflüssig",
+    "Er ist ewig",
+    "Er gleicht einer Kostprobe, die den Appetit anregt, ohne ihn zu befriedigen, und weist auf beständige Originale"
+   ],
+   "correct": 3,
+   "explanation": "Diente er nur kurz dem Genuss, verursachte er durch sein Ende einen langen Schmerz. Er dient der Belehrung und verlangt Dankbarkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-45",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 130,
+   "q": "Was ist laut Fussnote das erhabenste Ziel jedes Dinges?",
+   "options": [
+    "Seine Kunstwerke den Blicken des urewigen Zeugen zu präsentieren; dafür genügt ein einziger flüchtiger Augenblick",
+    "Dem Menschen zu nützen",
+    "Sich selbst zu erhalten",
+    "Sich fortzupflanzen"
+   ],
+   "correct": 0,
+   "explanation": "Sogar Samenkörner, die nie keimen, erreichen dieses Ziel durch ihre blosse Fähigkeit; Sinnlosigkeit berührt sie nicht.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-46",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 132,
+   "q": "Wie bleibt laut dem Fünften Grundsatz eine Blume bestehen, nachdem sie vergangen ist?",
+   "options": [
+    "Gar nicht",
+    "Wie ein gesprochenes Wort: ihre Gestalt im Gedächtnis der Betrachter und ihr Wesen in jedem ihrer Samenkörner",
+    "Nur als Erinnerung des Gärtners",
+    "Als Duft in der Luft"
+   ],
+   "correct": 1,
+   "explanation": "Gedächtnis und Samenkorn sind wie eine Kamera und eine Wohnung für ihre Fortdauer. Wenn schon die unterste Sprosse so bewahrt wird, wie sehr ist der Mensch mit seiner Seele mit der Ewigkeit verbunden.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-47",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 133,
+   "q": "Was ist laut dem Siebten Grundsatz die Zerstörung im Herbst?",
+   "options": [
+    "Ein Zufall der Natur",
+    "Eine Strafe",
+    "Eine Entlassung der Geschöpfe, die ihre Aufgabe erfüllt haben, keine Vernichtung",
+    "Das Ende allen Lebens"
+   ],
+   "correct": 2,
+   "explanation": "Laut Fussnote müssen Früchte, Blumen und Blätter vergehen, damit das Tor für die Nachfolgenden offen bleibt. Der Frühling gleicht einem Obstbaum, der die Auferstehung zeigt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-48",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 133,
+   "q": "Mit welchem Bild beschreibt der Sechste Grundsatz, was dem Menschen nicht überlassen bleibt?",
+   "options": [
+    "Wie ein Vogel davonzufliegen",
+    "Wie ein Fisch im Meer zu schwimmen",
+    "Wie ein Baum still zu stehen",
+    "Mit einer Leine um den Hals zu grasen, wo er will"
+   ],
+   "correct": 3,
+   "explanation": "Alle seine Taten werden aufgenommen, aufgeschrieben und für den Tag der Abrechnung aufbewahrt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-49",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 134,
+   "q": "Welche Namen bilden laut der Siebten Wahrheit das Tor des Schutzes?",
+   "options": [
+    "Hafiz und Raqib",
+    "Mudjib und Rahim",
+    "Kerim und Rahim",
+    "Djevvad und Djemil"
+   ],
+   "correct": 0,
+   "explanation": "Ein Schutz, der alles im Himmel und auf Erden in Ordnung überwacht, wird auch die Taten des Menschen sichten und mit der Waage der Gerechtigkeit wägen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-50",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 134,
+   "q": "Was hält der Allerbarmer laut dem Neunten Grundsatz für Seine Diener bereit?",
+   "options": [
+    "Ein langes irdisches Leben",
+    "Gastgeschenke, wie sie kein Auge gesehen, kein Ohr gehört hat und wie sie in keines Menschen Herz gedrungen sind",
+    "Reichtum im Diesseits",
+    "Ruhm unter den Menschen"
+   ],
+   "correct": 1,
+   "explanation": "Nach dem Achten Grundsatz hat der ewige Meister neben dieser vergänglichen noch eine ewige Welt, zu der Er Seine Diener anspornt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-51",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 135,
+   "q": "Wo bewahrt der Beschützer laut Text die Bilder und den Lebenslauf vergangener Geschöpfe?",
+   "options": [
+    "In Büchern",
+    "In Museen",
+    "In Gedächtnissen, die wohlgehüteten Tafeln gleichen, sowie in Kernen und Früchten",
+    "Nirgends"
+   ],
+   "correct": 2,
+   "explanation": "Im zweiten Frühling gibt Er die Liste ihrer Taten heraus und gestaltet eine neue Welt. Wenn schon vergängliche Dinge so bewahrt werden, werden die Taten des Menschen sicher verbucht.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-52",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 137,
+   "q": "Welches Beispiel verwendet die Fussnote, um von der Erschaffung eines Dinges auf den ganzen Frühling zu schliessen?",
+   "options": [
+    "Ein Haus und eine Stadt",
+    "Ein Tropfen und das Meer",
+    "Ein Stern und der Himmel",
+    "Wer einen Apfel schaffen kann, kann alle Äpfel und den Frühling erschaffen, denn beides kommt von derselben Werkbank"
+   ],
+   "correct": 3,
+   "explanation": "Die Vergangenheit ist der Bereich des Tatsächlichen, die Zukunft der des Möglichen. Wer den gestrigen Tag geschaffen hat, kann auch den morgigen ins Dasein rufen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-53",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 138,
+   "q": "Welche Namen bilden laut der Achten Wahrheit das Tor der Verheissung von Lohn und Strafe?",
+   "options": [
+    "Djemil und Djelil",
+    "Hayy und Qayyum",
+    "Rabb und Malik",
+    "Hafiz und Raqib"
+   ],
+   "correct": 0,
+   "explanation": "Was alle Propheten verkündet und die Getreuen (Siddiq) und Freunde Gottes (Auliya) bezeugt haben, ist für die Allmacht so leicht wie die Wiederbelebung des Frühlings.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-54",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 139,
+   "q": "Woraus könnte laut Text ein Bruch des göttlichen Versprechens allein entstehen, was für Gott unmöglich ist?",
+   "options": [
+    "Aus Zorn oder Laune",
+    "Aus Unwissenheit oder Schwäche",
+    "Aus Vergesslichkeit",
+    "Aus Zeitmangel"
+   ],
+   "correct": 1,
+   "explanation": "Deshalb begeht der Leugner in seiner unendlichen Kleinheit ein unendlich grosses Verbrechen. Der Bericht über den Zahn mancher Höllenbewohner, so gross wie ein Berg, dient als Massstab.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-55",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 140,
+   "q": "Welche Namen bilden laut der Neunten Wahrheit das Tor zu Leben und Tod?",
+   "options": [
+    "Djemil und Djelil",
+    "Kerim und Rahim",
+    "Hayy, Qayyum, Muhyi und Mumit",
+    "Hakim und Adil"
+   ],
+   "correct": 2,
+   "explanation": "Wer die tote Erde wiederbelebt und dabei mehr als dreihunderttausend Arten hervorruft, kann auch die Menschheit auferwecken.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-56",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 141,
+   "q": "Wie beschreibt die Neunte Wahrheit den Menschen am Baum der Schöpfung?",
+   "options": [
+    "Als stärkste Frucht",
+    "Als ältesten Zweig",
+    "Als unbedeutendes Blatt",
+    "Als vielseitigste, zarteste, empfindsamste und sonnenhungrigste Pflanze, die Gott als Partner im Dialog angenommen hat"
+   ],
+   "correct": 3,
+   "explanation": "Einem so geschätzten Geschöpf, dem alles unterworfen ist, wird Gott die Auferstehung nicht verwehren.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-57",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 141,
+   "q": "In welcher Zeit bringt Gott laut der Zusammenfassung zur Neunten Wahrheit mehr als dreihunderttausend Arten im Frühling hervor?",
+   "options": [
+    "Innerhalb von fünf, sechs Tagen",
+    "In einem Monat",
+    "In einem Jahr",
+    "In einer Stunde"
+   ],
+   "correct": 0,
+   "explanation": "Die vermischten Samenkörner werden in sechs Tagen oder sechs Wochen geordnet belebt. Wem das nicht schwer fällt, der kann Himmel und Erde in sechs Tagen erschaffen und die Menschen auf einen Posaunenstoss versammeln.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-58",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 142,
+   "q": "Welches der drei Gleichnisse auf S. 142 betrifft einen König mit Gästen?",
+   "options": [
+    "Wer mit einem Fingerzeig Berge hebt und Meer in Land verwandelt, kann auch einen Stein im Bach entfernen, der den Gästen den Weg versperrt",
+    "Er schickt Boten zu jedem Gast",
+    "Er baut eine Brücke über den Fluss",
+    "Er lässt die Gäste umkehren"
+   ],
+   "correct": 0,
+   "explanation": "Ebenso: Ein Dichter, der dreihunderttausend Bücher fehlerfrei auf ein Blatt schreibt, kann ein verlorenes Buch neu schreiben; ein Herr, der ein Heer aufstellt, kann verstreute Bataillone mit einem Posaunenstoss versammeln.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-59",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 143,
+   "q": "Womit begründet der Text, dass Gott die Seelen der Verstorbenen bewahren kann?",
+   "options": [
+    "Mit der Länge der Geschichte",
+    "Damit, dass Er das Programm des grössten Baumes wie eine Seele in den kleinsten Kern setzt und bewahrt",
+    "Mit dem Gedächtnis der Menschen",
+    "Mit der Kraft der Sonne"
+   ],
+   "correct": 1,
+   "explanation": "Wer den Erdball wie in einer Schleuder herumwirbeln lässt, kann ihn auch aus dem Weg räumen; wer mit «Sei! Und es ist» die Zellen aufstellt, kann ihre Bestandteile mit einem Posaunenstoss versammeln.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-60",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 143,
+   "q": "Was nennt der Text die beiden Flügel der Zeit?",
+   "options": [
+    "Tag und Nacht",
+    "Sommer und Winter",
+    "Vergangenheit und Zukunft",
+    "Jugend und Alter"
+   ],
+   "correct": 2,
+   "explanation": "Wer sie in der Vorstellung einander gegenüberstellt, sieht so viele Vorbilder der Wiederauferstehung, wie es Zeitalter und Tage gibt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-61",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 145,
+   "q": "Warum kann laut Fussnote auf S. 145 dem Unglauben nicht vergeben werden?",
+   "options": [
+    "Weil er zu lange dauert",
+    "Weil der Ungläubige sich nicht entschuldigt",
+    "Weil die Gesetze es verbieten",
+    "Weil er die ganze Schöpfung und alle Namen Gottes verletzt und die Seele des Ungläubigen das Gute nicht mehr annehmen kann"
+   ],
+   "correct": 3,
+   "explanation": "Der Unglaube setzt den Wert des Seins herab, verleugnet die Namen in den Spiegeln des Seins und erklärt die Schöpfung als Lüge. Der Text zitiert: «Fürwahr ist Götzendienst ein gewaltiges Unrecht.»",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-62",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 146,
+   "q": "Welches Beispiel zeigt, dass die Nachricht zweier Zeugen schwerer wiegt als tausend Dementis?",
+   "options": [
+    "Zwei Männer, die zu Beginn des Ramadan die Mondsichel (hilal) gesehen haben",
+    "Zwei Ärzte bei einer Diagnose",
+    "Zwei Richter bei einem Urteil",
+    "Zwei Händler auf dem Markt"
+   ],
+   "correct": 0,
+   "explanation": "Die Zeugen der Wiederversammlung sind wie Fachleute; ihre übereinstimmende Aussage erreicht den Grad allgemeiner Übereinstimmung (tevatur).",
+   "term": "hilal",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-63",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 146,
+   "q": "Welches Bild fasst auf S. 146 die Beziehung von Welt, Wiederversammlung, Himmel und Hölle zusammen?",
+   "options": [
+    "Die Welt ist eine Schule, Himmel und Hölle sind Zeugnisse",
+    "Die Welt ist ein Acker, die Wiederversammlung die Zeit, die Ernte zu dreschen, Himmel und Hölle je eine Scheune",
+    "Die Welt ist ein Fluss, Himmel und Hölle zwei Meere",
+    "Die Welt ist ein Haus, Himmel und Hölle zwei Zimmer"
+   ],
+   "correct": 1,
+   "explanation": "Es kann keine Botschaft geben, die richtiger, und keine Wahrheit, die offensichtlicher wäre.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-64",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 147,
+   "q": "Was bedeuten laut Anmerkung «Alem-i Shehadet» und «Alem-i Mana»?",
+   "options": [
+    "Himmel und Erde",
+    "Vergangenheit und Zukunft",
+    "Das Diesseits, die Welt des Zeugnisses, und das Jenseits, in dem die Dinge ihre Bedeutung enthüllen",
+    "Körper und Seele"
+   ],
+   "correct": 2,
+   "explanation": "Jedes Sein, sogar ein Samenkorn, trägt Pflichten von der Grösse eines Baumes. Es ist ein Samenkorn für die Welt der Bedeutungen und ein Acker für das Jenseits.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-65",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 148,
+   "q": "Wem würde Gott laut S. 148 gleichen, wenn Er Seinen Werken keine Beständigkeit gäbe?",
+   "options": [
+    "Einem Lehrer ohne Schüler",
+    "Einem Gärtner im Winter",
+    "Einem König im Exil",
+    "Einem Baumeister, der ein tausendfach geschmücktes Schloss ohne Dach lässt, sodass alles verrottet"
+   ],
+   "correct": 3,
+   "explanation": "Weisheit und Nützlichkeit, die Er jedem Organ, etwa der Zunge, verliehen hat, sänken sonst zur Sinnlosigkeit herab; Vereinigung mit Ihm (liqa) und ewige Seligkeit sind ihr Ziel.",
+   "term": "liqa",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-66",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 150,
+   "q": "Welche zwei Arten der Gerechtigkeit unterscheidet die Fussnote auf S. 150?",
+   "options": [
+    "Die positive, die dem Berechtigten sein Recht gibt, und die negative, die Ungerechte zur Rechenschaft zieht",
+    "Die irdische und die himmlische",
+    "Die strafende und die verzeihende",
+    "Die öffentliche und die private"
+   ],
+   "correct": 0,
+   "explanation": "Die positive Gerechtigkeit ist in dieser Welt offensichtlich: Jedes Ding erhält, was es seiner Veranlagung nach braucht. Die negative zeigt sich hier nicht vollständig.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-67",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 151,
+   "q": "Mit welchem Bild beschreibt die Zusammenfassung das Missverhältnis zwischen den gewaltigen Abläufen der Welt und ihren winzigen irdischen Früchten?",
+   "options": [
+    "Einem Fluss, der im Sand versickert",
+    "Einem kleinen Stein den Sinn eines grossen Berges zuschreiben",
+    "Einer Wolke ohne Regen",
+    "Einem Buch ohne Ende"
+   ],
+   "correct": 1,
+   "explanation": "Dieser Mangel an Verhältnismässigkeit bezeugt, dass das Antlitz allen Seins der Welt der Bedeutungen zugewandt ist; die Urbilder entfalten sich in der Welt der Entsprechungen (alem-i misal).",
+   "term": "alem-i misal",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-68",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 152,
+   "q": "Warum verwendet der Autor laut Fussnote so oft Blüten, Samen und Früchte als Beispiele?",
+   "options": [
+    "Weil er Gärtner war",
+    "Weil sie leicht verständlich sind",
+    "Weil sie die wertvollsten Kunstwerke der Macht sind und weil Naturwissenschaftler und Philosophen ihren feinen Schriftzug nicht lesen konnten",
+    "Weil sie im Qur'an am häufigsten vorkommen"
+   ],
+   "correct": 2,
+   "explanation": "Sie konnten den Schriftzug der Feder der Bestimmung (qalem-i qader) nicht lesen und stürzten in den Sumpf des Naturalismus.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-69",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 153,
+   "q": "Welchen Hadith zitiert das Zehnte Wort auf S. 153?",
+   "options": [
+    "«Der Gläubige ist der Spiegel des Gläubigen»",
+    "«Die Welt ist ein Gefängnis für den Gläubigen»",
+    "«Suche Wissen von der Wiege bis zum Grab»",
+    "«Das Diesseits ist der Acker für das Jenseits»"
+   ],
+   "correct": 3,
+   "explanation": "Individuelles und soziales Leben dienen dazu, die Ergebnisse unserer Taten zu verbuchen, damit sie am Tag der Grossen Versammlung abgerechnet werden.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-70",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 153,
+   "q": "Welcher Name bildet laut der Elften Wahrheit das Tor der Menschlichkeit?",
+   "options": [
+    "Haqq, der Wahrhaftige und Gerechte",
+    "Hafiz",
+    "Baqi",
+    "Rahim"
+   ],
+   "correct": 0,
+   "explanation": "Gott hat den Menschen zum tiefsinnigsten Gesprächspartner, allumfassenden Spiegel Seiner Namen und Träger des höchsten Wertes (ahsen-i taqvim) gemacht; ihn nicht ins Haus der Ewigkeit zu senden, hiesse Wahrhaftigkeit und Gerechtigkeit ins Gegenteil zu verkehren.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-71",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 154,
+   "q": "Welches Pfand hat der Mensch laut Text auf sich genommen?",
+   "options": [
+    "Den Schutz der Erde vor Naturkatastrophen",
+    "Ein Pfand, das Himmel, Erde und Berge nicht zu tragen wagten: mit winzigen Massstäben die Attribute des Schöpfers zu ermessen und zu erkennen",
+    "Die Herrschaft über andere Völker",
+    "Die Pflicht, Reichtum zu mehren"
+   ],
+   "correct": 1,
+   "explanation": "Obwohl fein, arm und schwach erschaffen, ist er Ordnungshüter über Tiere und Pflanzen und vor den Engeln bevorzugt mit dem Rang eines Kalifen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-72",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 155,
+   "q": "Was würde laut Beispiel ein Mensch sagen, dem eine Million Lebensjahre und das Königreich der Welt angeboten werden, danach aber Nichtexistenz?",
+   "options": [
+    "Er würde dankbar zustimmen",
+    "Er würde schweigen",
+    "Er würde «ach» statt «oh» sagen und bedauern, wenn seine Begierde nicht stärker ist",
+    "Er würde verhandeln"
+   ],
+   "correct": 2,
+   "explanation": "Das grösste Stück Vergänglichkeit sättigt Herz und Verstand nicht im Geringsten. Seine Hoffnungen nach Ewigkeit zeigen, dass er für die Ewigkeit geschaffen ist.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-73",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 156,
+   "q": "Was bildet laut der Zwölften Wahrheit das Tor des Prophetentums und der Offenbarung?",
+   "options": [
+    "Das Gebet",
+    "Die Pilgerfahrt",
+    "Das Glaubensbekenntnis",
+    "«Bismillahi r-Rahmani r-Rahim»"
+   ],
+   "correct": 3,
+   "explanation": "Wahnideen ohne die Kraft eines Mückenflügels können den Weg nicht versperren, den der Gesandte mit tausend Wundern und dem Qur'an geöffnet hat, bestätigt durch Propheten, Heilige und klarsichtige Wissenschaftler.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-74",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 157,
+   "q": "Welche Namen Gottes erfordern laut S. 157 ein Jenseits?",
+   "options": [
+    "Alle Namen Gottes, die sich bei der Lenkung des Alls manifestieren",
+    "Nur Hakiem, Kerim, Rahim, Adil und Hafiz",
+    "Nur die Namen der Barmherzigkeit",
+    "Nur der Name Allah"
+   ],
+   "correct": 0,
+   "explanation": "Auch die Beweise sind nicht auf die zwölf Wahrheiten beschränkt; der Qur'an zeigt tausend weitere Aspekte. Jedes Zeichen in der Natur öffnet sich wie zwei Vorhänge: zum Baumeister und zur Wiederversammlung.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-75",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 158,
+   "q": "Was verkündet laut S. 158 jedes Ding auf seine Weise unausgesprochen?",
+   "options": [
+    "«Gott ist der Grösste»",
+    "«Ich glaube an Gott und den Jüngsten Tag»",
+    "«Alles vergeht»",
+    "«Ich bin aus mir selbst»"
+   ],
+   "correct": 1,
+   "explanation": "Die Vergänglichkeit des Daseins als Manifestation der Namen von Unendlichkeit und Macht öffnet den Blick auf das Jenseits.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-76",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 159,
+   "q": "Was besagt Sure 31, 28 laut dem Nachwort?",
+   "options": [
+    "Dass nur die Gläubigen auferstehen",
+    "Dass die Auferstehung bald kommt",
+    "Dass die Erschaffung und Wiederversammlung aller Menschen für Gott so leicht ist wie die einer einzelnen Seele",
+    "Dass die Seele unsterblich ist"
+   ],
+   "correct": 2,
+   "explanation": "Die zwölf Wahrheiten bestätigen einander wie zwölf Mauern, hart wie Diamant. Ausführlicher behandelt der Autor diese Ayah in der Abhandlung «Nokta» (der Punkt).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-77",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 160,
+   "q": "Welche Parabel zum Gleichgewicht verwendet das Nachwort?",
+   "options": [
+    "Ein Seiltänzer",
+    "Zwei Kinder auf einer Wippe",
+    "Ein Schiff im Sturm",
+    "Eine kosmische Waage, die so empfindlich ist, dass sie auf zwei Nüsse reagiert, und so gross, dass zwei Sonnen darin Platz finden"
+   ],
+   "correct": 3,
+   "explanation": "Dieselbe Kraft bewegt die Nüsse wie die Sonnen. Ebenso gelten Spiegelung, Ordnung und Gehorsam für das Kleinste wie für das Grösste.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-78",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 161,
+   "q": "Warum gibt es laut Nachwort für die Kraft des Allmächtigen keine Abstufung von leicht und schwer?",
+   "options": [
+    "Weil sie essentiell und nicht akzidentiell ist; Schwäche als ihr Gegensatz kann auf sie nicht einwirken",
+    "Weil sie nur langsam wirkt",
+    "Weil sie unbegrenzt gross ist",
+    "Weil sie von den Ursachen getragen wird"
+   ],
+   "correct": 0,
+   "explanation": "Abstufungen entstehen durch Gegensätze, etwa Hitzegrade durch Kälte. Darum ist der Frühling so leicht wie eine Blume, und die Menschheit aufzuerwecken so leicht wie eine Seele.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   }
