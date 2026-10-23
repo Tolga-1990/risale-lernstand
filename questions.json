@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23a",
+ "version": "2026-10-23b",
  "questions": [
   {
    "id": "mek-01-01",
@@ -1156,6 +1156,1377 @@
    ],
    "correct": 2,
    "explanation": "Dem Überbringer die Füsse zu küssen und den Eigentümer des Geschenks zu übersehen, wäre eine Dummheit. Die sichtbaren Spender zu lieben und den wahren Geber zu vergessen, wäre noch tausendmal törichter."
+  },
+  {
+   "id": "soz-01-b01",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 12,
+   "q": "Wen meint der Autor im Vierzehnten Blitz mit der Anrede «Oh du Mensch»?",
+   "options": [
+    "Seine Schüler",
+    "Seine eigene Seele",
+    "Die Gelehrten seiner Zeit",
+    "Alle Leser des Buches"
+   ],
+   "correct": 1,
+   "explanation": "Er sagt ausdrücklich, dass er mit «Oh du Mensch» seine eigene Seele meint. Der Unterricht ist gezielt für seine Seele und bezieht sich mehr auf das Herz als auf den Verstand.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b02",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 12,
+   "q": "Wie viele Geheimnisse der Besmele werden im Vierzehnten Blitz behandelt?",
+   "options": [
+    "Drei",
+    "Zwanzig bis dreissig",
+    "Sechs",
+    "Zwölf"
+   ],
+   "correct": 2,
+   "explanation": "Er wollte zwanzig bis dreissig Geheimnisse erfassen; geblieben sind fünf, sechs. Behandelt werden sechs Geheimnisse.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b03",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 13,
+   "q": "Welche drei Siegel sieht der Autor im Ersten Geheimnis an Kosmos, Erde und Mensch?",
+   "options": [
+    "Siegel der Macht, des Wissens und des Willens",
+    "Siegel der Schöpfung, der Ordnung und des Todes",
+    "Siegel des Gesetzes, des Gebets und des Fastens",
+    "Siegel der Gottheit, der Erbarmung und der Barmherzigkeit"
+   ],
+   "correct": 3,
+   "explanation": "Das Siegel der Gottheit zeigt sich im ganzen Kosmos, darauf blickt «Bismillah». Das Siegel der Erbarmung zeigt sich an der Erdkugel, darauf schaut «Bismillahi r-Rahmani r-Rahim». Das Siegel der Barmherzigkeit zeigt sich im Wesen des Menschen, darauf blickt «Al-Rahim».",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b04",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 13,
+   "q": "Woran zeigt sich laut Text das grosse Siegel der Gottheit, auf das «Bismillah» blickt?",
+   "options": [
+    "An der gegenseitigen Hilfeleistung und dem Zusammengehen im ganzen Kosmos",
+    "An der Schönheit des menschlichen Gesichts",
+    "An den Wundern der Propheten",
+    "An der Bewegung der Sonne allein"
+   ],
+   "correct": 0,
+   "explanation": "Das grosse Siegel der Gottheit wird aus der gegenseitigen Hilfeleistung, dem solidarischen Zusammengehen und der Erwiderung der Bedürfnisse im ganzen Kosmos sichtbar.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b05",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 13,
+   "q": "Womit vergleicht der Text die Besmele im Ersten Geheimnis?",
+   "options": [
+    "Mit einem Schlüssel zu einem verschlossenen Garten",
+    "Mit einem starken Strang, der die Erde mit dem Thron Gottes verbindet",
+    "Mit einem Spiegel, der die Sonne zeigt",
+    "Mit einer Lampe in der Nacht"
+   ],
+   "correct": 1,
+   "explanation": "Die Besmele ist eine lichtvolle Zeile und ein starker Strang. Von oben herabkommend berührt sie den Menschen und verbindet die Erde mit dem Thron Gottes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b06",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 14,
+   "q": "Warum zeigt der Qur'an laut dem Zweiten Geheimnis die Einheit Gottes im Einzelnen (Ahadiyet)?",
+   "options": [
+    "Weil die Vielfalt der Schöpfung nicht existiert",
+    "Damit der Mensch die Schöpfung nicht betrachtet",
+    "Damit der Verstand in der unendlichen Vielfalt (Vahidiyet) nicht ertrinkt und den Herrn nicht vergisst",
+    "Weil die Einheit nur im Menschen sichtbar ist"
+   ],
+   "correct": 2,
+   "explanation": "Um die Einheit in der grossen Vielfalt zu erfassen, bräuchte es eine überaus weite Vorstellungskraft. Deshalb zeigt der Qur'an das Siegel der Einheit in einzelnen Existenzen.",
+   "term": "Ahadiyet",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b07",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 14,
+   "q": "Welches Gleichnis verwendet das Zweite Geheimnis?",
+   "options": [
+    "Ein Baum mit vielen Früchten",
+    "Ein König und seine Soldaten",
+    "Ein Fluss, der ins Meer mündet",
+    "Die Sonne, die sich in jedem glänzenden Ding mit ihrem Spiegelbild zeigt"
+   ],
+   "correct": 3,
+   "explanation": "Um das Wesen der Sonne in ihrem ganzen Licht zu erfassen, braucht es einen umfassenden Blick. Damit man sie nicht vergisst, zeigt sie sich in jedem glänzenden Ding mit Licht, Hitze und den sieben Farben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b08",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 15,
+   "q": "Wozu macht die Barmherzigkeit laut dem Dritten Geheimnis den vergänglichen Menschen?",
+   "options": [
+    "Zum Anwärter für die Ewigkeit und zum Ansprechpartner und Freund des Herrn",
+    "Zum Herrscher über die Natur",
+    "Zu einem Wesen ohne Bedürfnisse",
+    "Zum Richter über andere Menschen"
+   ],
+   "correct": 0,
+   "explanation": "Die Barmherzigkeit belebt, erleuchtet und versorgt den Kosmos. Sie macht den vergänglichen Menschen zum Anwärter für die Ewigkeit und dem Herrn aller Ewigkeit zum Ansprechpartner und Freund.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b09",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 16,
+   "q": "Warum helfen die Arten des Kosmos dem Menschen laut Text?",
+   "options": [
+    "Weil jede Art den Menschen selbst kennt",
+    "Aus Zufall",
+    "Weil der Mensch sie beherrscht",
+    "Weil ein Herr, der den Menschen kennt und sich seiner erbarmt, sie zu Hilfe schickt"
+   ],
+   "correct": 3,
+   "explanation": "Dass jede Art den Menschen selbst kennt, ist hundertfach unvernünftig. Die Hilfe sind klare Zeichen für das Wissen eines Herrn hinter dem Schleier des Kosmos, der den Menschen kennt und sich seiner erbarmt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b10",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 16,
+   "q": "Was verlangt eine solche Barmherzigkeit laut Text vom Menschen?",
+   "options": [
+    "Einen umfassenden, aufrichtigen Dank und einen ernsthaften, unvermischten Respekt",
+    "Den Rückzug aus der Welt",
+    "Ein Opfer an jedem Tag",
+    "Nichts, denn sie ist bedingungslos"
+   ],
+   "correct": 0,
+   "explanation": "Die Besmele ist das Sprachrohr dieses Dankes und Respekts. Man soll sie zu einem «Fahrzeug» zur Barmherzigkeit und zu einem Fürsprecher an ihrer Schwelle machen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b11",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 17,
+   "q": "Wie viele Arten von Pflanzen und Tieren werden laut Text auf der Erde ohne Verwechslung versorgt?",
+   "options": [
+    "Vierzigtausend",
+    "Vierhunderttausend",
+    "Vier Millionen",
+    "Viertausend"
+   ],
+   "correct": 1,
+   "explanation": "Dass vierhunderttausend verschiedene Arten zur rechten Zeit in vollkommener Ordnung versorgt werden, ohne eine zu vergessen oder zu verwechseln, ist das Siegel der Einheit im Einzelnen und zeigt die Barmherzigkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b12",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 18,
+   "q": "Was beweist laut Text den grossen Wert der Besmele?",
+   "options": [
+    "Dass sie in allen Sprachen gleich klingt",
+    "Dass sie nur von Propheten gesprochen wurde",
+    "Dass sie am Anfang aller 114 Suren steht und laut Imam Schafi 114-mal herabgesandt wurde",
+    "Dass sie das längste Gebet ist"
+   ],
+   "correct": 2,
+   "explanation": "Die Besmele ist die Leiter zum Thron der Barmherzigkeit. Sie steht am Anfang aller 114 Suren und guten Taten; nach grossen Exegeten wie Imam Schafi erscheint dieser eine Vers 114-mal als herabgesandt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b13",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 19,
+   "q": "Warum zeigt sich laut dem Vierten Geheimnis das Siegel der Einheit in jedem Einzelnen?",
+   "options": [
+    "Damit jeder auf jeder Stufe «Iyyake na'budu wa iyyake nasta'in» unmittelbar zum Herrn sprechen kann",
+    "Damit die Vielfalt verborgen bleibt",
+    "Weil nur Gelehrte die Vielfalt verstehen",
+    "Weil der Kosmos zu klein ist"
+   ],
+   "correct": 0,
+   "explanation": "Um den Herrn hinter der ganzen Vielfalt anzusprechen, bräuchte man ein Herz im Umfang der Erdkugel. Deshalb zeigt sich die Einheit im Einzelnen, damit jeder ohne Mühe unmittelbar den Herrn ansprechen kann.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b14",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 21,
+   "q": "Wie bewertet der Text die Deutung einiger Gottesverliebter, das geistige Gesicht des Menschen sei ein Ebenbild des Erbarmers?",
+   "options": [
+    "Als richtige Auslegung des Hadith",
+    "Als Grundlage des Glaubens",
+    "Als Deutung, die nur Gelehrte verstehen",
+    "Als glaubenswidrig; in Ekstase vielleicht entschuldigt, wer bei Besinnung ist, darf sie nicht annehmen"
+   ],
+   "correct": 3,
+   "explanation": "Gott hat keinen Partner, kein Seinesgleichen und kein Ebenbild (Sure 42, 11). Wer bei Besinnung ist und solche Deutungen annimmt, begeht einen Fehler.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b15",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 22,
+   "q": "Was ist laut Text ein Zweck des Hadith «Allah hat den Menschen nach der Art des Erbarmers erschaffen»?",
+   "options": [
+    "Dass der Mensch Gott gleicht",
+    "Dass der Mensch in einer Form erschaffen ist, die den Namen «Erbarmer» vollständig erkennen lässt",
+    "Dass der Mensch keine Fehler macht",
+    "Dass der Mensch über den Engeln steht"
+   ],
+   "correct": 1,
+   "explanation": "Wie Kosmos und Erdoberfläche zeigt auch das umfassende Bild des Menschen die Erscheinung des Namens «Erbarmer», im kleinen Massstab. Wie bei einem klaren Spiegel, von dem man sagt «Dieser Spiegel ist die Sonne», ist das ein Hinweis auf die Deutlichkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b16",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 23,
+   "q": "Welches Gleichnis erklärt im Sechsten Geheimnis, wie der unendlich ferne Herr dem Menschen dennoch nahe ist?",
+   "options": [
+    "Ein König, der seine Stadt besucht",
+    "Ein Brief, der aus der Ferne kommt",
+    "Die unerreichbare Sonne, deren Reflexion man im Spiegel in der Hand hat",
+    "Ein Licht hinter einem Vorhang"
+   ],
+   "correct": 2,
+   "explanation": "Man kann die Sonne nicht erreichen, aber ihr Licht gibt eine Reflexion im Spiegel in der eigenen Hand. Ebenso sind wir vom Herrn unendlich weit entfernt, Sein Licht kommt uns aber nahe.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-01-b17",
+   "sec": 1,
+   "secTitle": "Erstes Wort, Anhang: Vierzehnter Blitz, Zweites Kapitel",
+   "page": 24,
+   "q": "Was bezeichnet die Zusammenfassung als leicht erreichbaren Schlüssel zur Schatzkammer der Barmherzigkeit?",
+   "options": [
+    "Die Segenswünsche für den Gesandten (salavat)",
+    "Das Fasten",
+    "Die Pilgerfahrt",
+    "Das Studium der Bücher"
+   ],
+   "correct": 0,
+   "explanation": "Der wertvollste Brillant und Torhüter der Schatzkammer ist Hazret Ahmed; der allerbeste Schlüssel ist die Besmele; der leicht erreichbare Schlüssel sind die Segenswünsche (salavat).",
+   "term": "salavat",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-01",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 26,
+   "q": "Welches Thema behandelt das Zweite Wort?",
+   "options": [
+    "Die Pflicht zum Gebet",
+    "Die Glückseligkeit, den Wohlgeschmack und die Beruhigung, die im Glauben liegen",
+    "Den Tod und das Grab",
+    "Die Geschichte der Propheten"
+   ],
+   "correct": 1,
+   "explanation": "Unter dem Vers über die, die an das Verborgene glauben (Sure 2, 3), zeigt ein Gleichnis, welche Glückseligkeit, Gnadengabe, welcher Wohlgeschmack und welche Beruhigung im Glauben liegen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-02",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 26,
+   "q": "Wie sieht der ichbezogene Reisende das Land, in das er kommt?",
+   "options": [
+    "Als öffentliches Trauerhaus voller Leid, Leichen und weinender Waisen",
+    "Als prächtigen Garten",
+    "Als Ort eines Volksfestes",
+    "Als leeres, stilles Land"
+   ],
+   "correct": 0,
+   "explanation": "Er sieht überall nur schwarz: Schwache schreien unter Gewaltmenschen, das Land wirkt wie ein Trauerhaus. Um das nicht wahrnehmen zu müssen, flüchtet er in die Trunkenheit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-03",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 27,
+   "q": "Was erlebt der gottverbundene Reisende im selben Land?",
+   "options": [
+    "Eine Hungersnot",
+    "Einen Krieg",
+    "Ein grosses Volksfest mit Feiern, Gottesgedenken und Freunden überall",
+    "Ein verlassenes Land ohne Menschen"
+   ],
+   "correct": 2,
+   "explanation": "Er gerät in ein allgemeines Volksfest: Feiern, Gottesgedenken in den Häusern, Entlassungs- und Rekrutierungsfeiern. Jeder begegnet ihm als Freund und Verwandter.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-04",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 27,
+   "q": "Wie erklärt der Glückliche dem anderen Reisenden dessen düstere Sicht?",
+   "options": [
+    "Das Land sei tatsächlich so schlimm",
+    "Er habe den falschen Weg genommen",
+    "Er sei zur falschen Zeit gekommen",
+    "Die Hässlichkeiten seines Inneren hätten sich nach aussen gespiegelt; er solle sein Herz reinigen"
+   ],
+   "correct": 3,
+   "explanation": "Das Land eines so gerechten, barmherzigen und mächtigen Königs kann nicht so sein, wie er es sich einbildet. Der andere kommt zur Besinnung und bereut, dass ihn die Trunkenheit bis ins Delirium getrieben hatte.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-05",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 28,
+   "q": "Was bedeutet laut der Deutung im Zweiten Wort der Tod aus Sicht des Gläubigen?",
+   "options": [
+    "Ein endgültiges Verlöschen",
+    "Eine Strafe",
+    "Eine Entlassung nach erfüllter Aufgabe, um Platz für Neuankömmlinge zu machen",
+    "Ein Zufall der Natur"
+   ],
+   "correct": 2,
+   "explanation": "Für den Gläubigen ist die Welt eine Stätte der Besinnung und Prüfung. Haben Menschen und Tiere ihre Aufgabe beendet, ziehen sie voll innerer Freude in eine andere Welt hinüber.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-06",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 28,
+   "q": "Womit vergleicht das Zweite Wort die Geburt von Tieren und Menschen?",
+   "options": [
+    "Mit der Rekrutierung von Soldaten, die ihre Pflicht übernehmen",
+    "Mit dem Aufgang der Sonne",
+    "Mit der Aussaat eines Feldes",
+    "Mit dem Beginn einer Reise"
+   ],
+   "correct": 0,
+   "explanation": "Jedes Lebewesen ist beauftragt wie ein munterer Soldat oder ein zufriedener Beamter. Die Stimmen der Geschöpfe sind Gedenken und Lobpreis zu Beginn, Dank am Ende und Freude über die Arbeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-07",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 29,
+   "q": "Was trägt laut Text der Glaube unsichtbar in sich, und was der Unglaube?",
+   "options": [
+    "Der Glaube Wissen, der Unglaube Unwissenheit",
+    "Der Glaube den Samen des paradiesischen Tuba-Baumes, der Unglaube ein Korn des höllischen Zakkum-Baumes",
+    "Der Glaube Reichtum, der Unglaube Armut",
+    "Der Glaube Ruhe, der Unglaube nichts"
+   ],
+   "correct": 1,
+   "explanation": "Aus dem Glauben erwachsen dem Gläubigen feine und köstliche Wahrheiten; daraus folgt, dass es Frieden und Sicherheit nur im Islam und im Glauben gibt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-02-08",
+   "sec": 2,
+   "secTitle": "Zweites Wort",
+   "page": 28,
+   "q": "Wie bezeichnet der Text den ersten, düster sehenden Mann in der Deutung?",
+   "options": [
+    "Als Gelehrten, der zweifelt",
+    "Als Kranken",
+    "Als Ungläubigen (kafir), sündigen (fasik) und gottvergessenen (gafil) Menschen",
+    "Als Fremden ohne Heimat"
+   ],
+   "correct": 2,
+   "explanation": "In seinen Augen ist die Welt ein Trauerhaus, alle Lebewesen sind Waisen, Berge und Meere gleichen seelenlosen Leichen. Diese Wahnvorstellungen entstehen aus Un- und Irrglauben.",
+   "term": "gafil",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-01",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 30,
+   "q": "Was sagt der Mann an der Gabelung über die Länge der beiden Wege?",
+   "options": [
+    "Der rechte Weg ist doppelt so lang",
+    "Der linke Weg ist kürzer",
+    "Keiner ist länger oder kürzer; der linke ist nur unbewacht und wird nicht instand gehalten",
+    "Der rechte Weg ist kürzer"
+   ],
+   "correct": 2,
+   "explanation": "Beide Wege sind gleich lang. Auf dem linken reist man ohne Gepäck und Waffen; darin liegt eine trügerische Bequemlichkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-02",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 30,
+   "q": "Was muss der Reisende auf dem rechten Weg unter militärischem Schutz tragen?",
+   "options": [
+    "Gar nichts",
+    "Vier Okka Gepäck: eine eiserne Ration und eine zwei Okka schwere Wunderwaffe",
+    "Eine schwere Rüstung",
+    "Geld für Wegzölle"
+   ],
+   "correct": 1,
+   "explanation": "Rund 5 kg Gepäck: eine eiserne Ration und eine Wunderwaffe aus dem Zeughaus, die jeden Feind besiegen kann.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-03",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 31,
+   "q": "Welche Last trägt der Soldat auf dem linken Weg trotz leichtem Körper?",
+   "options": [
+    "Ein Herz voller tausender Batman Dankesverpflichtungen und eine von Ängsten bedrückte Seele",
+    "Keine Last",
+    "Ein schweres Gepäck",
+    "Eine Strafe des Mannes an der Gabelung"
+   ],
+   "correct": 0,
+   "explanation": "Er musste bei jedermann betteln, jedes Ereignis liess ihn erzittern; am Ziel wurde er als Rebell und Fahnenflüchtiger bestraft.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-04",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 31,
+   "q": "Wofür stehen Gepäck und Waffe in der Deutung des Dritten Wortes?",
+   "options": [
+    "Für Reichtum und Macht",
+    "Für Wissen und Bildung",
+    "Für Familie und Freunde",
+    "Für Anbetung, Gottesdienst und Rechtschaffenheit"
+   ],
+   "correct": 3,
+   "explanation": "Der Weg ist das Leben von der Welt der Seelen durch das Grab ins Jenseits. Gottesdienst wie die fünf Gebete scheint äusserlich schwer, bringt aber tiefe Befriedigung und Erleichterung.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-05",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 32,
+   "q": "Was ist laut Text die Quelle jedes wirklich guten Werkes und des Mutes?",
+   "options": [
+    "Der Glaube und die Gottverbundenheit",
+    "Bildung und Erziehung",
+    "Reichtum",
+    "Körperliche Stärke"
+   ],
+   "correct": 0,
+   "explanation": "Glaube und Gottverbundenheit sind die Quelle guter Werke und des Mutes; die Verirrung ist die Quelle aller Bosheit und Feigheit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-06",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 32,
+   "q": "Welches Beispiel stellt der Text dem furchtlosen Gläubigen gegenüber?",
+   "options": [
+    "Einen Soldaten vor der Schlacht",
+    "Einen berühmten Philosophen und Freidenker, der beim Erscheinen eines Kometen in Panik gerät",
+    "Ein Kind im Dunkeln",
+    "Einen Kaufmann vor dem Bankrott"
+   ],
+   "correct": 1,
+   "explanation": "Ein Diener Gottes mit erleuchtetem Herzen fürchtet sich nicht, selbst wenn die Welt wie eine Bombe explodierte. Der Freidenker zittert schon beim Kometen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-07",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 33,
+   "q": "Wessen bedarf die schwache, hilfsbedürftige Seele laut Text?",
+   "options": [
+    "Ruhm und Anerkennung",
+    "Reichtum und Besitz",
+    "Gottesanbetung, Gottvertrauen, göttliche Einheit und Ergebenheit",
+    "Einsamkeit"
+   ],
+   "correct": 2,
+   "explanation": "Das Vermögen des Menschen reicht so weit wie sein Arm, seine Hoffnungen und Leiden so weit wie sein Auge. Deshalb braucht die Seele ibadet, tevekkül, tauhid und teslim.",
+   "term": "tevekkül",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-03-08",
+   "sec": 3,
+   "secTitle": "Drittes Wort",
+   "page": 33,
+   "q": "Worin liegt laut der Zusammenfassung ein glückliches Leben in dieser und jener Welt?",
+   "options": [
+    "Im Wohlstand",
+    "Darin, Allah ein Verehrer und Diener zu sein und sich zum Streiter Gottes zu machen",
+    "In der Wissenschaft",
+    "Im Rückzug von den Menschen"
+   ],
+   "correct": 1,
+   "explanation": "Der Weg der Gottverbundenheit führt in neun von zehn Fällen zur ewigen Seligkeit, der Weg der Auflehnung in neun von zehn ins Verderben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-01",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 34,
+   "q": "Wie viele Goldstücke gibt der Herrscher jedem der beiden Diener im Vierten Wort?",
+   "options": [
+    "Zwölf",
+    "Vierundzwanzig",
+    "Dreissig",
+    "Hundert"
+   ],
+   "correct": 1,
+   "explanation": "Jeder erhält 24 Goldstücke für die Wanderschaft, die Überfahrt und Dinge für die Wohnungen auf dem prächtigen Landgut.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-02",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 34,
+   "q": "Was macht der unglückliche Diener mit seinem Geld?",
+   "options": [
+    "Er spart alles",
+    "Er schenkt es den Armen",
+    "Er kauft damit ein Flugticket",
+    "Er verschleudert 23 Goldstücke im Spiel, eines bleibt ihm"
+   ],
+   "correct": 3,
+   "explanation": "Sein Gefährte rät ihm, mit dem letzten Goldstück eine Karte für die Überfahrt zu kaufen, statt zwei Monate hungrig durch die Wüste zu wandern.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-03",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 35,
+   "q": "Wofür stehen die 24 Goldstücke in der Deutung?",
+   "options": [
+    "Für die 24 Stunden des Tages",
+    "Für 24 Lebensjahre",
+    "Für die Gebote des Glaubens",
+    "Für das Vermögen eines Menschen"
+   ],
+   "correct": 0,
+   "explanation": "Das Landgut ist das Paradies, die Überfahrt beginnt am Grab, die Fahrkarte ist das Gebet. Eine einzige Stunde genügt für alle fünf Gebete mit den Waschungen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-04",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 35,
+   "q": "Wovon hängt laut Text ab, wie die Reise vom Grab zur Auferstehung verläuft?",
+   "options": [
+    "Vom Reichtum im Leben",
+    "Von der Herkunft",
+    "Von der Handlungsweise (amel) und der Rechtschaffenheit (taqva)",
+    "Vom Zufall"
+   ],
+   "correct": 2,
+   "explanation": "Manche Rechtschaffene legen eine Strecke von tausend Jahren an einem Tag zurück, andere eine von fünfzigtausend Jahren; der Qur'an weist in zwei Ayat darauf hin.",
+   "term": "taqva",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-05",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 36,
+   "q": "Welchen Vergleich zieht der Text mit dem Lotteriespiel?",
+   "options": [
+    "Wer betet, spielt mit seinem Glück",
+    "Lotterie und Gebet haben die gleiche Chance",
+    "Man soll weder spielen noch beten",
+    "Unvernünftig ist, die Hälfte des Vermögens für eine Chance von 1 zu 1000 einzusetzen, aber nicht einmal ein Vierundzwanzigstel für eine 99-prozentige Chance auf die Schätze der Ewigkeit"
+   ],
+   "correct": 3,
+   "explanation": "Wer 23 Stunden für das kurze irdische Leben verwendet und keine einzige für das ewige, handelt gegen sich selbst und gegen jede Vernunft.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-04-06",
+   "sec": 4,
+   "secTitle": "Viertes Wort",
+   "page": 36,
+   "q": "Was bewirkt laut Text die gute Einstellung (niyet) eines betenden Menschen bei seinen weltlichen Handlungen?",
+   "options": [
+    "Sie erlangen die Bedeutung eines Gottesdienstes",
+    "Sie werden überflüssig",
+    "Sie werden schneller erledigt",
+    "Sie bringen mehr Geld ein"
+   ],
+   "correct": 0,
+   "explanation": "So schreibt der Betende das Kapital seines ganzen irdischen Lebens dem Jenseits gut und verewigt sein vergängliches Leben.",
+   "term": "niyet",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-01",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 37,
+   "q": "Was zeigt das Fünfte Wort als wahre Menschenpflicht und Frucht der Erschaffung des Menschen?",
+   "options": [
+    "Die Arbeit für den Lebensunterhalt",
+    "Das Studium der Wissenschaften",
+    "Die Verrichtung des Gebetes und die Vermeidung der schweren Sünden",
+    "Den Dienst am Staat"
+   ],
+   "correct": 2,
+   "explanation": "Beides entspricht der menschlichen Natur. Das Gleichnis von den zwei Soldaten bei einer Mobilmachung macht das deutlich.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-02",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 37,
+   "q": "Warum denkt der pflichtbewusste Soldat nicht an Vorrat und Proviant?",
+   "options": [
+    "Weil er genug Geld hat",
+    "Weil er weiss, dass der Staat ihn ernährt, ausrüstet und bei Krankheit pflegt",
+    "Weil er fastet",
+    "Weil Kameraden für ihn kochen"
+   ],
+   "correct": 1,
+   "explanation": "Seine vornehmste Pflicht sind Manöver und Gefechte. Wenn er in der Küche hilft, sagt er, er erledige Nebenaufgaben des Staates, nicht, er arbeite für seinen Lebensunterhalt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-03",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 38,
+   "q": "Welche zwei Aufgaben nennt der erfahrene Kamerad?",
+   "options": [
+    "Kochen und Putzen",
+    "Kämpfen und Fliehen",
+    "Lernen und Lehren",
+    "Die Aufgabe des Königs (für uns zu sorgen) und unsere eigene Aufgabe (Manöver und Gefecht)"
+   ],
+   "correct": 3,
+   "explanation": "Die Aufgabe des Königs überträgt er manchmal auf uns; unsere eigene Aufgabe wird durch seine Hilfe erleichtert.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-04",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 38,
+   "q": "Wofür steht das Regiment in der Deutung des Fünften Wortes?",
+   "options": [
+    "Für die islamische Welt unserer Zeit",
+    "Für die ganze Menschheit",
+    "Für die Familie",
+    "Für den eigenen Körper"
+   ],
+   "correct": 0,
+   "explanation": "Das Schlachtfeld ist das irdische Leben, das Heer die Menschheit, das Regiment die islamische Welt unserer Zeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-05",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 39,
+   "q": "Welchen Beweis nennt der Text dafür, dass Versorgung nicht aus Wollen und Vermögen kommt?",
+   "options": [
+    "Die Reichen sind am besten versorgt",
+    "Die schwächsten Geschöpfe wie Würmer, Fische, Kinder und Jungtiere werden am besten versorgt",
+    "Nur wer arbeitet, wird versorgt",
+    "Raubtiere sind immer satt"
+   ],
+   "correct": 1,
+   "explanation": "Der Vergleich von Fischen und Füchsen, Jungtieren und Raubtieren, Bäumen und Tieren zeigt: Erlaubte (helal) Versorgung kommt aus Schwäche und Bedürftigkeit.",
+   "term": "helal",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-06",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 40,
+   "q": "Wie bewertet der Text, nach dem Gebet für den eigenen Unterhalt zu arbeiten?",
+   "options": [
+    "Als schön, mannhaft und auch als eine Art Gottesdienst",
+    "Als überflüssig",
+    "Als Zeichen fehlenden Gottvertrauens",
+    "Als Sünde"
+   ],
+   "correct": 0,
+   "explanation": "In der Küche Gottes einen Anteil zu suchen, um niemandem zur Last zu fallen, ist nach dem Gebet schön. Wer aber aus Sorge ums Brot das Gebet unterlässt, gleicht dem Soldaten, der die Manöver schwänzt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-05-07",
+   "sec": 5,
+   "secTitle": "Fünftes Wort",
+   "page": 40,
+   "q": "Wem gleicht der Mensch, der das irdische Leben in den Mittelpunkt seines Strebens stellt?",
+   "options": [
+    "Einem König über alle Tiere",
+    "Einem geehrten Gast",
+    "Einem einzelnen, unscheinbaren Spatzen",
+    "Einem Kaufmann"
+   ],
+   "correct": 2,
+   "explanation": "Für das irdische Leben reichen seine Fähigkeiten nicht einmal an die eines Spatzen. Stellt er das Jenseits in den Mittelpunkt, gleicht er einem Oberkommandanten über das Tierreich.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-01",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 41,
+   "q": "Was verlangt der König im Gleichnis des Sechsten Wortes von den beiden Gutsherren?",
+   "options": [
+    "Dass sie ihm ihr anvertrautes Lehen verkaufen, damit er es erhält und schöner zurückgibt",
+    "Dass sie ihr Landgut verlassen",
+    "Dass sie Steuern zahlen",
+    "Dass sie gegen den Feind kämpfen"
+   ],
+   "correct": 0,
+   "explanation": "Im Erlass (ferman) bietet er einen hohen Preis, als wäre es ihr Eigentum. Die Maschinen sollen in seinem Namen arbeiten; ihr Wert steigt von eins auf tausend.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-02",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 42,
+   "q": "Wer trägt laut dem Erlass des Königs die Ausgaben, wenn die Gutsherren verkaufen?",
+   "options": [
+    "Die Gutsherren selbst",
+    "Der König bestreitet alle Ausgaben und Anschaffungen",
+    "Die Nachbarn",
+    "Der Botschafter"
+   ],
+   "correct": 1,
+   "explanation": "Produkte und Gewinn gehören den Gutsherren und bleiben in ihren Händen bis zur Abberufung. So erhalten sie fünffach Gewinn über Gewinn.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-03",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 42,
+   "q": "Wie wird der Gutsherr beschrieben, der nicht verkaufen will?",
+   "options": [
+    "Als arm und krank",
+    "Als zu jung",
+    "Als eingebildet und selbstsüchtig, im Hochmut den Pharaonen gleich, wie im Rausch lebend",
+    "Als schlecht informiert, aber demütig"
+   ],
+   "correct": 2,
+   "explanation": "Er glaubte, ewig auf seinem Landgut zu bleiben, und fragte: «Wer ist denn dieser König?» Später geriet er in Schwierigkeiten, ein verdientes Schicksal.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-04",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 43,
+   "q": "Wofür steht das Landgut mit Maschinen und Messwerkzeugen in der Deutung?",
+   "options": [
+    "Für Besitz und Geld",
+    "Für das Land, in dem man lebt",
+    "Für das Paradies",
+    "Für Leib und Seele, Geist und Gemüt mit allen inneren und äusseren Sinnen"
+   ],
+   "correct": 3,
+   "explanation": "Der König ist der Schöpfer, der Botschafter der Prophet, der Erlass der Qur'an mit Sure 9, 111.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-05",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 44,
+   "q": "Was ist laut dem Ersten Gewinn die Folge, wenn man das vergängliche Leben dem Herrn anvertraut?",
+   "options": [
+    "Es wird kürzer",
+    "Es verwandelt sich in ein ewiges Leben mit unvergänglichen Früchten",
+    "Es wird frei von jeder Mühe",
+    "Es bleibt unverändert"
+   ],
+   "correct": 1,
+   "explanation": "Die Minuten des Lebens vergehen wie Samenkörner, drüben öffnen sie sich zu Blüten der Glückseligkeit; im Zwischenreich (alem-i berzah) bietet sich ein lichtvoller Anblick.",
+   "term": "baqi",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-06",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 45,
+   "q": "Was wird aus dem Verstand, wenn man ihn auf eigene Rechnung (nefs) arbeiten lässt?",
+   "options": [
+    "Ein Schlüssel zu tiefen Wahrheiten",
+    "Ein Wegweiser zur Glückseligkeit",
+    "Ein lästiges Gerät, das Leid der Vergangenheit und Furcht vor der Zukunft anhäuft",
+    "Ein ruhiger Diener"
+   ],
+   "correct": 2,
+   "explanation": "Deshalb flüchtet der sündige Mensch so oft in Trunksucht und Spiel. Dem wahren Besitzer verkauft, wird der Verstand zum Wegweiser (murshid) zur ewigen Glückseligkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-07",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 45,
+   "q": "Wozu wird das Auge, wenn man es dem Allsehenden (Basir) verkauft?",
+   "options": [
+    "Zum Leser des grossen Buches der Schöpfung und Betrachter der Kunstwerke des Herrn",
+    "Zum schamlosen Betrachter",
+    "Zu einem Werkzeug ohne Bedeutung",
+    "Zu einem Fenster ohne Aussicht"
+   ],
+   "correct": 0,
+   "explanation": "Auf eigene Rechnung sinkt es zum Betrachter vergänglicher Schönheiten im Dienst der Gelüste. Dem Allsehenden verkauft, gleicht es einer Biene im Garten der Barmherzigkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-08",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 46,
+   "q": "Worin liegt laut Text der Unterschied zwischen Gläubigem und Ungläubigem im Umgang mit dem anvertrauten Pfand?",
+   "options": [
+    "Der Gläubige besitzt mehr",
+    "Der Gläubige verwendet es in Gottes Namen im Rahmen des Erlaubten, der Ungläubige veruntreut es auf Rechnung seiner selbstsüchtigen Seele",
+    "Der Ungläubige arbeitet mehr",
+    "Es gibt keinen Unterschied"
+   ],
+   "correct": 1,
+   "explanation": "Deshalb ist der Gläubige in seinem Wesen für das Paradies bestimmt, der Ungläubige von der Hölle geprägt.",
+   "term": "nefs-i emmare",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-06-09",
+   "sec": 6,
+   "secTitle": "Sechstes Wort",
+   "page": 48,
+   "q": "Warum ist der Verkauf an Gott laut Text keine schwere Angelegenheit?",
+   "options": [
+    "Weil man dafür alles aufgeben muss",
+    "Weil nur wenige ihn schaffen",
+    "Weil man ihn jederzeit rückgängig machen kann",
+    "Weil der Bereich des Erlaubten weit genug ist und es nur wenige, leicht zu erfüllende Gebote gibt"
+   ],
+   "correct": 3,
+   "explanation": "Unsere Aufgabe ist, in Seinem Namen zu handeln, zu beginnen, auszugeben und anzunehmen, im Rahmen Seiner Gesetze, und bei Fehlern um Vergebung zu bitten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-01",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 49,
+   "q": "Welcher Satz öffnet laut dem Siebenten Wort dem menschlichen Geist die Pforten zur ewigen Seligkeit?",
+   "options": [
+    "«Ich glaube an Gott und ich glaube an den Jüngsten Tag»",
+    "«Gott ist der Grösste»",
+    "«Im Namen Allahs»",
+    "«Lob sei Allah»"
+   ],
+   "correct": 0,
+   "explanation": "Dieser Satz enträtselt das tiefe kosmische Geheimnis (tilsim). Die beiden Schlüssel sind: in Geduld zum Schöpfer Zuflucht nehmen und sich in Dankbarkeit dem Versorger zuwenden.",
+   "term": "tilsim",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-02",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 49,
+   "q": "In welcher Lage befindet sich der Soldat im Gleichnis des Siebenten Wortes?",
+   "options": [
+    "Er ist verirrt in einem Wald",
+    "Er ist gefangen in einer Festung",
+    "Er hat zwei schwere Wunden, hinter ihm lauert ein Löwe, vor ihm steht ein Galgen, und er ist auf dem Weg in die Verbannung",
+    "Er ist auf der Flucht vor seinen Kameraden"
+   ],
+   "correct": 2,
+   "explanation": "An dem Galgen werden alle seine Freunde hingerichtet, und auch er wartet darauf. In dieser verzweifelten Lage erscheint eine lichterfüllte Gestalt wie Chidr.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-03",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 50,
+   "q": "Was verspricht die lichterfüllte Gestalt dem Soldaten durch die zwei Tilsim?",
+   "options": [
+    "Dass er reich wird",
+    "Dass der Löwe zu einem gehorsamen Pferd und der Galgen zu einer Schaukel für eine angenehme Flugreise wird",
+    "Dass er nie sterben muss",
+    "Dass seine Freunde zurückkehren"
+   ],
+   "correct": 1,
+   "explanation": "Dazu kommen zwei Heilmittel, die die Wunden in zarte Blumen verwandeln, und eine Fahrkarte, mit der eine Jahreswanderung an einem Tag überflogen wird.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-04",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 51,
+   "q": "Was rät der Betrüger mit dem Reisevertrag mit den fünf Stempeln?",
+   "options": [
+    "Ihn gut aufzubewahren",
+    "Ihn zu verkaufen",
+    "Ihn zu zerreissen",
+    "Ihn zu unterschreiben"
+   ],
+   "correct": 2,
+   "explanation": "Er will den Soldaten zu Zechen, Bildern und Musik verführen und rät auch, das Heilmittel wegzuwerfen. Eine Donnerstimme heisst den Soldaten, dem Betrüger zu sagen: Wenn du Löwe, Galgen, Wunden und Verbannung nicht beseitigen kannst, dann schweige.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-05",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 52,
+   "q": "Wofür stehen Löwe und Galgen in der Deutung des Siebenten Wortes?",
+   "options": [
+    "Für Feinde und Gefängnis",
+    "Für Armut und Krankheit",
+    "Für Teufel und Hölle",
+    "Der Löwe für die Sterbestunde, der Galgen für Tod, Zerfall und Trennung"
+   ],
+   "correct": 3,
+   "explanation": "Die beiden Wunden sind die unendliche menschliche Schwäche und die grenzenlose Armseligkeit; die Reise in die Verbannung führt aus der Welt der Geister bis zur Auferstehung über die Brücke Sirat.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-06",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 52,
+   "q": "Was sind die beiden Tilsim in der Deutung, und was wird durch sie aus dem Tod?",
+   "options": [
+    "Glaube an Gott und Glaube an das Jenseits; der Tod nimmt die Gestalt von Buraq an, der in die himmlischen Gärten trägt",
+    "Gebet und Fasten; der Tod wird aufgeschoben",
+    "Wissen und Arbeit; der Tod wird vergessen",
+    "Geduld und Dank; der Tod verschwindet"
+   ],
+   "correct": 0,
+   "explanation": "Deshalb lieben die Vollendeten (kamil insanlar) den Tod, weil sie die Wahrheit hinter ihm schauen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-07",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 53,
+   "q": "Was ist das erste der beiden Heilmittel?",
+   "options": [
+    "Dankbarkeit und Zufriedenheit",
+    "Geduld und Gottvertrauen, sich auf die Macht des Schöpfers zu stützen",
+    "Wissen und Bildung",
+    "Reichtum und Gesundheit"
+   ],
+   "correct": 1,
+   "explanation": "Wer sich wegen seiner Schwäche auf den Herrn stützt, braucht nichts zu fürchten und sagt im Unglück: «Allah gehören wir, und zu Ihm kehren wir zurück.»",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-08",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 53,
+   "q": "Welches Beispiel zeigt im Siebenten Wort, wie Schwäche zur Quelle der Freude wird?",
+   "options": [
+    "Ein Soldat nach dem Sieg",
+    "Ein Reisender, der heimkehrt",
+    "Ein einjähriges Kind, das in seiner Schwäche zur Mutter flüchtet und ihre Liebe spürt",
+    "Ein Kranker, der gesund wird"
+   ],
+   "correct": 2,
+   "explanation": "Die Liebe aller Mütter ist nur ein Aufleuchten eines Blitzstrahls der Allerbarmung. So machen die Vollendeten ihre Schwäche und Furcht zu ihrem Fürsprecher.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-09",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 54,
+   "q": "Wofür steht der Reisevertrag mit den Gutscheinen in der Deutung?",
+   "options": [
+    "Für die Erfüllung der göttlichen Gebote, voran Gebet und Meiden der schweren Sünden",
+    "Für ein Testament",
+    "Für die Schulbildung",
+    "Für einen Pass"
+   ],
+   "correct": 0,
+   "explanation": "Nur wer die Gebote hält, erhält auf dem dunklen Weg Wegzehrung, Licht und ein Reittier (Buraq). Der Lichtstrahl der Wissenschaft reicht nur bis an die Pforte des Grabes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-07-10",
+   "sec": 7,
+   "secTitle": "Siebentes Wort",
+   "page": 54,
+   "q": "Wie versteht der Text, dass vollkommene Menschen stolz auf ihre Armut sind?",
+   "options": [
+    "Sie stellen ihre Armut vor den Leuten zur Schau",
+    "Sie lehnen jede Arbeit ab",
+    "Sie sammeln Almosen",
+    "Gegenüber Gott die eigene Armseligkeit zu empfinden heisst, zu Ihm zu flehen, nicht damit vor Leuten zu hausieren"
+   ],
+   "correct": 3,
+   "explanation": "Beim zweiten Heilmittel, Dankbarkeit und Zufriedenheit, wird die Armseligkeit des Gastes beim freigiebigen Gastgeber wie Hunger, der die Gestalt eines Kochs annimmt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-01",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 57,
+   "q": "Wozu würde die Welt laut dem Achten Wort ohne wahren Glauben?",
+   "options": [
+    "Zu einem Garten",
+    "Zu einem Gefängnis",
+    "Zu einem Marktplatz",
+    "Zu einer Schule"
+   ],
+   "correct": 1,
+   "explanation": "Der unreligiöse Mensch wäre das unglückseligste aller Geschöpfe. Das Geheimnis (tilsim) der Welt wird durch «Oh Gott» und «Es gibt keinen Gott ausser Allah» erschlossen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-02",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 58,
+   "q": "Was sagt der Landeskundige an der Weggabelung über den linken Weg?",
+   "options": [
+    "Er ist kürzer und sicherer",
+    "Er führt direkt zum Ziel",
+    "Er bringt Freiheit und Ungebundenheit, aber auch Gefahren und Ruhelosigkeit",
+    "Er ist verboten"
+   ],
+   "correct": 2,
+   "explanation": "Auf dem rechten Weg muss man sich an Recht und Gesetz halten, reist dafür aber in Sicherheit und glücklich.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-03",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 58,
+   "q": "Was hält den Bruder auf dem linken Weg in der Zisterne fest?",
+   "options": [
+    "Ein Seil",
+    "Ein Baum mit zwei morschen Wurzeln, an denen eine weisse und eine schwarze Maus nagen",
+    "Ein Felsvorsprung",
+    "Eine Leiter"
+   ],
+   "correct": 1,
+   "explanation": "Oben wartet der Löwe wie ein Wächter, unten reckt ein Drache den Hals nach seinen Füssen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-04",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 59,
+   "q": "Was ist am Baum in der Zisterne merkwürdig?",
+   "options": [
+    "Er hat keine Blätter",
+    "Er ist aus Stein",
+    "Er wächst nach unten",
+    "Es ist ein Feigenbaum, der viele verschiedene Früchte, Nüsse und Granatäpfel trägt"
+   ],
+   "correct": 3,
+   "explanation": "Der unglückliche Bruder erkennt darin kein besonderes Geheimnis, isst von den Früchten, obwohl manche giftig sind, und tut so, als wäre er in einem Garten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-05",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 59,
+   "q": "Welches Hadith-i Qudsi zitiert das Achte Wort zur Lage des unglücklichen Bruders?",
+   "options": [
+    "«Ich behandle meinen Diener so, wie ich von ihm erkannt bin»",
+    "«Wer mich sucht, findet mich»",
+    "«Meine Barmherzigkeit übertrifft meinen Zorn»",
+    "«Ich war ein verborgener Schatz»"
+   ],
+   "correct": 0,
+   "explanation": "Weil er das Offensichtliche falsch beurteilt, erlebt er das Geschehen so, wie er es sich vorstellt: Er kann weder sterben noch leben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-06",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 60,
+   "q": "Nach welchem Grundsatz verhält sich der gute Bruder im Garten?",
+   "options": [
+    "«Sieh in allem das Gute!»",
+    "«Nimm dir, was du kannst»",
+    "«Vertraue niemandem»",
+    "«Meide jeden Garten»"
+   ],
+   "correct": 0,
+   "explanation": "Er übersieht die übelerregenden Dinge, macht vom Guten guten Gebrauch und verlässt den Garten erholt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-07",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 61,
+   "q": "Wie tröstet sich der gute Bruder, als er den Löwen hört?",
+   "options": [
+    "Er glaubt, der Löwe sei harmlos",
+    "Er denkt, die Wüste habe einen Herrn und der Löwe sei vielleicht ein Diener unter dessen Befehl",
+    "Er hofft auf Hilfe von seinem Bruder",
+    "Er verlässt sich auf seine Waffe"
+   ],
+   "correct": 1,
+   "explanation": "In der Zisterne ist seine Angst tausendmal kleiner als die seines Bruders. Aus seinen guten Gedanken folgt: Ein verborgener Herrscher stellt ihn auf die Probe.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-08",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 61,
+   "q": "In welcher Reihenfolge entwickelt sich beim guten Bruder der Weg zum Herrn des Geheimnisses?",
+   "options": [
+    "Furcht, Flucht, Rettung",
+    "Wissen, Macht, Herrschaft",
+    "Neugier, Liebe, Wunsch nach Entschleierung, Wille, sich wohlgefällig zu verhalten",
+    "Zweifel, Suche, Aufgabe"
+   ],
+   "correct": 2,
+   "explanation": "Aus der Frage, wer ihn prüft, wächst Neugier, daraus Liebe, daraus der Wunsch, das Geheimnis zu entschleiern, und daraus der Wille (irade).",
+   "term": "irade",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-09",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 62,
+   "q": "Wofür hält der gute Bruder den Feigenbaum mit den Früchten tausender Bäume?",
+   "options": [
+    "Für ein Trugbild",
+    "Für einen Zufall",
+    "Für ein Zeichen seines nahen Todes",
+    "Für eine Speisekarte, ein Inhaltsverzeichnis und eine Ausstellung"
+   ],
+   "correct": 3,
+   "explanation": "Der verborgene Herrscher hat die Früchte als Muster für die Speisen aufgehängt, die Er Seinen Gästen bereitet. Danach betet er, und die Zisterne öffnet sich zu einem Garten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-10",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 63,
+   "q": "Warum ist es laut Text nicht erlaubt, die Früchte gleich einem Tier zu verschlingen?",
+   "options": [
+    "Weil sie nur Muster sind, die Sehnsucht nach den Originalen wecken sollen",
+    "Weil sie verboten sind",
+    "Weil sie einem anderen gehören",
+    "Weil sie unreif sind"
+   ],
+   "correct": 0,
+   "explanation": "Man darf kosten. Der Glückliche begreift, worum es geht, und verschiebt den Genuss; die Vorfreude versüsst ihm das Warten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-11",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 64,
+   "q": "Welchen Lehrsatz aus dem Qur'an sieht der Text im Vergleich der beiden Brüder bestätigt?",
+   "options": [
+    "«Gott ist mit den Geduldigen»",
+    "«Das Böse kommt aus dir selbst, das Gute aber von Allah»",
+    "«Jede Seele wird den Tod kosten»",
+    "«Wahrlich, mit der Erschwernis kommt die Erleichterung»"
+   ],
+   "correct": 1,
+   "explanation": "Der Unglückliche gleicht dem Mann, der sich im Sommergarten berauscht und sich unter Wölfen im Winter wähnt. Der Glückliche sieht die Wirklichkeit, und die ist schön.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-12",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 65,
+   "q": "Wofür steht die Tiefe der Zisterne von sechzig Ellen?",
+   "options": [
+    "Für die Tiefe des Grabes",
+    "Für sechzig Gebote",
+    "Für sechzig Jahre als durchschnittliche Lebensspanne",
+    "Für die Entfernung zum Paradies"
+   ],
+   "correct": 2,
+   "explanation": "Die Wüste ist die Erde und das irdische Leben, der Löwe der Tod, die Zisterne der Körper und die Lebensspanne, der Baum das menschliche Leben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-13",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 66,
+   "q": "Wofür stehen die weisse und die schwarze Maus?",
+   "options": [
+    "Für Gut und Böse",
+    "Für Tag und Nacht",
+    "Für Jugend und Alter",
+    "Für Glauben und Unglauben"
+   ],
+   "correct": 1,
+   "explanation": "Der Schlund des Drachens ist das Grab als Tor zum Zwischenreich (berzah). Für den Gläubigen öffnet er die Pforte in die Gärten Edens.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-14",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 66,
+   "q": "Welche Prägung der Allmacht zeigt laut Text der eine Baum mit verschiedenen Früchten?",
+   "options": [
+    "Aus einem Ding alle Dinge und aus allen Dingen ein Ding hervorzubringen",
+    "Dass alles zufällig wächst",
+    "Dass jeder Baum anders ist",
+    "Dass Früchte nur einmal wachsen"
+   ],
+   "correct": 0,
+   "explanation": "Aus derselben Erde spriessen alle Pflanzen, aus demselben Wasser entstehen alle Tiere; verschiedene Nahrung wird zur gleichen Haut. Das ist das Siegel des Ahad-i Samed.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-08-15",
+   "sec": 8,
+   "secTitle": "Achtes Wort",
+   "page": 68,
+   "q": "Wie sieht laut der Zusammenfassung derjenige die Welt, der sich um das ewige Leben bemüht?",
+   "options": [
+    "Als Gefängnis ohne Ausweg",
+    "Als einzigen Ort des Glücks",
+    "Als Wartesaal und Vorraum des Paradieses",
+    "Als Strafe"
+   ],
+   "correct": 2,
+   "explanation": "Wer nur auf das vergängliche Leben schaut, lebt äusserlich im Paradies, innerlich in der Hölle. Wer sich um das ewige bemüht, ist in beiden Welten glücklich.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   }
  ]
 }
