@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23e",
+ "version": "2026-10-23f",
  "questions": [
   {
    "id": "mek-01-01",
@@ -915,7 +915,9 @@
     "Weil der Krieg das Hauptthema der Worte ist"
    ],
    "correct": 1,
-   "explanation": "Der Bruder möchte Ratschläge. Weil er Soldat ist, erzählt der Autor acht kleine Geschichten aus dem militärischen Bereich."
+   "explanation": "Der Bruder möchte Ratschläge. Weil er Soldat ist, erzählt der Autor acht kleine Geschichten aus dem militärischen Bereich.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_2880",
+   "appLink": true
   },
   {
    "id": "soz-01-d02",
@@ -933,7 +935,9 @@
    ],
    "correct": 2,
    "explanation": "Er erzählt sie seiner Seele (nefs), denn sie bedarf der Ratschläge vor allen anderen. Wer es wünscht, darf zuhören.",
-   "term": "nefs"
+   "term": "nefs",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_2880",
+   "appLink": true
   },
   {
    "id": "soz-01-d03",
@@ -950,7 +954,9 @@
     "Ein unausgesprochenes, immerwährendes Gebet der gesamten Schöpfung"
    ],
    "correct": 3,
-   "explanation": "Bismillah ist der Anbeginn alles Guten und ein Zeichen des Islam. Unausgesprochen ist es auch ein immerwährendes Gebet der gesamten Schöpfung (S. 7–8)."
+   "explanation": "Bismillah ist der Anbeginn alles Guten und ein Zeichen des Islam. Unausgesprochen ist es auch ein immerwährendes Gebet der gesamten Schöpfung (S. 7–8).",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_5052",
+   "appLink": true
   },
   {
    "id": "soz-01-d04",
@@ -967,7 +973,9 @@
     "Nur nachts reisen"
    ],
    "correct": 2,
-   "explanation": "Unter dem Schutz und im Namen eines Stammesfürsten ist er vor Räubern bewahrt. Auf eigene Faust geraten seine Angelegenheiten durcheinander."
+   "explanation": "Unter dem Schutz und im Namen eines Stammesfürsten ist er vor Räubern bewahrt. Auf eigene Faust geraten seine Angelegenheiten durcheinander.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_5052",
+   "appLink": true
   },
   {
    "id": "soz-01-d05",
@@ -984,7 +992,9 @@
     "Der eine reist bei Tag, der andere bei Nacht"
    ],
    "correct": 1,
-   "explanation": "Der Bescheidene beruft sich auf den Fürsten, wird vom Wegelagerer in Ruhe gelassen und in Zelten geehrt. Der Stolze lebt in Angst, muss betteln und wird unwürdig behandelt."
+   "explanation": "Der Bescheidene beruft sich auf den Fürsten, wird vom Wegelagerer in Ruhe gelassen und in Zelten geehrt. Der Stolze lebt in Angst, muss betteln und wird unwürdig behandelt.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_5052",
+   "appLink": true
   },
   {
    "id": "soz-01-d06",
@@ -1001,7 +1011,9 @@
     "Für die Zeit vor der Offenbarung"
    ],
    "correct": 2,
-   "explanation": "Die hochmütige Seele ist der Reisende, die Welt gleicht der Wüste. Deshalb soll man sich dem Namen des Königs von Ewigkeit zu Ewigkeit unterstellen, um nicht betteln und vor jedem Ereignis zittern zu müssen."
+   "explanation": "Die hochmütige Seele ist der Reisende, die Welt gleicht der Wüste. Deshalb soll man sich dem Namen des Königs von Ewigkeit zu Ewigkeit unterstellen, um nicht betteln und vor jedem Ereignis zittern zu müssen.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_5052",
+   "appLink": true
   },
   {
    "id": "soz-01-d07",
@@ -1018,7 +1030,9 @@
     "Ein hochachtbarer Fürsprecher am Hofe des Allmächtigen und Allbarmherzigen"
    ],
    "correct": 3,
-   "explanation": "Bismillah ist ein gesegneter Schatz, der eine Beziehung zur unendlichen Macht und Barmherzigkeit herstellt. Dadurch werden Schwäche und Armseligkeit zu einem Fürsprecher."
+   "explanation": "Bismillah ist ein gesegneter Schatz, der eine Beziehung zur unendlichen Macht und Barmherzigkeit herstellt. Dadurch werden Schwäche und Armseligkeit zu einem Fürsprecher.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_6790",
+   "appLink": true
   },
   {
    "id": "soz-01-d08",
@@ -1035,7 +1049,9 @@
     "Mit einem Pilger"
    ],
    "correct": 0,
-   "explanation": "Wie ein rekrutierter Soldat, der «im Namen des Gesetzes, im Namen der Regierung» handelt, erledigt er jede Arbeit und überwindet jede Schwierigkeit."
+   "explanation": "Wie ein rekrutierter Soldat, der «im Namen des Gesetzes, im Namen der Regierung» handelt, erledigt er jede Arbeit und überwindet jede Schwierigkeit.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_6790",
+   "appLink": true
   },
   {
    "id": "soz-01-d09",
@@ -1052,7 +1068,9 @@
     "Dass Menschen von Natur aus gehorsam sind"
    ],
    "correct": 2,
-   "explanation": "Man weiss sofort, dass er sich auf Macht und Ansehen eines Königs stützt. Ebenso handeln alle Dinge im Namen Gottes: Winzige Samenkerne tragen riesige Bäume."
+   "explanation": "Man weiss sofort, dass er sich auf Macht und Ansehen eines Königs stützt. Ebenso handeln alle Dinge im Namen Gottes: Winzige Samenkerne tragen riesige Bäume.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_6790",
+   "appLink": true
   },
   {
    "id": "soz-01-d10",
@@ -1069,7 +1087,9 @@
     "Mit einer Schatzkiste"
    ],
    "correct": 0,
-   "explanation": "Jeder Garten wird zu einem Kessel in der Küche der Macht, in dem die verschiedensten köstlichen Speisen gleichzeitig zubereitet werden."
+   "explanation": "Jeder Garten wird zu einem Kessel in der Küche der Macht, in dem die verschiedensten köstlichen Speisen gleichzeitig zubereitet werden.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_6790",
+   "appLink": true
   },
   {
    "id": "soz-01-d11",
@@ -1086,7 +1106,9 @@
     "Den Materialisten"
    ],
    "correct": 3,
-   "explanation": "Die Beispiele zeigen den Materialisten, dass auch Härte und Hitze unter göttlichem Auftrag handeln. Die seidenweichen Adern gehorchen wie der Stab Mosis."
+   "explanation": "Die Beispiele zeigen den Materialisten, dass auch Härte und Hitze unter göttlichem Auftrag handeln. Die seidenweichen Adern gehorchen wie der Stab Mosis.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_8528",
+   "appLink": true
   },
   {
    "id": "soz-01-d12",
@@ -1103,7 +1125,9 @@
     "Dass Abraham ein Gärtner war"
    ],
    "correct": 0,
-   "explanation": "Die Blätter, dünn wie Zigarettenpapier, bleiben in sengender Hitze frisch. Der Text vergleicht sie mit den Gliedern Abrahams, als der Befehl Gottes gegen die glühende Hitze erging (Sure 21, 69): Auch die Hitze steht unter göttlichem Befehl."
+   "explanation": "Die Blätter, dünn wie Zigarettenpapier, bleiben in sengender Hitze frisch. Der Text vergleicht sie mit den Gliedern Abrahams, als der Befehl Gottes gegen die glühende Hitze erging (Sure 21, 69): Auch die Hitze steht unter göttlichem Befehl.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_8528",
+   "appLink": true
   },
   {
    "id": "soz-01-d13",
@@ -1120,7 +1144,9 @@
     "Von Herrschern"
    ],
    "correct": 1,
-   "explanation": "Weil jedes Ding im Namen Allahs gibt, müssen auch wir im Namen Allahs geben und nehmen. Von gottvergessenen Menschen, die nicht in Seinem Namen geben, sollen wir nichts annehmen."
+   "explanation": "Weil jedes Ding im Namen Allahs gibt, müssen auch wir im Namen Allahs geben und nehmen. Von gottvergessenen Menschen, die nicht in Seinem Namen geben, sollen wir nichts annehmen.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_8528",
+   "appLink": true
   },
   {
    "id": "soz-01-d14",
@@ -1138,7 +1164,9 @@
    ],
    "correct": 3,
    "explanation": "Am Anfang das Gottesgedenken (dhikr) im Bismillah, am Ende die Danksagung (shukr) im Elhamdulillah, dazwischen das Nachsinnen (fikr): zu begreifen, dass die Gaben Geschenke des Erbarmens und Wunderwerke der Macht sind.",
-   "term": "Dhikr"
+   "term": "Dhikr",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_10266",
+   "appLink": true
   },
   {
    "id": "soz-01-d15",
@@ -1155,7 +1183,9 @@
     "Dass Könige Dank erwarten"
    ],
    "correct": 2,
-   "explanation": "Dem Überbringer die Füsse zu küssen und den Eigentümer des Geschenks zu übersehen, wäre eine Dummheit. Die sichtbaren Spender zu lieben und den wahren Geber zu vergessen, wäre noch tausendmal törichter."
+   "explanation": "Dem Überbringer die Füsse zu küssen und den Eigentümer des Geschenks zu übersehen, wäre eine Dummheit. Die sichtbaren Spender zu lieben und den wahren Geber zu vergessen, wäre noch tausendmal törichter.",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_10266",
+   "appLink": true
   },
   {
    "id": "soz-01-b01",
@@ -1172,7 +1202,9 @@
    "correct": 1,
    "explanation": "Er sagt ausdrücklich, dass er mit «Oh du Mensch» seine eigene Seele meint. Der Unterricht ist gezielt für seine Seele und bezieht sich mehr auf das Herz als auf den Verstand.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_12004",
+   "appLink": true
   },
   {
    "id": "soz-01-b02",
@@ -1189,7 +1221,9 @@
    "correct": 2,
    "explanation": "Er wollte zwanzig bis dreissig Geheimnisse erfassen; geblieben sind fünf, sechs. Behandelt werden sechs Geheimnisse.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_12004",
+   "appLink": true
   },
   {
    "id": "soz-01-b03",
@@ -1206,7 +1240,9 @@
    "correct": 3,
    "explanation": "Das Siegel der Gottheit zeigt sich im ganzen Kosmos, darauf blickt «Bismillah». Das Siegel der Erbarmung zeigt sich an der Erdkugel, darauf schaut «Bismillahi r-Rahmani r-Rahim». Das Siegel der Barmherzigkeit zeigt sich im Wesen des Menschen, darauf blickt «Al-Rahim».",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_13742",
+   "appLink": true
   },
   {
    "id": "soz-01-b04",
@@ -1223,7 +1259,9 @@
    "correct": 0,
    "explanation": "Das grosse Siegel der Gottheit wird aus der gegenseitigen Hilfeleistung, dem solidarischen Zusammengehen und der Erwiderung der Bedürfnisse im ganzen Kosmos sichtbar.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_13742",
+   "appLink": true
   },
   {
    "id": "soz-01-b05",
@@ -1240,7 +1278,9 @@
    "correct": 1,
    "explanation": "Die Besmele ist eine lichtvolle Zeile und ein starker Strang. Von oben herabkommend berührt sie den Menschen und verbindet die Erde mit dem Thron Gottes.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_13742",
+   "appLink": true
   },
   {
    "id": "soz-01-b06",
@@ -1258,7 +1298,9 @@
    "explanation": "Um die Einheit in der grossen Vielfalt zu erfassen, bräuchte es eine überaus weite Vorstellungskraft. Deshalb zeigt der Qur'an das Siegel der Einheit in einzelnen Existenzen.",
    "term": "Ahadiyet",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_15479",
+   "appLink": true
   },
   {
    "id": "soz-01-b07",
@@ -1275,7 +1317,9 @@
    "correct": 3,
    "explanation": "Um das Wesen der Sonne in ihrem ganzen Licht zu erfassen, braucht es einen umfassenden Blick. Damit man sie nicht vergisst, zeigt sie sich in jedem glänzenden Ding mit Licht, Hitze und den sieben Farben.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_15479",
+   "appLink": true
   },
   {
    "id": "soz-01-b08",
@@ -1292,7 +1336,9 @@
    "correct": 0,
    "explanation": "Die Barmherzigkeit belebt, erleuchtet und versorgt den Kosmos. Sie macht den vergänglichen Menschen zum Anwärter für die Ewigkeit und dem Herrn aller Ewigkeit zum Ansprechpartner und Freund.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_17217",
+   "appLink": true
   },
   {
    "id": "soz-01-b09",
@@ -1309,7 +1355,9 @@
    "correct": 3,
    "explanation": "Dass jede Art den Menschen selbst kennt, ist hundertfach unvernünftig. Die Hilfe sind klare Zeichen für das Wissen eines Herrn hinter dem Schleier des Kosmos, der den Menschen kennt und sich seiner erbarmt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_18955",
+   "appLink": true
   },
   {
    "id": "soz-01-b10",
@@ -1326,7 +1374,9 @@
    "correct": 0,
    "explanation": "Die Besmele ist das Sprachrohr dieses Dankes und Respekts. Man soll sie zu einem «Fahrzeug» zur Barmherzigkeit und zu einem Fürsprecher an ihrer Schwelle machen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_18955",
+   "appLink": true
   },
   {
    "id": "soz-01-b11",
@@ -1343,7 +1393,9 @@
    "correct": 1,
    "explanation": "Dass vierhunderttausend verschiedene Arten zur rechten Zeit in vollkommener Ordnung versorgt werden, ohne eine zu vergessen oder zu verwechseln, ist das Siegel der Einheit im Einzelnen und zeigt die Barmherzigkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_20693",
+   "appLink": true
   },
   {
    "id": "soz-01-b12",
@@ -1360,7 +1412,9 @@
    "correct": 2,
    "explanation": "Die Besmele ist die Leiter zum Thron der Barmherzigkeit. Sie steht am Anfang aller 114 Suren und guten Taten; nach grossen Exegeten wie Imam Schafi erscheint dieser eine Vers 114-mal als herabgesandt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_22431",
+   "appLink": true
   },
   {
    "id": "soz-01-b13",
@@ -1377,7 +1431,9 @@
    "correct": 0,
    "explanation": "Um den Herrn hinter der ganzen Vielfalt anzusprechen, bräuchte man ein Herz im Umfang der Erdkugel. Deshalb zeigt sich die Einheit im Einzelnen, damit jeder ohne Mühe unmittelbar den Herrn ansprechen kann.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_24169",
+   "appLink": true
   },
   {
    "id": "soz-01-b14",
@@ -1394,7 +1450,9 @@
    "correct": 3,
    "explanation": "Gott hat keinen Partner, kein Seinesgleichen und kein Ebenbild (Sure 42, 11). Wer bei Besinnung ist und solche Deutungen annimmt, begeht einen Fehler.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_27644",
+   "appLink": true
   },
   {
    "id": "soz-01-b15",
@@ -1411,7 +1469,9 @@
    "correct": 1,
    "explanation": "Wie Kosmos und Erdoberfläche zeigt auch das umfassende Bild des Menschen die Erscheinung des Namens «Erbarmer», im kleinen Massstab. Wie bei einem klaren Spiegel, von dem man sagt «Dieser Spiegel ist die Sonne», ist das ein Hinweis auf die Deutlichkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_29382",
+   "appLink": true
   },
   {
    "id": "soz-01-b16",
@@ -1428,7 +1488,9 @@
    "correct": 2,
    "explanation": "Man kann die Sonne nicht erreichen, aber ihr Licht gibt eine Reflexion im Spiegel in der eigenen Hand. Ebenso sind wir vom Herrn unendlich weit entfernt, Sein Licht kommt uns aber nahe.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_31120",
+   "appLink": true
   },
   {
    "id": "soz-01-b17",
@@ -1446,7 +1508,9 @@
    "explanation": "Der wertvollste Brillant und Torhüter der Schatzkammer ist Hazret Ahmed; der allerbeste Schlüssel ist die Besmele; der leicht erreichbare Schlüssel sind die Segenswünsche (salavat).",
    "term": "salavat",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_32858",
+   "appLink": true
   },
   {
    "id": "soz-02-01",
@@ -1463,7 +1527,9 @@
    "correct": 1,
    "explanation": "Unter dem Vers über die, die an das Verborgene glauben (Sure 2, 3), zeigt ein Gleichnis, welche Glückseligkeit, Gnadengabe, welcher Wohlgeschmack und welche Beruhigung im Glauben liegen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_36361",
+   "appLink": true
   },
   {
    "id": "soz-02-02",
@@ -1480,7 +1546,9 @@
    "correct": 0,
    "explanation": "Er sieht überall nur schwarz: Schwache schreien unter Gewaltmenschen, das Land wirkt wie ein Trauerhaus. Um das nicht wahrnehmen zu müssen, flüchtet er in die Trunkenheit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_36361",
+   "appLink": true
   },
   {
    "id": "soz-02-03",
@@ -1497,7 +1565,9 @@
    "correct": 2,
    "explanation": "Er gerät in ein allgemeines Volksfest: Feiern, Gottesgedenken in den Häusern, Entlassungs- und Rekrutierungsfeiern. Jeder begegnet ihm als Freund und Verwandter.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_38210",
+   "appLink": true
   },
   {
    "id": "soz-02-04",
@@ -1514,7 +1584,9 @@
    "correct": 3,
    "explanation": "Das Land eines so gerechten, barmherzigen und mächtigen Königs kann nicht so sein, wie er es sich einbildet. Der andere kommt zur Besinnung und bereut, dass ihn die Trunkenheit bis ins Delirium getrieben hatte.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_38210",
+   "appLink": true
   },
   {
    "id": "soz-02-05",
@@ -1531,7 +1603,9 @@
    "correct": 2,
    "explanation": "Für den Gläubigen ist die Welt eine Stätte der Besinnung und Prüfung. Haben Menschen und Tiere ihre Aufgabe beendet, ziehen sie voll innerer Freude in eine andere Welt hinüber.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_40060",
+   "appLink": true
   },
   {
    "id": "soz-02-06",
@@ -1548,7 +1622,9 @@
    "correct": 0,
    "explanation": "Jedes Lebewesen ist beauftragt wie ein munterer Soldat oder ein zufriedener Beamter. Die Stimmen der Geschöpfe sind Gedenken und Lobpreis zu Beginn, Dank am Ende und Freude über die Arbeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_40060",
+   "appLink": true
   },
   {
    "id": "soz-02-07",
@@ -1565,7 +1641,9 @@
    "correct": 1,
    "explanation": "Aus dem Glauben erwachsen dem Gläubigen feine und köstliche Wahrheiten; daraus folgt, dass es Frieden und Sicherheit nur im Islam und im Glauben gibt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_41909",
+   "appLink": true
   },
   {
    "id": "soz-02-08",
@@ -1583,7 +1661,9 @@
    "explanation": "In seinen Augen ist die Welt ein Trauerhaus, alle Lebewesen sind Waisen, Berge und Meere gleichen seelenlosen Leichen. Diese Wahnvorstellungen entstehen aus Un- und Irrglauben.",
    "term": "gafil",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_40060",
+   "appLink": true
   },
   {
    "id": "soz-03-01",
@@ -1600,7 +1680,9 @@
    "correct": 2,
    "explanation": "Beide Wege sind gleich lang. Auf dem linken reist man ohne Gepäck und Waffen; darin liegt eine trügerische Bequemlichkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_43758",
+   "appLink": true
   },
   {
    "id": "soz-03-02",
@@ -1617,7 +1699,9 @@
    "correct": 1,
    "explanation": "Rund 5 kg Gepäck: eine eiserne Ration und eine Wunderwaffe aus dem Zeughaus, die jeden Feind besiegen kann.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_43758",
+   "appLink": true
   },
   {
    "id": "soz-03-03",
@@ -1634,7 +1718,9 @@
    "correct": 0,
    "explanation": "Er musste bei jedermann betteln, jedes Ereignis liess ihn erzittern; am Ziel wurde er als Rebell und Fahnenflüchtiger bestraft.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_45607",
+   "appLink": true
   },
   {
    "id": "soz-03-04",
@@ -1651,7 +1737,9 @@
    "correct": 3,
    "explanation": "Der Weg ist das Leben von der Welt der Seelen durch das Grab ins Jenseits. Gottesdienst wie die fünf Gebete scheint äusserlich schwer, bringt aber tiefe Befriedigung und Erleichterung.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_45607",
+   "appLink": true
   },
   {
    "id": "soz-03-05",
@@ -1668,7 +1756,9 @@
    "correct": 0,
    "explanation": "Glaube und Gottverbundenheit sind die Quelle guter Werke und des Mutes; die Verirrung ist die Quelle aller Bosheit und Feigheit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_47456",
+   "appLink": true
   },
   {
    "id": "soz-03-06",
@@ -1685,7 +1775,9 @@
    "correct": 1,
    "explanation": "Ein Diener Gottes mit erleuchtetem Herzen fürchtet sich nicht, selbst wenn die Welt wie eine Bombe explodierte. Der Freidenker zittert schon beim Kometen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_47456",
+   "appLink": true
   },
   {
    "id": "soz-03-07",
@@ -1703,7 +1795,9 @@
    "explanation": "Das Vermögen des Menschen reicht so weit wie sein Arm, seine Hoffnungen und Leiden so weit wie sein Auge. Deshalb braucht die Seele ibadet, tevekkül, tauhid und teslim.",
    "term": "tevekkül",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_49305",
+   "appLink": true
   },
   {
    "id": "soz-03-08",
@@ -1720,7 +1814,9 @@
    "correct": 1,
    "explanation": "Der Weg der Gottverbundenheit führt in neun von zehn Fällen zur ewigen Seligkeit, der Weg der Auflehnung in neun von zehn ins Verderben.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_49305",
+   "appLink": true
   },
   {
    "id": "soz-04-01",
@@ -1737,7 +1833,9 @@
    "correct": 1,
    "explanation": "Jeder erhält 24 Goldstücke für die Wanderschaft, die Überfahrt und Dinge für die Wohnungen auf dem prächtigen Landgut.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_51154",
+   "appLink": true
   },
   {
    "id": "soz-04-02",
@@ -1754,7 +1852,9 @@
    "correct": 3,
    "explanation": "Sein Gefährte rät ihm, mit dem letzten Goldstück eine Karte für die Überfahrt zu kaufen, statt zwei Monate hungrig durch die Wüste zu wandern.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_51154",
+   "appLink": true
   },
   {
    "id": "soz-04-03",
@@ -1771,7 +1871,9 @@
    "correct": 0,
    "explanation": "Das Landgut ist das Paradies, die Überfahrt beginnt am Grab, die Fahrkarte ist das Gebet. Eine einzige Stunde genügt für alle fünf Gebete mit den Waschungen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_53004",
+   "appLink": true
   },
   {
    "id": "soz-04-04",
@@ -1789,7 +1891,9 @@
    "explanation": "Manche Rechtschaffene legen eine Strecke von tausend Jahren an einem Tag zurück, andere eine von fünfzigtausend Jahren; der Qur'an weist in zwei Ayat darauf hin.",
    "term": "taqva",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_53004",
+   "appLink": true
   },
   {
    "id": "soz-04-05",
@@ -1806,7 +1910,9 @@
    "correct": 3,
    "explanation": "Wer 23 Stunden für das kurze irdische Leben verwendet und keine einzige für das ewige, handelt gegen sich selbst und gegen jede Vernunft.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_54853",
+   "appLink": true
   },
   {
    "id": "soz-04-06",
@@ -1824,7 +1930,9 @@
    "explanation": "So schreibt der Betende das Kapital seines ganzen irdischen Lebens dem Jenseits gut und verewigt sein vergängliches Leben.",
    "term": "niyet",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_54853",
+   "appLink": true
   },
   {
    "id": "soz-05-01",
@@ -1841,7 +1949,9 @@
    "correct": 2,
    "explanation": "Beides entspricht der menschlichen Natur. Das Gleichnis von den zwei Soldaten bei einer Mobilmachung macht das deutlich.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_56702",
+   "appLink": true
   },
   {
    "id": "soz-05-02",
@@ -1858,7 +1968,9 @@
    "correct": 1,
    "explanation": "Seine vornehmste Pflicht sind Manöver und Gefechte. Wenn er in der Küche hilft, sagt er, er erledige Nebenaufgaben des Staates, nicht, er arbeite für seinen Lebensunterhalt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_56702",
+   "appLink": true
   },
   {
    "id": "soz-05-03",
@@ -1875,7 +1987,9 @@
    "correct": 3,
    "explanation": "Die Aufgabe des Königs überträgt er manchmal auf uns; unsere eigene Aufgabe wird durch seine Hilfe erleichtert.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_58551",
+   "appLink": true
   },
   {
    "id": "soz-05-04",
@@ -1892,7 +2006,9 @@
    "correct": 0,
    "explanation": "Das Schlachtfeld ist das irdische Leben, das Heer die Menschheit, das Regiment die islamische Welt unserer Zeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_58551",
+   "appLink": true
   },
   {
    "id": "soz-05-05",
@@ -1910,7 +2026,9 @@
    "explanation": "Der Vergleich von Fischen und Füchsen, Jungtieren und Raubtieren, Bäumen und Tieren zeigt: Erlaubte (helal) Versorgung kommt aus Schwäche und Bedürftigkeit.",
    "term": "helal",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_60400",
+   "appLink": true
   },
   {
    "id": "soz-05-06",
@@ -1927,7 +2045,9 @@
    "correct": 0,
    "explanation": "In der Küche Gottes einen Anteil zu suchen, um niemandem zur Last zu fallen, ist nach dem Gebet schön. Wer aber aus Sorge ums Brot das Gebet unterlässt, gleicht dem Soldaten, der die Manöver schwänzt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_62249",
+   "appLink": true
   },
   {
    "id": "soz-05-07",
@@ -1944,7 +2064,9 @@
    "correct": 2,
    "explanation": "Für das irdische Leben reichen seine Fähigkeiten nicht einmal an die eines Spatzen. Stellt er das Jenseits in den Mittelpunkt, gleicht er einem Oberkommandanten über das Tierreich.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_62249",
+   "appLink": true
   },
   {
    "id": "soz-06-01",
@@ -1961,7 +2083,9 @@
    "correct": 0,
    "explanation": "Im Erlass (ferman) bietet er einen hohen Preis, als wäre es ihr Eigentum. Die Maschinen sollen in seinem Namen arbeiten; ihr Wert steigt von eins auf tausend.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_64098",
+   "appLink": true
   },
   {
    "id": "soz-06-02",
@@ -1978,7 +2102,9 @@
    "correct": 1,
    "explanation": "Produkte und Gewinn gehören den Gutsherren und bleiben in ihren Händen bis zur Abberufung. So erhalten sie fünffach Gewinn über Gewinn.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_65947",
+   "appLink": true
   },
   {
    "id": "soz-06-03",
@@ -1995,7 +2121,9 @@
    "correct": 2,
    "explanation": "Er glaubte, ewig auf seinem Landgut zu bleiben, und fragte: «Wer ist denn dieser König?» Später geriet er in Schwierigkeiten, ein verdientes Schicksal.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_65947",
+   "appLink": true
   },
   {
    "id": "soz-06-04",
@@ -2012,7 +2140,9 @@
    "correct": 3,
    "explanation": "Der König ist der Schöpfer, der Botschafter der Prophet, der Erlass der Qur'an mit Sure 9, 111.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_67797",
+   "appLink": true
   },
   {
    "id": "soz-06-05",
@@ -2030,7 +2160,9 @@
    "explanation": "Die Minuten des Lebens vergehen wie Samenkörner, drüben öffnen sie sich zu Blüten der Glückseligkeit; im Zwischenreich (alem-i berzah) bietet sich ein lichtvoller Anblick.",
    "term": "baqi",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_69646",
+   "appLink": true
   },
   {
    "id": "soz-06-06",
@@ -2047,7 +2179,9 @@
    "correct": 2,
    "explanation": "Deshalb flüchtet der sündige Mensch so oft in Trunksucht und Spiel. Dem wahren Besitzer verkauft, wird der Verstand zum Wegweiser (murshid) zur ewigen Glückseligkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_71495",
+   "appLink": true
   },
   {
    "id": "soz-06-07",
@@ -2064,7 +2198,9 @@
    "correct": 0,
    "explanation": "Auf eigene Rechnung sinkt es zum Betrachter vergänglicher Schönheiten im Dienst der Gelüste. Dem Allsehenden verkauft, gleicht es einer Biene im Garten der Barmherzigkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_71495",
+   "appLink": true
   },
   {
    "id": "soz-06-08",
@@ -2082,7 +2218,9 @@
    "explanation": "Deshalb ist der Gläubige in seinem Wesen für das Paradies bestimmt, der Ungläubige von der Hölle geprägt.",
    "term": "nefs-i emmare",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_73344",
+   "appLink": true
   },
   {
    "id": "soz-06-09",
@@ -2099,7 +2237,9 @@
    "correct": 3,
    "explanation": "Unsere Aufgabe ist, in Seinem Namen zu handeln, zu beginnen, auszugeben und anzunehmen, im Rahmen Seiner Gesetze, und bei Fehlern um Vergebung zu bitten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_77042",
+   "appLink": true
   },
   {
    "id": "soz-07-01",
@@ -2117,7 +2257,9 @@
    "explanation": "Dieser Satz enträtselt das tiefe kosmische Geheimnis (tilsim). Die beiden Schlüssel sind: in Geduld zum Schöpfer Zuflucht nehmen und sich in Dankbarkeit dem Versorger zuwenden.",
    "term": "tilsim",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_78891",
+   "appLink": true
   },
   {
    "id": "soz-07-02",
@@ -2134,7 +2276,9 @@
    "correct": 2,
    "explanation": "An dem Galgen werden alle seine Freunde hingerichtet, und auch er wartet darauf. In dieser verzweifelten Lage erscheint eine lichterfüllte Gestalt wie Chidr.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_78891",
+   "appLink": true
   },
   {
    "id": "soz-07-03",
@@ -2151,7 +2295,9 @@
    "correct": 1,
    "explanation": "Dazu kommen zwei Heilmittel, die die Wunden in zarte Blumen verwandeln, und eine Fahrkarte, mit der eine Jahreswanderung an einem Tag überflogen wird.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_80741",
+   "appLink": true
   },
   {
    "id": "soz-07-04",
@@ -2168,7 +2314,9 @@
    "correct": 2,
    "explanation": "Er will den Soldaten zu Zechen, Bildern und Musik verführen und rät auch, das Heilmittel wegzuwerfen. Eine Donnerstimme heisst den Soldaten, dem Betrüger zu sagen: Wenn du Löwe, Galgen, Wunden und Verbannung nicht beseitigen kannst, dann schweige.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_82590",
+   "appLink": true
   },
   {
    "id": "soz-07-05",
@@ -2185,7 +2333,9 @@
    "correct": 3,
    "explanation": "Die beiden Wunden sind die unendliche menschliche Schwäche und die grenzenlose Armseligkeit; die Reise in die Verbannung führt aus der Welt der Geister bis zur Auferstehung über die Brücke Sirat.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_84439",
+   "appLink": true
   },
   {
    "id": "soz-07-06",
@@ -2202,7 +2352,9 @@
    "correct": 0,
    "explanation": "Deshalb lieben die Vollendeten (kamil insanlar) den Tod, weil sie die Wahrheit hinter ihm schauen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_84439",
+   "appLink": true
   },
   {
    "id": "soz-07-07",
@@ -2219,7 +2371,9 @@
    "correct": 1,
    "explanation": "Wer sich wegen seiner Schwäche auf den Herrn stützt, braucht nichts zu fürchten und sagt im Unglück: «Allah gehören wir, und zu Ihm kehren wir zurück.»",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_86288",
+   "appLink": true
   },
   {
    "id": "soz-07-08",
@@ -2236,7 +2390,9 @@
    "correct": 2,
    "explanation": "Die Liebe aller Mütter ist nur ein Aufleuchten eines Blitzstrahls der Allerbarmung. So machen die Vollendeten ihre Schwäche und Furcht zu ihrem Fürsprecher.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_86288",
+   "appLink": true
   },
   {
    "id": "soz-07-09",
@@ -2253,7 +2409,9 @@
    "correct": 0,
    "explanation": "Nur wer die Gebote hält, erhält auf dem dunklen Weg Wegzehrung, Licht und ein Reittier (Buraq). Der Lichtstrahl der Wissenschaft reicht nur bis an die Pforte des Grabes.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_88137",
+   "appLink": true
   },
   {
    "id": "soz-07-10",
@@ -2270,7 +2428,9 @@
    "correct": 3,
    "explanation": "Beim zweiten Heilmittel, Dankbarkeit und Zufriedenheit, wird die Armseligkeit des Gastes beim freigiebigen Gastgeber wie Hunger, der die Gestalt eines Kochs annimmt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_88137",
+   "appLink": true
   },
   {
    "id": "soz-08-01",
@@ -2287,7 +2447,9 @@
    "correct": 1,
    "explanation": "Der unreligiöse Mensch wäre das unglückseligste aller Geschöpfe. Das Geheimnis (tilsim) der Welt wird durch «Oh Gott» und «Es gibt keinen Gott ausser Allah» erschlossen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_93685",
+   "appLink": true
   },
   {
    "id": "soz-08-02",
@@ -2304,7 +2466,9 @@
    "correct": 2,
    "explanation": "Auf dem rechten Weg muss man sich an Recht und Gesetz halten, reist dafür aber in Sicherheit und glücklich.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_95534",
+   "appLink": true
   },
   {
    "id": "soz-08-03",
@@ -2321,7 +2485,9 @@
    "correct": 1,
    "explanation": "Oben wartet der Löwe wie ein Wächter, unten reckt ein Drache den Hals nach seinen Füssen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_95534",
+   "appLink": true
   },
   {
    "id": "soz-08-04",
@@ -2338,7 +2504,9 @@
    "correct": 3,
    "explanation": "Der unglückliche Bruder erkennt darin kein besonderes Geheimnis, isst von den Früchten, obwohl manche giftig sind, und tut so, als wäre er in einem Garten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_97383",
+   "appLink": true
   },
   {
    "id": "soz-08-05",
@@ -2355,7 +2523,9 @@
    "correct": 0,
    "explanation": "Weil er das Offensichtliche falsch beurteilt, erlebt er das Geschehen so, wie er es sich vorstellt: Er kann weder sterben noch leben.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_97383",
+   "appLink": true
   },
   {
    "id": "soz-08-06",
@@ -2372,7 +2542,9 @@
    "correct": 0,
    "explanation": "Er übersieht die übelerregenden Dinge, macht vom Guten guten Gebrauch und verlässt den Garten erholt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_99232",
+   "appLink": true
   },
   {
    "id": "soz-08-07",
@@ -2389,7 +2561,9 @@
    "correct": 1,
    "explanation": "In der Zisterne ist seine Angst tausendmal kleiner als die seines Bruders. Aus seinen guten Gedanken folgt: Ein verborgener Herrscher stellt ihn auf die Probe.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_101081",
+   "appLink": true
   },
   {
    "id": "soz-08-08",
@@ -2407,7 +2581,9 @@
    "explanation": "Aus der Frage, wer ihn prüft, wächst Neugier, daraus Liebe, daraus der Wunsch, das Geheimnis zu entschleiern, und daraus der Wille (irade).",
    "term": "irade",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_101081",
+   "appLink": true
   },
   {
    "id": "soz-08-09",
@@ -2424,7 +2600,9 @@
    "correct": 3,
    "explanation": "Der verborgene Herrscher hat die Früchte als Muster für die Speisen aufgehängt, die Er Seinen Gästen bereitet. Danach betet er, und die Zisterne öffnet sich zu einem Garten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_102930",
+   "appLink": true
   },
   {
    "id": "soz-08-10",
@@ -2441,7 +2619,9 @@
    "correct": 0,
    "explanation": "Man darf kosten. Der Glückliche begreift, worum es geht, und verschiebt den Genuss; die Vorfreude versüsst ihm das Warten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_104779",
+   "appLink": true
   },
   {
    "id": "soz-08-11",
@@ -2458,7 +2638,9 @@
    "correct": 1,
    "explanation": "Der Unglückliche gleicht dem Mann, der sich im Sommergarten berauscht und sich unter Wölfen im Winter wähnt. Der Glückliche sieht die Wirklichkeit, und die ist schön.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_106629",
+   "appLink": true
   },
   {
    "id": "soz-08-12",
@@ -2475,7 +2657,9 @@
    "correct": 2,
    "explanation": "Die Wüste ist die Erde und das irdische Leben, der Löwe der Tod, die Zisterne der Körper und die Lebensspanne, der Baum das menschliche Leben.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_108478",
+   "appLink": true
   },
   {
    "id": "soz-08-13",
@@ -2492,7 +2676,9 @@
    "correct": 1,
    "explanation": "Der Schlund des Drachens ist das Grab als Tor zum Zwischenreich (berzah). Für den Gläubigen öffnet er die Pforte in die Gärten Edens.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_110327",
+   "appLink": true
   },
   {
    "id": "soz-08-14",
@@ -2509,7 +2695,9 @@
    "correct": 0,
    "explanation": "Aus derselben Erde spriessen alle Pflanzen, aus demselben Wasser entstehen alle Tiere; verschiedene Nahrung wird zur gleichen Haut. Das ist das Siegel des Ahad-i Samed.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_110327",
+   "appLink": true
   },
   {
    "id": "soz-08-15",
@@ -2526,7 +2714,9 @@
    "correct": 2,
    "explanation": "Wer nur auf das vergängliche Leben schaut, lebt äusserlich im Paradies, innerlich in der Hölle. Wer sich um das ewige bemüht, ist in beiden Welten glücklich.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_114025",
+   "appLink": true
   },
   {
    "id": "soz-09-01",
@@ -2543,7 +2733,9 @@
    "correct": 0,
    "explanation": "Deshalb ist dem Menschen befohlen, zu diesen Zeiten Gott intensiver zu loben und für die Gnadengaben (nimet) zwischen zwei Gebetszeiten zu danken.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_115874",
+   "appLink": true
   },
   {
    "id": "soz-09-02",
@@ -2561,7 +2753,9 @@
    "explanation": "Vor der Majestät sagt man «Subhanallah», vor der Vollkommenheit «Allahu Ekber», vor der Schönheit «Elhamdulillah». Deshalb werden diese Worte nach dem Gebet je dreiunddreissigmal wiederholt.",
    "term": "tesbih",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_117723",
+   "appLink": true
   },
   {
    "id": "soz-09-03",
@@ -2578,7 +2772,9 @@
    "correct": 2,
    "explanation": "Die Wiederholung soll den Sinn des Gebetes hervorheben und seinen Wert erhöhen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_117723",
+   "appLink": true
   },
   {
    "id": "soz-09-04",
@@ -2595,7 +2791,9 @@
    "correct": 3,
    "explanation": "Wie der Mensch ein Abbild der Welt im Kleinen und die Fatiha der Abglanz des Qur'an ist, so ist das Gebet eine heilige Landkarte, wie der Lichtkegel eines Leuchtturms.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_119572",
+   "appLink": true
   },
   {
    "id": "soz-09-05",
@@ -2612,7 +2810,9 @@
    "correct": 0,
    "explanation": "Auf der grossen Uhr Gottes entsprechen Tag und Nacht den Sekunden, die Jahre den Minuten, die Generationen den Stunden und die Epochen den Tagen. Die Zeiger erinnern einander.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_119572",
+   "appLink": true
   },
   {
    "id": "soz-09-06",
@@ -2629,7 +2829,9 @@
    "correct": 1,
    "explanation": "Mittag erinnert an den Sommer und die Erschaffung des Menschen, der Nachmittag an die späten Jahre und die Glückliche Zeit des Propheten, der Abend an den Spätherbst und den Tod.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_121422",
+   "appLink": true
   },
   {
    "id": "soz-09-07",
@@ -2646,7 +2848,9 @@
    "correct": 2,
    "explanation": "So sicher, wie der Nacht ihr Morgen und dem Winter sein Frühling folgt, folgt der Morgen der Wiederversammlung.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_123271",
+   "appLink": true
   },
   {
    "id": "soz-09-08",
@@ -2663,7 +2867,9 @@
    "correct": 3,
    "explanation": "Der Mensch ist schwach, armselig und mit vielen Bedürfnissen belastet. Am Morgen legt er an der Schwelle des Allmächtigen seine Wünsche offen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_125120",
+   "appLink": true
   },
   {
    "id": "soz-09-09",
@@ -2680,7 +2886,9 @@
    "correct": 0,
    "explanation": "Die Zeit lässt die Melancholie des Herbstes und die Trübsal des Alters ahnen; die Gnadengaben des Tages haben sich angehäuft.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_126969",
+   "appLink": true
   },
   {
    "id": "soz-09-10",
@@ -2697,7 +2905,9 @@
    "correct": 1,
    "explanation": "Der Betende bietet Gott seine Dienste an, bittet um Hilfe und bekennt mit dem ganzen All seine Schwäche und Hilflosigkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_130667",
+   "appLink": true
   },
   {
    "id": "soz-09-11",
@@ -2714,7 +2924,9 @@
    "correct": 2,
    "explanation": "Der Mensch, hilflos und ins Dunkel der Zukunft getaucht, nimmt Zuflucht beim Angebeteten ohne Anfang und Geliebten ohne Ende (Sure 6, 76).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_134366",
+   "appLink": true
   },
   {
    "id": "soz-09-12",
@@ -2731,7 +2943,9 @@
    "correct": 3,
    "explanation": "Vor dem Schlaf tritt der Mensch zum Nachtgebet hin, um das Tagebuch seiner Werke mit einer guten Eintragung abzuschliessen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_136215",
+   "appLink": true
   },
   {
    "id": "soz-09-13",
@@ -2749,7 +2963,9 @@
    "explanation": "Der Mensch, der niemanden hat, wendet sich dem König zu und erlangt die Stufe eines bevorzugten Gastes. Danach erbittet er Rechtleitung (hidayet) auf dem geraden Weg.",
    "term": "sirat-i mustaqim",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_138064",
+   "appLink": true
   },
   {
    "id": "soz-09-14",
@@ -2766,7 +2982,9 @@
    "correct": 1,
    "explanation": "Wie die ganze Schöpfung sich jährlich auf dem Gebetsteppich des Untergangs niederwirft, wirft sich auch der Mensch in Liebe und im Bewusstsein seiner Nichtigkeit nieder.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_139913",
+   "appLink": true
   },
   {
    "id": "soz-10-01",
@@ -2783,7 +3001,9 @@
    "correct": 0,
    "explanation": "Der Sinn der Erzählungen ist die Wahrheit, die sich an ihrem Ende herausstellt; es sind keine blossen Phantasiegeschichten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_143654",
+   "appLink": true
   },
   {
    "id": "soz-10-02",
@@ -2800,7 +3020,9 @@
    "correct": 1,
    "explanation": "Ein so wohlgeordnetes Land kann nicht ohne Herrscher sein. Dazu kommt der Zug, der stündlich aus dem Unsichtbaren Güter bringt; laut Fussnote steht er für den Jahreskreis.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_145673",
+   "appLink": true
   },
   {
    "id": "soz-10-03",
@@ -2817,7 +3039,9 @@
    "correct": 2,
    "explanation": "Täglich kommt eine Schar, eine andere geht; bald werden die Bewohner in ein ewiges Königreich verpflanzt und empfangen Lohn oder Strafe.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_147693",
+   "appLink": true
   },
   {
    "id": "soz-10-04",
@@ -2834,7 +3058,9 @@
    "correct": 3,
    "explanation": "Dieser Schluss auf einen Obersten Gerichtshof wiederholt sich in den folgenden Bildern.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_149712",
+   "appLink": true
   },
   {
    "id": "soz-10-05",
@@ -2851,7 +3077,9 @@
    "correct": 0,
    "explanation": "Alle, auch die Ärmsten und Kranken, werden vollkommen versorgt. Doch der Unterdrücker bleibt im Stolz und der Beleidigte in der Erniedrigung; das bleibt dem Obersten Gerichtshof überlassen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_149712",
+   "appLink": true
   },
   {
    "id": "soz-10-06",
@@ -2868,7 +3096,9 @@
    "correct": 1,
    "explanation": "Der Mensch ist ein Feind dessen, was er nicht kennt und nicht erreicht. Jeder sieht das Licht nur einen Augenblick und geht ungesättigt; also geht er hinüber in ewige Gärten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_153751",
+   "appLink": true
   },
   {
    "id": "soz-10-07",
@@ -2885,7 +3115,9 @@
    "correct": 2,
    "explanation": "Ein König, der den einfachsten Wunsch erfüllt, wird die Bitte seines höchsten Botschafters, zugleich die Bitte aller, nicht ablehnen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_153751",
+   "appLink": true
   },
   {
    "id": "soz-10-08",
@@ -2902,7 +3134,9 @@
    "correct": 3,
    "explanation": "Alle Einwohner bestätigen: «Das ist es, was wir wünschen.» Dem König fällt die Erfüllung leichter als die Rastplätze, die er für fünf, sechs Tage geschaffen hat.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_155771",
+   "appLink": true
   },
   {
    "id": "soz-10-09",
@@ -2919,7 +3153,9 @@
    "correct": 0,
    "explanation": "Auf den Befehl «Sei! Und es ist» pflanzen dornige Sträucher ihre Bajonette auf, und jeder Frühlingstag ist wie ein Feiertag für eine bestimmte Pflanzenart.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_157790",
+   "appLink": true
   },
   {
    "id": "soz-10-10",
@@ -2936,7 +3172,9 @@
    "correct": 1,
    "explanation": "Jeder empfängt dort Glückseligkeit entsprechend seiner Fähigkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_159810",
+   "appLink": true
   },
   {
    "id": "soz-10-11",
@@ -2953,7 +3191,9 @@
    "correct": 2,
    "explanation": "Ein König, der die geringsten Handlungen nicht vernachlässigt, muss die bedeutendsten Taten abrechnen; weil sie hier unbestraft bleiben, bleibt das dem Obersten Gerichtshof überlassen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_161829",
+   "appLink": true
   },
   {
    "id": "soz-10-12",
@@ -2970,7 +3210,9 @@
    "correct": 3,
    "explanation": "Er nennt eine Persönlichkeit einen Lügner, deren offensichtliche Werke für ihre Aufrichtigkeit zeugen; ein Wortbruch wäre mit der Würde ihrer Regierung unvereinbar.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_163849",
+   "appLink": true
   },
   {
    "id": "soz-10-13",
@@ -2987,7 +3229,9 @@
    "correct": 0,
    "explanation": "Die führenden Persönlichkeiten sind die Propheten und Heiligen. Das Herz ist Spiegel der Offenbarung und Empfangsorgan der Eingebungen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_163849",
+   "appLink": true
   },
   {
    "id": "soz-10-14",
@@ -3005,7 +3249,9 @@
    "explanation": "Alle Kundschafter berichten übereinstimmend, dass Quelle und Sitz des Reiches anderswo liegen und die Gebäude hier nur vorübergehend sind.",
    "term": "Tevatur",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_165868",
+   "appLink": true
   },
   {
    "id": "soz-10-15",
@@ -3022,7 +3268,9 @@
    "correct": 2,
    "explanation": "Das Bild des Nauruzfestes steht für den Frühling: Die Szenen wechseln wie auf einer Kinoleinwand. Die vergänglichen Formen bringen beständige Bilder und bleibende Früchte hervor.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_167888",
+   "appLink": true
   },
   {
    "id": "soz-10-16",
@@ -3039,7 +3287,9 @@
    "correct": 3,
    "explanation": "Man müsste die offensichtliche Weisheit, das Mitleid und die Gerechtigkeit leugnen wie die Sonne am helllichten Tag. Das tun nur Sophisten.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_171926",
+   "appLink": true
   },
   {
    "id": "soz-10-17",
@@ -3056,7 +3306,9 @@
    "correct": 0,
    "explanation": "Der Sold wird an einem bestimmten Tag aus der königlichen Privatschatulle gezahlt, erst nach Verlassen des Ortes. Ohne bleibende Stätte wären Ausweis und Soldbuch sinnlos.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_173946",
+   "appLink": true
   },
   {
    "id": "soz-10-18",
@@ -3074,7 +3326,9 @@
    "explanation": "Der Irrtum der triebverhafteten Seele, der Philosophie und des Unglaubens ist, Gott den Gerechten nicht anzuerkennen.",
    "term": "nefs-i emmare",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_180004",
+   "appLink": true
   },
   {
    "id": "soz-10-19",
@@ -3091,7 +3345,9 @@
    "correct": 2,
    "explanation": "Das Antlitz der Erde ist eine Seite, ein Baum ein Wort, eine Frucht ein Buchstabe, ein Kern ein Punkt mit dem Programm eines ganzen Baumes.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_180004",
+   "appLink": true
   },
   {
    "id": "soz-10-20",
@@ -3108,7 +3364,9 @@
    "correct": 0,
    "explanation": "Das Universum ist ein Schloss mit Sonne und Mond als Lampen und Sternen als Kerzen; die Bilder werden auf dreihundertsechzig Arten erneuert.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_182024",
+   "appLink": true
   },
   {
    "id": "soz-10-21",
@@ -3125,7 +3383,9 @@
    "correct": 1,
    "explanation": "Ebenso müsste man, wer den Schöpfer leugnet, in jedem Ding und jedem Stäubchen eine absolute Gottheit anerkennen; etwa ein Atom, das Form und Ablauf aller Arten kennen müsste.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_184043",
+   "appLink": true
   },
   {
    "id": "soz-10-22",
@@ -3142,7 +3402,9 @@
    "correct": 2,
    "explanation": "In jedem Ding liegen Beweise der Einheit: Aus allen Dingen eines und aus einem alle zu machen, ist dem Schöpfer eigen. «Es gibt kein Ding, das Ihn nicht mit Lob und Dank preist.»",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_186063",
+   "appLink": true
   },
   {
    "id": "soz-10-23",
@@ -3159,7 +3421,9 @@
    "correct": 3,
    "explanation": "So wie es der Sonne unmöglich ist, keine Strahlen auszusenden, ist es der Gottheit unmöglich, sich nicht durch Gesandte zu offenbaren. Der höchste Botschafter im Gleichnis ist der Gesandte Gottes.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_186063",
+   "appLink": true
   },
   {
    "id": "soz-10-24",
@@ -3176,7 +3440,9 @@
    "correct": 0,
    "explanation": "Der Herr des Alls löst das Rätsel nach Sinn und Zweck des sich wandelnden Universums durch einen Botschafter und teilt so Seinen Willen mit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_190102",
+   "appLink": true
   },
   {
    "id": "soz-10-25",
@@ -3193,7 +3459,9 @@
    "correct": 1,
    "explanation": "Unter fast tausend bestätigten Wundern genügt der Qur'an als Ozean der Wahrheit; seine etwa vierzig Aspekte bespricht das Fünfundzwanzigste Wort.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_192121",
+   "appLink": true
   },
   {
    "id": "soz-10-26",
@@ -3210,7 +3478,9 @@
    "correct": 2,
    "explanation": "Der Mensch ist nicht unbedeutend: Er ist Meister allen Seins durch seine umfassenden Anlagen und Diener stellvertretend für die ganze Schöpfung. Ein grenzenloses Verbrechen erfordert eine grenzenlose Strafe.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_192121",
+   "appLink": true
   },
   {
    "id": "soz-10-27",
@@ -3227,7 +3497,9 @@
    "correct": 3,
    "explanation": "Eine Herrschaft, die die Welt zu erhabenen Zielen geschaffen hat, muss die Gläubigen belohnen und die Irregeleiteten bestrafen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_194141",
+   "appLink": true
   },
   {
    "id": "soz-10-28",
@@ -3244,7 +3516,9 @@
    "correct": 0,
    "explanation": "Säuglinge werden bestens versorgt, Wölfe leiden trotz Stärke; Fische werden fett, der schlaue Fuchs und der Affe bleiben mager. Unterhalt und Befähigung verhalten sich umgekehrt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_196160",
+   "appLink": true
   },
   {
    "id": "soz-10-29",
@@ -3261,7 +3535,9 @@
    "correct": 1,
    "explanation": "Ebenso werden wir aus der Hand eines Insekts ohne Hände in seidenweiche Kleider gehüllt, und in einem winzigen Kern ist eine Schatzkammer aufbewahrt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_196160",
+   "appLink": true
   },
   {
    "id": "soz-10-30",
@@ -3278,7 +3554,9 @@
    "correct": 2,
    "explanation": "Dazu gibt der hungrige Löwe sein Fleisch dem Jungen, und der Feigenbaum, der sich vom Schlamm ernährt, gibt seinen Früchten reine Milch; das tun sie im Namen eines Barmherzigen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_198180",
+   "appLink": true
   },
   {
    "id": "soz-10-31",
@@ -3295,7 +3573,9 @@
    "correct": 3,
    "explanation": "Dann müsste das göttliche Erbarmen aufhören, Realität zu sein. Deshalb muss es einen Ort der Glückseligkeit geben, wie man die Sonne am Tag nicht leugnen kann.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_200199",
+   "appLink": true
   },
   {
    "id": "soz-10-32",
@@ -3312,7 +3592,9 @@
    "correct": 0,
    "explanation": "Auf dem Weg des Glaubens sind die Tatsachen möglich und verstandesgemäss, auf dem des Unglaubens erscheint die Wahrheit unvorstellbar. Die Philosophen halten etwas für unmöglich und leugnen es deshalb.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_202218",
+   "appLink": true
   },
   {
    "id": "soz-10-33",
@@ -3330,7 +3612,9 @@
    "explanation": "Dies ist die Spur einer Feder voll unendlicher Weisheit. Im winzigen Körper des Menschen findet sich sogar das Inhaltsverzeichnis des ganzen Universums.",
    "term": "qader",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_204238",
+   "appLink": true
   },
   {
    "id": "soz-10-34",
@@ -3347,7 +3631,9 @@
    "correct": 2,
    "explanation": "Diese Gerechtigkeit erfährt er im kurzen Leben nicht; also wird der Herr eine immerwährende Hölle und ein ewiges Paradies haben.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_208277",
+   "appLink": true
   },
   {
    "id": "soz-10-35",
@@ -3364,7 +3650,9 @@
    "correct": 3,
    "explanation": "Ohne Fortleben der Bewunderer erlischt in ihren Augen der Wert der Vollkommenheit. Daraus erklärt der Text, wie der Ungläubige zum Feind Allahs wird.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_212316",
+   "appLink": true
   },
   {
    "id": "soz-10-36",
@@ -3381,7 +3669,9 @@
    "correct": 0,
    "explanation": "Sehen und Gesehen-Werden verlangen nach beständiger Anwesenheit sehnsüchtiger Betrachter; ein sterblicher Bewunderer genügt einer immerwährenden Schönheit nicht.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_214335",
+   "appLink": true
   },
   {
    "id": "soz-10-37",
@@ -3398,7 +3688,9 @@
    "correct": 1,
    "explanation": "Der Herr hört die leiseste Stimme und befriedigt das primitivste Bedürfnis; also wird er das höchste Gebet Seines grössten Dieners nicht unerhört lassen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_216355",
+   "appLink": true
   },
   {
    "id": "soz-10-38",
@@ -3415,7 +3707,9 @@
    "correct": 2,
    "explanation": "Er bittet im Namen des Menschengeschlechtes um Beständigkeit, und die Erleuchteten der Menschheit sagen hinter ihm «Amen».",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_220394",
+   "appLink": true
   },
   {
    "id": "soz-10-39",
@@ -3433,7 +3727,9 @@
    "explanation": "Laut Fussnote hat sich im Lichte Ahmeds die Gestalt der Welt verändert: Jedes Sein wurde zu einem Brief des Unwandelbaren; ohne dieses Licht bliebe alles ein Spielzeug des Zufalls.",
    "term": "Illiyyun",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_222413",
+   "appLink": true
   },
   {
    "id": "soz-10-40",
@@ -3450,7 +3746,9 @@
    "correct": 0,
    "explanation": "Laut Fussnote ist der Erdball im Vergleich zum Jenseits nur eine knappe Seite; die Gärten des Frühlings zu erschaffen ist schwieriger als das Paradies.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_226452",
+   "appLink": true
   },
   {
    "id": "soz-10-41",
@@ -3467,7 +3765,9 @@
    "correct": 0,
    "explanation": "Ebenso kann die Herrschaft Gottes in ihrer Vollkommenheit nicht zugleich hässlich sein; das wäre das Seltsamste aller unmöglichen Beispiele.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_228472",
+   "appLink": true
   },
   {
    "id": "soz-10-42",
@@ -3484,7 +3784,9 @@
    "correct": 1,
    "explanation": "Eine Herrschaft, der Sonnen und Atome wie gehorsame Soldaten unterworfen sind, stützt sich nicht auf vergängliche Menschen in einer Herberge, sondern errichtet einen ewigen Sitz.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_230491",
+   "appLink": true
   },
   {
    "id": "soz-10-43",
@@ -3501,7 +3803,9 @@
    "correct": 2,
    "explanation": "Der Herr gibt Millionen Taler für eine Nacht aus, zerstört täglich einen Teil und richtet für Neuankömmlinge neu ein. Daran zeigt sich, dass er ewige Wohnstätten und unerschöpfliche Schätze besitzt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_232511",
+   "appLink": true
   },
   {
    "id": "soz-10-44",
@@ -3518,7 +3822,9 @@
    "correct": 3,
    "explanation": "Diente er nur kurz dem Genuss, verursachte er durch sein Ende einen langen Schmerz. Er dient der Belehrung und verlangt Dankbarkeit.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_234530",
+   "appLink": true
   },
   {
    "id": "soz-10-45",
@@ -3535,7 +3841,9 @@
    "correct": 0,
    "explanation": "Sogar Samenkörner, die nie keimen, erreichen dieses Ziel durch ihre blosse Fähigkeit; Sinnlosigkeit berührt sie nicht.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_236549",
+   "appLink": true
   },
   {
    "id": "soz-10-46",
@@ -3552,7 +3860,9 @@
    "correct": 1,
    "explanation": "Gedächtnis und Samenkorn sind wie eine Kamera und eine Wohnung für ihre Fortdauer. Wenn schon die unterste Sprosse so bewahrt wird, wie sehr ist der Mensch mit seiner Seele mit der Ewigkeit verbunden.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_240588",
+   "appLink": true
   },
   {
    "id": "soz-10-47",
@@ -3569,7 +3879,9 @@
    "correct": 2,
    "explanation": "Laut Fussnote müssen Früchte, Blumen und Blätter vergehen, damit das Tor für die Nachfolgenden offen bleibt. Der Frühling gleicht einem Obstbaum, der die Auferstehung zeigt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_242608",
+   "appLink": true
   },
   {
    "id": "soz-10-48",
@@ -3586,7 +3898,9 @@
    "correct": 3,
    "explanation": "Alle seine Taten werden aufgenommen, aufgeschrieben und für den Tag der Abrechnung aufbewahrt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_242608",
+   "appLink": true
   },
   {
    "id": "soz-10-49",
@@ -3603,7 +3917,9 @@
    "correct": 0,
    "explanation": "Ein Schutz, der alles im Himmel und auf Erden in Ordnung überwacht, wird auch die Taten des Menschen sichten und mit der Waage der Gerechtigkeit wägen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_244627",
+   "appLink": true
   },
   {
    "id": "soz-10-50",
@@ -3620,7 +3936,9 @@
    "correct": 1,
    "explanation": "Nach dem Achten Grundsatz hat der ewige Meister neben dieser vergänglichen noch eine ewige Welt, zu der Er Seine Diener anspornt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_244627",
+   "appLink": true
   },
   {
    "id": "soz-10-51",
@@ -3637,7 +3955,9 @@
    "correct": 2,
    "explanation": "Im zweiten Frühling gibt Er die Liste ihrer Taten heraus und gestaltet eine neue Welt. Wenn schon vergängliche Dinge so bewahrt werden, werden die Taten des Menschen sicher verbucht.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_246647",
+   "appLink": true
   },
   {
    "id": "soz-10-52",
@@ -3654,7 +3974,9 @@
    "correct": 3,
    "explanation": "Die Vergangenheit ist der Bereich des Tatsächlichen, die Zukunft der des Möglichen. Wer den gestrigen Tag geschaffen hat, kann auch den morgigen ins Dasein rufen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_250686",
+   "appLink": true
   },
   {
    "id": "soz-10-53",
@@ -3671,7 +3993,9 @@
    "correct": 0,
    "explanation": "Was alle Propheten verkündet und die Getreuen (Siddiq) und Freunde Gottes (Auliya) bezeugt haben, ist für die Allmacht so leicht wie die Wiederbelebung des Frühlings.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_252705",
+   "appLink": true
   },
   {
    "id": "soz-10-54",
@@ -3688,7 +4012,9 @@
    "correct": 1,
    "explanation": "Deshalb begeht der Leugner in seiner unendlichen Kleinheit ein unendlich grosses Verbrechen. Der Bericht über den Zahn mancher Höllenbewohner, so gross wie ein Berg, dient als Massstab.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_254725",
+   "appLink": true
   },
   {
    "id": "soz-10-55",
@@ -3705,7 +4031,9 @@
    "correct": 2,
    "explanation": "Wer die tote Erde wiederbelebt und dabei mehr als dreihunderttausend Arten hervorruft, kann auch die Menschheit auferwecken.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_256744",
+   "appLink": true
   },
   {
    "id": "soz-10-56",
@@ -3722,7 +4050,9 @@
    "correct": 3,
    "explanation": "Einem so geschätzten Geschöpf, dem alles unterworfen ist, wird Gott die Auferstehung nicht verwehren.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_258764",
+   "appLink": true
   },
   {
    "id": "soz-10-57",
@@ -3739,7 +4069,9 @@
    "correct": 0,
    "explanation": "Die vermischten Samenkörner werden in sechs Tagen oder sechs Wochen geordnet belebt. Wem das nicht schwer fällt, der kann Himmel und Erde in sechs Tagen erschaffen und die Menschen auf einen Posaunenstoss versammeln.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_258764",
+   "appLink": true
   },
   {
    "id": "soz-10-58",
@@ -3756,7 +4088,9 @@
    "correct": 0,
    "explanation": "Ebenso: Ein Dichter, der dreihunderttausend Bücher fehlerfrei auf ein Blatt schreibt, kann ein verlorenes Buch neu schreiben; ein Herr, der ein Heer aufstellt, kann verstreute Bataillone mit einem Posaunenstoss versammeln.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_260783",
+   "appLink": true
   },
   {
    "id": "soz-10-59",
@@ -3773,7 +4107,9 @@
    "correct": 1,
    "explanation": "Wer den Erdball wie in einer Schleuder herumwirbeln lässt, kann ihn auch aus dem Weg räumen; wer mit «Sei! Und es ist» die Zellen aufstellt, kann ihre Bestandteile mit einem Posaunenstoss versammeln.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_262803",
+   "appLink": true
   },
   {
    "id": "soz-10-60",
@@ -3790,7 +4126,9 @@
    "correct": 2,
    "explanation": "Wer sie in der Vorstellung einander gegenüberstellt, sieht so viele Vorbilder der Wiederauferstehung, wie es Zeitalter und Tage gibt.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_262803",
+   "appLink": true
   },
   {
    "id": "soz-10-61",
@@ -3807,7 +4145,9 @@
    "correct": 3,
    "explanation": "Der Unglaube setzt den Wert des Seins herab, verleugnet die Namen in den Spiegeln des Seins und erklärt die Schöpfung als Lüge. Der Text zitiert: «Fürwahr ist Götzendienst ein gewaltiges Unrecht.»",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_266842",
+   "appLink": true
   },
   {
    "id": "soz-10-62",
@@ -3825,7 +4165,9 @@
    "explanation": "Die Zeugen der Wiederversammlung sind wie Fachleute; ihre übereinstimmende Aussage erreicht den Grad allgemeiner Übereinstimmung (tevatur).",
    "term": "hilal",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_268861",
+   "appLink": true
   },
   {
    "id": "soz-10-63",
@@ -3842,7 +4184,9 @@
    "correct": 1,
    "explanation": "Es kann keine Botschaft geben, die richtiger, und keine Wahrheit, die offensichtlicher wäre.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_268861",
+   "appLink": true
   },
   {
    "id": "soz-10-64",
@@ -3859,7 +4203,9 @@
    "correct": 2,
    "explanation": "Jedes Sein, sogar ein Samenkorn, trägt Pflichten von der Grösse eines Baumes. Es ist ein Samenkorn für die Welt der Bedeutungen und ein Acker für das Jenseits.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_270880",
+   "appLink": true
   },
   {
    "id": "soz-10-65",
@@ -3877,7 +4223,9 @@
    "explanation": "Weisheit und Nützlichkeit, die Er jedem Organ, etwa der Zunge, verliehen hat, sänken sonst zur Sinnlosigkeit herab; Vereinigung mit Ihm (liqa) und ewige Seligkeit sind ihr Ziel.",
    "term": "liqa",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_272900",
+   "appLink": true
   },
   {
    "id": "soz-10-66",
@@ -3894,7 +4242,9 @@
    "correct": 0,
    "explanation": "Die positive Gerechtigkeit ist in dieser Welt offensichtlich: Jedes Ding erhält, was es seiner Veranlagung nach braucht. Die negative besteht darin, dass das Recht der Ungerechten ihre Züchtigung und Strafe ist.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_276927",
+   "appLink": true
   },
   {
    "id": "soz-10-67",
@@ -3912,7 +4262,9 @@
    "explanation": "Dieser Mangel an Verhältnismässigkeit bezeugt, dass das Antlitz allen Seins der Welt der Bedeutungen zugewandt ist; die Urbilder entfalten sich in der Welt der Entsprechungen (alem-i misal).",
    "term": "alem-i misal",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_278901",
+   "appLink": true
   },
   {
    "id": "soz-10-68",
@@ -3929,7 +4281,9 @@
    "correct": 2,
    "explanation": "Sie konnten den Schriftzug der Feder der Bestimmung (qalem-i qader) nicht lesen und stürzten in den Sumpf des Naturalismus.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_280875",
+   "appLink": true
   },
   {
    "id": "soz-10-69",
@@ -3946,7 +4300,9 @@
    "correct": 3,
    "explanation": "Individuelles und soziales Leben dienen dazu, die Ergebnisse unserer Taten zu verbuchen, damit sie am Tag der Grossen Versammlung abgerechnet werden.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_282848",
+   "appLink": true
   },
   {
    "id": "soz-10-70",
@@ -3963,7 +4319,9 @@
    "correct": 0,
    "explanation": "Gott hat den Menschen zum tiefsinnigsten Gesprächspartner, allumfassenden Spiegel Seiner Namen und Träger des höchsten Wertes (ahsen-i taqvim) gemacht; ihn nicht ins Haus der Ewigkeit zu senden, hiesse Wahrhaftigkeit und Gerechtigkeit ins Gegenteil zu verkehren.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_282848",
+   "appLink": true
   },
   {
    "id": "soz-10-71",
@@ -3980,7 +4338,9 @@
    "correct": 1,
    "explanation": "Obwohl fein, arm und schwach erschaffen, ist er Ordnungshüter über Tiere und Pflanzen und vor den Engeln bevorzugt mit dem Rang eines Kalifen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_284822",
+   "appLink": true
   },
   {
    "id": "soz-10-72",
@@ -3997,7 +4357,9 @@
    "correct": 2,
    "explanation": "Das grösste Stück Vergänglichkeit sättigt Herz und Verstand nicht im Geringsten. Seine Hoffnungen nach Ewigkeit zeigen, dass er für die Ewigkeit geschaffen ist.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_286796",
+   "appLink": true
   },
   {
    "id": "soz-10-73",
@@ -4014,7 +4376,9 @@
    "correct": 3,
    "explanation": "Wahnideen ohne die Kraft eines Mückenflügels können den Weg nicht versperren, den der Gesandte mit tausend Wundern und dem Qur'an geöffnet hat, bestätigt durch Propheten, Heilige und klarsichtige Wissenschaftler.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_288769",
+   "appLink": true
   },
   {
    "id": "soz-10-74",
@@ -4031,7 +4395,9 @@
    "correct": 0,
    "explanation": "Auch die Beweise sind nicht auf die zwölf Wahrheiten beschränkt; der Qur'an zeigt tausend weitere Aspekte. Die meisten Dinge zeigen zwei Seiten wie zwei Vorhänge: zum Baumeister und zur Wiederversammlung.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_290743",
+   "appLink": true
   },
   {
    "id": "soz-10-75",
@@ -4048,7 +4414,9 @@
    "correct": 1,
    "explanation": "Die Vergänglichkeit des Daseins als Manifestation der Namen von Unendlichkeit und Macht öffnet den Blick auf das Jenseits.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_292716",
+   "appLink": true
   },
   {
    "id": "soz-10-76",
@@ -4065,7 +4433,9 @@
    "correct": 2,
    "explanation": "Die zwölf Wahrheiten bestätigen einander wie zwölf Mauern, hart wie Diamant. Ausführlicher behandelt der Autor diese Ayah in der Abhandlung «Nokta» (der Punkt).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_294690",
+   "appLink": true
   },
   {
    "id": "soz-10-77",
@@ -4082,7 +4452,9 @@
    "correct": 3,
    "explanation": "Dieselbe Kraft bewegt die Nüsse wie die Sonnen. Ebenso gelten Spiegelung, Ordnung und Gehorsam für das Kleinste wie für das Grösste.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_296664",
+   "appLink": true
   },
   {
    "id": "soz-10-78",
@@ -4099,7 +4471,9 @@
    "correct": 0,
    "explanation": "Abstufungen entstehen durch Gegensätze, etwa Hitzegrade durch Kälte. Darum ist der Frühling so leicht wie eine Blume, und die Menschheit aufzuerwecken so leicht wie eine Seele.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_298637",
+   "appLink": true
   },
   {
    "id": "soz-10-79",
@@ -4116,7 +4490,9 @@
    "correct": 0,
    "explanation": "Auch die islamischen Gelehrten urteilten übereinstimmend, die Wiederversammlung sei eine Frage der Offenbarung. Wer das Zehnte Wort nicht sofort versteht, soll deshalb nicht bedrückt sein.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_304558",
+   "appLink": true
   },
   {
    "id": "soz-10-80",
@@ -4133,7 +4509,9 @@
    "correct": 1,
    "explanation": "Nur wer diese gewaltigen Taten selbst gesehen hat, kann die Gewaltige Versammlung so leicht wie den Frühling beweisen; im Zehnten Wort geschieht das mit dem Segen (feyz) des Qur'an.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_306532",
+   "appLink": true
   },
   {
    "id": "soz-10-81",
@@ -4150,7 +4528,9 @@
    "correct": 2,
    "explanation": "Er schrieb sie, als er «Urteile» (Muhakemat) als Einführung zu seinem Kommentar beendete. Später entstanden aus der Ayah Sure 30, 50 das Zehnte und das Neunundzwanzigste Wort und schliesslich der Neunte Strahl.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_310479",
+   "appLink": true
   },
   {
    "id": "soz-10-82",
@@ -4167,7 +4547,9 @@
    "correct": 3,
    "explanation": "Kinder, etwa die Hälfte der Menschheit, können Tod und Trennung nur im Gedanken an das Paradies ertragen. Sonst würden sie wie verstörte, unglückselige Tiere.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_314426",
+   "appLink": true
   },
   {
    "id": "soz-10-83",
@@ -4184,7 +4566,9 @@
    "correct": 0,
    "explanation": "Ohne diese Furcht würden sie nach dem Motto «Das Recht ist auf Seiten des Stärkeren» den Schwachen das Leben zur Hölle machen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_316400",
+   "appLink": true
   },
   {
    "id": "soz-10-84",
@@ -4202,7 +4586,9 @@
    "explanation": "Das Familienleben ist ein Paradies irdischer Glückseligkeit; treue Verehrung ist nur im Gedanken an ewige Partnerschaft möglich. Sonst bliebe Erbarmen nur ein Wort.",
    "term": "huri",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_318374",
+   "appLink": true
   },
   {
    "id": "soz-10-85",
@@ -4219,7 +4605,9 @@
    "correct": 2,
    "explanation": "Ohne die Wiederversammlung fiele die Seele der Menschheit auf die Stufe eines ungeniessbaren (murdar) Kadavers. Das Bedürfnis im Magen beweist die Nahrung, ebenso das Bedürfnis der Menschheit das Jenseits.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_320347",
+   "appLink": true
   },
   {
    "id": "soz-10-86",
@@ -4236,7 +4624,9 @@
    "correct": 3,
    "explanation": "Die meisten kurzen Suren beginnen mit starken Versen darüber, etwa «Wenn die Sonne zusammengefaltet wird» (81, 1) oder «Wenn die Erde gewaltig erbebt» (99, 1).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_322321",
+   "appLink": true
   },
   {
    "id": "soz-10-87",
@@ -4253,7 +4643,9 @@
    "correct": 0,
    "explanation": "Die Engel vor Gottes Thron (melaike-i muqarrebin) berichten übereinstimmend über diese Welten; das hat die hundertfache Kraft einstimmiger Überlieferung (tevatur).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_344031",
+   "appLink": true
   },
   {
    "id": "soz-10-88",
@@ -4270,7 +4662,9 @@
    "correct": 2,
    "explanation": "Diese kurze Spanne war voller Mühen und Kämpfe. Dass er nicht mit seinen Gefährten auferweckt würde, ist «tausendmal nein».",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_340084",
+   "appLink": true
   },
   {
    "id": "soz-10-89",
@@ -4287,7 +4681,9 @@
    "correct": 1,
    "explanation": "Kurzum: Da es Allah gibt, gibt es mit Sicherheit auch ein Jenseits. Auf S. 184 kommen die anderen beiden Grundpfeiler hinzu: Engel und Qader.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_342057",
+   "appLink": true
   },
   {
    "id": "soz-10-90",
@@ -4304,7 +4700,9 @@
    "correct": 2,
    "explanation": "Ohne Wiederversammlung wäre diese bis ins Kleinste reichende Aufzeichnung sinnlos; das widerspräche der Weisheit und wäre ein Fieberwahn.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_346005",
+   "appLink": true
   },
   {
    "id": "soz-10-91",
@@ -4321,7 +4719,9 @@
    "correct": 0,
    "explanation": "Der Verstand würde dann Trauer über die Vergangenheit und Furcht vor der Zukunft bringen und in einen Tropfen Freude neun Körnchen Schmerz mischen.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_349952",
+   "appLink": true
   },
   {
    "id": "soz-10-92",
@@ -4338,7 +4738,9 @@
    "correct": 3,
    "explanation": "Ebenso: einen einzelnen Soldaten sorgfältig ausrüsten, aber ein ganzes Heer vernachlässigen; ein Stäubchen sehen, die Sonne nicht.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_351926",
+   "appLink": true
   },
   {
    "id": "soz-10-93",
@@ -4355,7 +4757,9 @@
    "correct": 1,
    "explanation": "So spricht alles Lebende «Ya Hayy», verschwindet hinter dem Vorhang und macht Platz; es bezeugt den Herrn des Lebens (Hayy) und der Ewigkeit (Qayyum).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_353899",
+   "appLink": true
   },
   {
    "id": "soz-10-94",
@@ -4372,7 +4776,9 @@
    "correct": 2,
    "explanation": "Die Erde ist sogar bis in die wertlosesten Dinge mit Leben erfüllt. Also muss es bewusste himmlische Lebewesen geben, die die Himmel bewohnen und Partner im Dialog sind.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_357846",
+   "appLink": true
   },
   {
    "id": "soz-10-95",
@@ -4389,7 +4795,9 @@
    "correct": 0,
    "explanation": "Das Prophetentum Mohammeds ist Bewusstsein und Licht des kosmischen Bewusstseins, der Qur'an Geist des kosmischen Lebens und Vernunft des kosmischen Bewusstseins.",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_361794",
+   "appLink": true
   },
   {
    "id": "soz-10-96",
@@ -4406,7 +4814,9 @@
    "correct": 1,
    "explanation": "Was im Wissen Gottes existiert (vudjud-u ilmi), zeigt sich ebenso als Offenbarung des Geistes (manevi) wie das sichtbar Existierende (vudjud-u haridji); die Bestimmung kommt von den Tafeln der Bestimmung (elvah-i qaderiye).",
    "book": "soz",
-   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_363767",
+   "appLink": true
   }
  ]
 }
