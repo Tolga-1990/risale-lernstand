@@ -18,7 +18,7 @@ Nach dem ersten Öffnen funktioniert die App auch offline.
 
 Die Fragen stehen in `questions.json`.
 
-- **Sözler:** Seitenangaben und Links nach der Online-Külliyat des Risale-i Nur Enstitüsü (kulliyat.risaleinurenstitusu.org).
+- **Sözler:** Seitenangaben nach der deutschen Ausgabe «Worte», wie sie im Buch «Worte» der Lese-App «Risale-i Nur Okuma Programı» erscheint (Seitenmarken #7, #8 …).
 - **Mektubat:** Seitenangaben nach der deutschen Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln). Dieselbe Ausgabe und Seitenzählung wie im Buch «Briefe» der Lese-App «Risale-i Nur Okuma Programı». Der Link «In Lese-App öffnen» springt in die Nähe der Seite; die Position ist aus zwei gemessenen Punkten hochgerechnet und kann um eine Seite abweichen.
 
 Fragen und Erklärungen sind eigene Formulierungen. Der Text der Werke wird nicht wiedergegeben.

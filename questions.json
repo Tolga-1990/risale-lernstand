@@ -1,262 +1,6 @@
 {
- "version": "2026-10-22d",
+ "version": "2026-10-23a",
  "questions": [
-  {
-   "id": "soz-01-01",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 11,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/11",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Warum kleidet der Autor seine Ratschläge in militärische Gleichnisse?",
-   "options": [
-    "Weil er selbst lange als Offizier gedient hat",
-    "Weil der Freund, der ihn um Rat gebeten hat, Soldat ist",
-    "Weil die Sözler ursprünglich für eine Militärschule geschrieben wurden",
-    "Weil der Krieg das Hauptthema der Sözler ist"
-   ],
-   "correct": 1,
-   "explanation": "Der Autor antwortet einem Freund, der ihn um einige Ratschläge gebeten hat. Weil dieser Soldat ist, wählt er Gleichnisse aus dem Militär und kleine Geschichten."
-  },
-  {
-   "id": "soz-01-02",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 11,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/11",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "An wen richtet der Autor die Ratschläge zuerst?",
-   "options": [
-    "An seine Schüler",
-    "An die Gelehrten seiner Zeit",
-    "An sein eigenes Selbst",
-    "An die Regierung"
-   ],
-   "correct": 2,
-   "explanation": "Er hört die Ratschläge zusammen mit seinem eigenen Selbst an, weil er sich für ermahnungsbedürftiger hält als jeden anderen. Wer möchte, darf mithören."
-  },
-  {
-   "id": "soz-01-03",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 11,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/11",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Wie will der Autor die Ratschläge diesmal formulieren?",
-   "options": [
-    "Kurz und in der Sprache des einfachen Volkes",
-    "Ausführlich und mit gelehrten Belegen",
-    "In arabischer Sprache",
-    "In Versform"
-   ],
-   "correct": 0,
-   "explanation": "Früher hatte er seinem Selbst die Wahrheiten etwas ausführlicher gesagt. Jetzt will er es kurz und in der Sprache des einfachen Volkes sagen.",
-   "term": "avâm lisânı"
-  },
-  {
-   "id": "soz-01-04",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 11,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/11",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Was braucht der Reisende in der Wüste im ersten Gleichnis, um sicher anzukommen?",
-   "options": [
-    "Eine genaue Karte der Wüste",
-    "Einen grossen Wasservorrat",
-    "Eine Gruppe bewaffneter Begleiter",
-    "Den Namen und Schutz eines Stammesführers"
-   ],
-   "correct": 3,
-   "explanation": "Allein wäre er Räubern und seinen eigenen Nöten ausgeliefert. Unter dem Schutz eines Stammesführers ist er sicher. So zeigt das Gleichnis die Kraft der Basmala: Wer im Namen Gottes beginnt, steht unter seinem Schutz.",
-   "term": "kabîle reisi"
-  },
-  {
-   "id": "soz-01-05",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 11,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/11",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Wer spricht laut dem Birinci Söz die Basmala?",
-   "options": [
-    "Nur Muslime beim Gebet",
-    "Alles Seiende, jedes mit der Sprache seines Zustands",
-    "Nur die Engel",
-    "Nur die Propheten"
-   ],
-   "correct": 1,
-   "explanation": "Die Basmala ist der Anfang jedes guten Werkes und das Kennzeichen des Islams. Ausserdem spricht sie alles Seiende auf seine Weise, mit der Sprache seines Zustands. Auf Seite 12 wird diese Aussage an Beispielen aus der Natur ausgeführt."
-  },
-  {
-   "id": "soz-01-06",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Worin unterscheiden sich die beiden Reisenden im Gleichnis?",
-   "options": [
-    "Der eine ist reich, der andere arm",
-    "Der eine reist bei Tag, der andere bei Nacht",
-    "Der Bescheidene nimmt den Namen des Anführers an, der Stolze nicht",
-    "Der eine ist bewaffnet, der andere nicht"
-   ],
-   "correct": 2,
-   "explanation": "Der Bescheidene beruft sich auf den Namen des Anführers. Räuber lassen ihn in Ruhe und in jedem Zelt wird er geehrt. Der Stolze lehnt das ab, zittert die ganze Reise, muss betteln und wird erniedrigt."
-  },
-  {
-   "id": "soz-01-07",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Wofür steht die Wüste, als das Gleichnis auf das eigene Selbst angewendet wird?",
-   "options": [
-    "Für das Jenseits",
-    "Für das Herz des Menschen",
-    "Für die Zeit vor der Offenbarung",
-    "Für die Welt, in der Ohnmacht, Bedürftigkeit, Feinde und Bedürfnisse grenzenlos sind"
-   ],
-   "correct": 3,
-   "explanation": "Das stolze Selbst ist der stolze Reisende, die Welt ist die Wüste. Deshalb soll man den Namen des ewigen Besitzers dieser Wüste annehmen. So wird man frei vom Betteln bei allen Geschöpfen und von der Angst vor jedem Ereignis."
-  },
-  {
-   "id": "soz-01-08",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Was wird laut Text aus der eigenen Schwäche und Armut, wenn man im Namen Gottes handelt?",
-   "options": [
-    "Sie wird zur wirksamsten Fürsprecherin beim Allmächtigen und Barmherzigen",
-    "Sie verschwindet vollständig",
-    "Sie wird zu einer Prüfung, die man allein tragen muss",
-    "Sie verliert jede Bedeutung"
-   ],
-   "correct": 0,
-   "explanation": "Der Name Gottes wird als kostbarer Schatz beschrieben. Durch ihn verbindet sich die grenzenlose Schwäche und Armut des Menschen mit Gottes grenzenloser Macht und Barmherzigkeit. Dadurch wird die Armut zur wirksamsten Fürsprecherin."
-  },
-  {
-   "id": "soz-01-09",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Mit wem vergleicht der Text den Menschen, der im Namen Gottes handelt?",
-   "options": [
-    "Mit einem Soldaten, der im Namen des Staates handelt",
-    "Mit einem Kaufmann, der für seinen Herrn handelt",
-    "Mit einem Pilger auf dem Weg nach Mekka",
-    "Mit einem Richter, der Urteile spricht"
-   ],
-   "correct": 0,
-   "explanation": "Wie ein Soldat, der im Namen des Staates handelt, fürchtet er niemanden, kann jede Aufgabe übernehmen und hält allem stand."
-  },
-  {
-   "id": "soz-01-10",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Was zeigt das Bild des einzelnen Mannes, der die Bewohner einer ganzen Stadt an einen Ort bringt und arbeiten lässt?",
-   "options": [
-    "Dass er aussergewöhnlich stark ist",
-    "Dass er nicht aus eigener Kraft handelt, sondern im Namen und mit der Macht des Staates",
-    "Dass die Stadt schlecht regiert wird",
-    "Dass Menschen von Natur aus gehorsam sind"
-   ],
-   "correct": 1,
-   "explanation": "Man erkennt sofort, dass er im Auftrag des Staates handelt. Ebenso handeln die Dinge im Namen Gottes: Winzige Samen tragen riesige Bäume, Bäume und Nutztiere reichen ihre Gaben dar, als sagten sie Bismillah."
-  },
-  {
-   "id": "soz-01-11",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 12,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/12",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Gegen wen richtet der Text die Beispiele der zarten Wurzeln, die durch Stein dringen, und der Blätter, die in der Hitze frisch bleiben?",
-   "options": [
-    "Gegen die Philosophen der Antike",
-    "Gegen die Heuchler",
-    "Gegen die Gelehrten, die die Basmala nicht sprechen",
-    "Gegen die Naturalisten, die der Natur eigene Wirkkraft zuschreiben"
-   ],
-   "correct": 3,
-   "explanation": "Die Beispiele zeigen, dass selbst Härte und Hitze nicht aus eigener Kraft wirken, sondern unter Befehl stehen. Die zarten Wurzeln werden dabei mit dem Stab des Mose verglichen.",
-   "term": "Tabiiyyun"
-  },
-  {
-   "id": "soz-01-12",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 13,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/13",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Welchen «Preis» verlangt Gott laut Text für seine Gaben?",
-   "options": [
-    "Fasten, Almosen und Pilgerfahrt",
-    "Schweigen und Geduld",
-    "Gedenken am Anfang, Dank am Ende und Nachdenken in der Mitte",
-    "Einen Teil jeder Gabe als Spende"
-   ],
-   "correct": 2,
-   "explanation": "Am Anfang steht das Gedenken mit Bismillah, am Ende der Dank mit Elhamdülillah, in der Mitte das Nachdenken: zu erkennen, dass die Gaben Wunder der Macht und Geschenke der Barmherzigkeit Gottes sind.",
-   "term": "zikir, şükür, fikir"
-  },
-  {
-   "id": "soz-01-13",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 13,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/13",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Was lehrt das Bild vom armen Boten, der ein Geschenk des Königs überbringt?",
-   "options": [
-    "Dass man Boten mit Respekt behandeln soll",
-    "Dass es töricht ist, den Überbringer zu ehren und den wahren Geber zu vergessen",
-    "Dass man Geschenke von Königen ablehnen soll",
-    "Dass Könige für ihre Geschenke Dank erwarten"
-   ],
-   "correct": 1,
-   "explanation": "Wer dem Boten die Füsse küsst und den König übersieht, handelt töricht. Tausendmal törichter ist es, sichtbare Wohltäter zu loben und den wahren Wohltäter zu vergessen."
-  },
-  {
-   "id": "soz-01-14",
-   "book": "soz",
-   "sec": 1,
-   "secTitle": "Birinci Söz",
-   "page": 13,
-   "url": "https://kulliyat.risaleinurenstitusu.org/sozler/birinci-soz/13",
-   "edition": "Online-Külliyat, Risale-i Nur Enstitüsü",
-   "q": "Von wem sollen wir laut Text nichts annehmen?",
-   "options": [
-    "Von denen, die nicht im Namen Gottes geben",
-    "Von Fremden, die wir nicht kennen",
-    "Von Reichen, die mit ihrem Besitz prahlen",
-    "Von Herrschern und Beamten"
-   ],
-   "correct": 0,
-   "explanation": "Weil Gott durch alle Dinge gibt, sollen auch wir im Namen Gottes geben, nehmen und handeln. Von denen, die nicht in seinem Namen geben, sollen wir nicht annehmen."
-  },
   {
    "id": "mek-01-01",
    "book": "mek",
@@ -1155,6 +899,263 @@
    "explanation": "Mitgefühl ist aufrichtig und unentgeltlich, wie die Liebe der Tiere zu ihren Jungen. Leidenschaft wünscht ein Entgelt und beschränkt den Blick auf den Geliebten. Mitgefühl umfasst dagegen viele Dinge und spiegelt den Namen Rahim.",
    "url": "https://syesilova72.github.io/?kitap=almektubat_70793",
    "appLink": true
+  },
+  {
+   "id": "soz-01-d01",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 7,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Warum erzählt der Autor im Ersten Wort Geschichten aus dem militärischen Bereich?",
+   "options": [
+    "Weil er selbst lange Offizier war",
+    "Weil der Bruder, der ihn um Ratschläge bat, Soldat ist",
+    "Weil das Buch für eine Militärschule geschrieben wurde",
+    "Weil der Krieg das Hauptthema der Worte ist"
+   ],
+   "correct": 1,
+   "explanation": "Der Bruder möchte Ratschläge. Weil er Soldat ist, erzählt der Autor acht kleine Geschichten aus dem militärischen Bereich."
+  },
+  {
+   "id": "soz-01-d02",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 7,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Wem erzählt der Autor die Geschichten in erster Linie?",
+   "options": [
+    "Seinen Schülern",
+    "Den Gelehrten seiner Zeit",
+    "Seiner eigenen Seele",
+    "Den Herrschern"
+   ],
+   "correct": 2,
+   "explanation": "Er erzählt sie seiner Seele (nefs), denn sie bedarf der Ratschläge vor allen anderen. Wer es wünscht, darf zuhören.",
+   "term": "nefs"
+  },
+  {
+   "id": "soz-01-d03",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was ist «Bismillah» laut dem Anfang des Ersten Wortes, über das Zeichen des Islam hinaus?",
+   "options": [
+    "Ein Gebet nur für die Gelehrten",
+    "Ein Schutz nur vor Krankheit",
+    "Eine Formel nur für den Beginn des Gebets",
+    "Ein unausgesprochenes, immerwährendes Gebet der gesamten Schöpfung"
+   ],
+   "correct": 3,
+   "explanation": "Bismillah ist der Anbeginn alles Guten und ein Zeichen des Islam. Unausgesprochen ist es auch ein immerwährendes Gebet der gesamten Schöpfung (S. 7–8)."
+  },
+  {
+   "id": "soz-01-d04",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was soll der Beduine tun, der eine Reise durch die Sahara unternehmen will?",
+   "options": [
+    "Eine genaue Karte mitnehmen",
+    "Möglichst viel Wasser einpacken",
+    "Sich unter den Schutz eines Stammesfürsten begeben und in dessen Namen reisen",
+    "Nur nachts reisen"
+   ],
+   "correct": 2,
+   "explanation": "Unter dem Schutz und im Namen eines Stammesfürsten ist er vor Räubern bewahrt. Auf eigene Faust geraten seine Angelegenheiten durcheinander."
+  },
+  {
+   "id": "soz-01-d05",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Worin unterscheiden sich die beiden Männer, die in die Sahara ziehen?",
+   "options": [
+    "Der eine ist reich, der andere arm",
+    "Der Bescheidene reist unter dem Namen eines Fürsten, der Stolze nicht",
+    "Der eine ist bewaffnet, der andere nicht",
+    "Der eine reist bei Tag, der andere bei Nacht"
+   ],
+   "correct": 1,
+   "explanation": "Der Bescheidene beruft sich auf den Fürsten, wird vom Wegelagerer in Ruhe gelassen und in Zelten geehrt. Der Stolze lebt in Angst, muss betteln und wird unwürdig behandelt."
+  },
+  {
+   "id": "soz-01-d06",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 8,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Wofür steht die Wüste, als das Gleichnis auf die hochmütige Seele angewendet wird?",
+   "options": [
+    "Für das Jenseits",
+    "Für das Herz des Menschen",
+    "Für die Welt, in der die Seele grenzenlos schwach ist und zahllose Feinde und unendliche Bedürfnisse hat",
+    "Für die Zeit vor der Offenbarung"
+   ],
+   "correct": 2,
+   "explanation": "Die hochmütige Seele ist der Reisende, die Welt gleicht der Wüste. Deshalb soll man sich dem Namen des Königs von Ewigkeit zu Ewigkeit unterstellen, um nicht betteln und vor jedem Ereignis zittern zu müssen."
+  },
+  {
+   "id": "soz-01-d07",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 9,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was wird laut Text aus der eigenen grenzenlosen Schwäche und Armseligkeit durch das Wort «Bismillah»?",
+   "options": [
+    "Sie verschwindet vollständig",
+    "Ein Grund zur Scham",
+    "Eine Prüfung, die man allein tragen muss",
+    "Ein hochachtbarer Fürsprecher am Hofe des Allmächtigen und Allbarmherzigen"
+   ],
+   "correct": 3,
+   "explanation": "Bismillah ist ein gesegneter Schatz, der eine Beziehung zur unendlichen Macht und Barmherzigkeit herstellt. Dadurch werden Schwäche und Armseligkeit zu einem Fürsprecher."
+  },
+  {
+   "id": "soz-01-d08",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 9,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Mit wem vergleicht der Text den Menschen, der nach dem Wort «Bismillah» handelt?",
+   "options": [
+    "Mit einem Soldaten, der im Namen des Staates handelt und niemanden fürchten muss",
+    "Mit einem Kaufmann auf Reisen",
+    "Mit einem Richter",
+    "Mit einem Pilger"
+   ],
+   "correct": 0,
+   "explanation": "Wie ein rekrutierter Soldat, der «im Namen des Gesetzes, im Namen der Regierung» handelt, erledigt er jede Arbeit und überwindet jede Schwierigkeit."
+  },
+  {
+   "id": "soz-01-d09",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 9,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was zeigt das Bild des Mannes, der die ganze Bevölkerung einer Stadt an einen Ort bringt und arbeiten lässt?",
+   "options": [
+    "Dass er aussergewöhnlich stark ist",
+    "Dass die Stadt schlecht regiert wird",
+    "Dass er nicht aus eigener Macht handelt, sondern im Namen der Regierung",
+    "Dass Menschen von Natur aus gehorsam sind"
+   ],
+   "correct": 2,
+   "explanation": "Man weiss sofort, dass er sich auf Macht und Ansehen eines Königs stützt. Ebenso handeln alle Dinge im Namen Gottes: Winzige Samenkerne tragen riesige Bäume."
+  },
+  {
+   "id": "soz-01-d10",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 9,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Womit vergleicht der Text einen Garten, der «Bismillah» spricht?",
+   "options": [
+    "Mit einem Kessel in der Küche der Macht",
+    "Mit einem Teppich",
+    "Mit einem Spiegel",
+    "Mit einer Schatzkiste"
+   ],
+   "correct": 0,
+   "explanation": "Jeder Garten wird zu einem Kessel in der Küche der Macht, in dem die verschiedensten köstlichen Speisen gleichzeitig zubereitet werden."
+  },
+  {
+   "id": "soz-01-d11",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 10,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Wem sind laut Text die Wurzeln, die harten Stein durchdringen, und die Blätter, die in der Hitze frisch bleiben, ein Schlag ins Gesicht?",
+   "options": [
+    "Den Heuchlern",
+    "Den Gelehrten",
+    "Den Philosophen der Antike",
+    "Den Materialisten"
+   ],
+   "correct": 3,
+   "explanation": "Die Beispiele zeigen den Materialisten, dass auch Härte und Hitze unter göttlichem Auftrag handeln. Die seidenweichen Adern gehorchen wie der Stab Mosis."
+  },
+  {
+   "id": "soz-01-d12",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 10,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was zeigt der Vergleich der zarten Blätter mit den Gliedern Abrahams?",
+   "options": [
+    "Dass auch die glühende Hitze unter dem Befehl Gottes steht",
+    "Dass Pflanzen wie Menschen fühlen",
+    "Dass Blätter im Winter fallen",
+    "Dass Abraham ein Gärtner war"
+   ],
+   "correct": 0,
+   "explanation": "Die Blätter, dünn wie Zigarettenpapier, bleiben in sengender Hitze frisch. Der Text vergleicht sie mit den Gliedern Abrahams, als der Befehl Gottes gegen die glühende Hitze erging (Sure 21, 69): Auch die Hitze steht unter göttlichem Befehl."
+  },
+  {
+   "id": "soz-01-d13",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 10,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Von wem dürfen wir laut Text nichts annehmen?",
+   "options": [
+    "Von Fremden",
+    "Von gottvergessenen Menschen, die nicht im Namen Allahs geben",
+    "Von Reichen",
+    "Von Herrschern"
+   ],
+   "correct": 1,
+   "explanation": "Weil jedes Ding im Namen Allahs gibt, müssen auch wir im Namen Allahs geben und nehmen. Von gottvergessenen Menschen, die nicht in Seinem Namen geben, sollen wir nichts annehmen."
+  },
+  {
+   "id": "soz-01-d14",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 11,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Welche drei Dinge fordert der wahre Geber als Preis für seine Gaben?",
+   "options": [
+    "Fasten, Almosen und Pilgerfahrt",
+    "Wissen, Lehre und Schrift",
+    "Schweigen, Geduld und Einsamkeit",
+    "Gottesgedenken, Danksagung und Nachsinnen"
+   ],
+   "correct": 3,
+   "explanation": "Am Anfang das Gottesgedenken (dhikr) im Bismillah, am Ende die Danksagung (shukr) im Elhamdulillah, dazwischen das Nachsinnen (fikr): zu begreifen, dass die Gaben Geschenke des Erbarmens und Wunderwerke der Macht sind.",
+   "term": "Dhikr"
+  },
+  {
+   "id": "soz-01-d15",
+   "book": "soz",
+   "sec": 1,
+   "secTitle": "Erstes Wort",
+   "page": 11,
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "q": "Was lehrt das Bild vom Habenichts, der ein Geschenk des Königs überbringt?",
+   "options": [
+    "Dass man Boten mit Respekt behandeln soll",
+    "Dass Geschenke von Königen abzulehnen sind",
+    "Dass es tausendmal törichter ist, die sichtbaren Spender zu loben und den wahren Geber zu vergessen",
+    "Dass Könige Dank erwarten"
+   ],
+   "correct": 2,
+   "explanation": "Dem Überbringer die Füsse zu küssen und den Eigentümer des Geschenks zu übersehen, wäre eine Dummheit. Die sichtbaren Spender zu lieben und den wahren Geber zu vergessen, wäre noch tausendmal törichter."
   }
  ]
 }
