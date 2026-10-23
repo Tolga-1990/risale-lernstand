@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23b",
+ "version": "2026-10-23c",
  "questions": [
   {
    "id": "mek-01-01",
@@ -2525,6 +2525,930 @@
    ],
    "correct": 2,
    "explanation": "Wer nur auf das vergängliche Leben schaut, lebt äusserlich im Paradies, innerlich in der Hölle. Wer sich um das ewige bemüht, ist in beiden Welten glücklich.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-01",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 69,
+   "q": "Welche Weisheit der fünf Gebetszeiten hebt das Neunte Wort als einzigen Hinweis hervor?",
+   "options": [
+    "Jede Gebetszeit ist der Beginn einer bedeutenden Wende und Spiegel der göttlichen Lenkung und Gnadengaben",
+    "Sie teilen den Tag in gleich lange Abschnitte",
+    "Sie richten sich nach den Mahlzeiten",
+    "Sie folgen den Arbeitszeiten"
+   ],
+   "correct": 0,
+   "explanation": "Deshalb ist dem Menschen befohlen, zu diesen Zeiten Gott intensiver zu loben und für die Gnadengaben (nimet) zwischen zwei Gebetszeiten zu danken.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-02",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 70,
+   "q": "Welche drei Dinge bilden laut der Ersten Anmerkung den Kern des Gebetes (namaz)?",
+   "options": [
+    "Waschung, Stehen, Sitzen",
+    "Lobpreis, Verehrung und Dankbarkeit",
+    "Fasten, Almosen, Pilgerfahrt",
+    "Rezitation, Verbeugung, Niederwerfung"
+   ],
+   "correct": 1,
+   "explanation": "Vor der Majestät sagt man «Subhanallah», vor der Vollkommenheit «Allahu Ekber», vor der Schönheit «Elhamdulillah». Deshalb werden diese Worte nach dem Gebet je dreiunddreissigmal wiederholt.",
+   "term": "tesbih",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-03",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 70,
+   "q": "Wie oft werden die drei Kernworte nach dem Gebet laut Text wiederholt?",
+   "options": [
+    "Siebenmal",
+    "Neunundneunzigmal",
+    "Dreiunddreissigmal",
+    "Dreimal"
+   ],
+   "correct": 2,
+   "explanation": "Die Wiederholung soll den Sinn des Gebetes hervorheben und seinen Wert erhöhen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-04",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 71,
+   "q": "Womit vergleicht die Dritte Anmerkung das Gebet?",
+   "options": [
+    "Mit einer Reise",
+    "Mit einer Pflicht ohne Bedeutung",
+    "Mit einer Mahlzeit",
+    "Mit einem glanzvollen Katalog aller Arten der Anbetung"
+   ],
+   "correct": 3,
+   "explanation": "Wie der Mensch ein Abbild der Welt im Kleinen und die Fatiha der Abglanz des Qur'an ist, so ist das Gebet eine heilige Landkarte, wie der Lichtkegel eines Leuchtturms.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-05",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 71,
+   "q": "Welches Bild verwendet die Vierte Anmerkung für die Gebetszeiten?",
+   "options": [
+    "Eine Uhr mit Sekunden-, Minuten-, Stundenzeiger und Tagesanzeige",
+    "Einen Kalender",
+    "Die Jahreszeiten eines Gartens",
+    "Die Stufen einer Treppe"
+   ],
+   "correct": 0,
+   "explanation": "Auf der grossen Uhr Gottes entsprechen Tag und Nacht den Sekunden, die Jahre den Minuten, die Generationen den Stunden und die Epochen den Tagen. Die Zeiger erinnern einander.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-06",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 72,
+   "q": "Woran erinnert laut Text die Zeit der Morgendämmerung (fadjr)?",
+   "options": [
+    "An den Spätherbst und den Abschied",
+    "An Frühling, die Zeit im Mutterleib und den ersten Schöpfungstag",
+    "An das Alter",
+    "An den Tod des Menschen"
+   ],
+   "correct": 1,
+   "explanation": "Mittag erinnert an den Sommer und die Erschaffung des Menschen, der Nachmittag an die späten Jahre und die Glückliche Zeit des Propheten, der Abend an den Spätherbst und den Tod.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-07",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 73,
+   "q": "Woran erinnert laut Text der Morgen des nächsten Tages?",
+   "options": [
+    "An den Beginn der Arbeit",
+    "An den Frühling allein",
+    "An die Wiederauferstehung",
+    "An die Jugend"
+   ],
+   "correct": 2,
+   "explanation": "So sicher, wie der Nacht ihr Morgen und dem Winter sein Frühling folgt, folgt der Morgen der Wiederversammlung.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-08",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 74,
+   "q": "Wozu dient laut der Fünften Anmerkung das Morgengebet?",
+   "options": [
+    "Um Rechenschaft über den Tag abzulegen",
+    "Um den Tag zu beenden",
+    "Um den Schlaf nachzuholen",
+    "Um vor dem Tag Hilfe und Erfolg zu erbitten und Rückhalt für die Last des Tages zu finden"
+   ],
+   "correct": 3,
+   "explanation": "Der Mensch ist schwach, armselig und mit vielen Bedürfnissen belastet. Am Morgen legt er an der Schwelle des Allmächtigen seine Wünsche offen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-09",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 75,
+   "q": "Was zeigt laut Text die Zeit des Nachmittagsgebets an, wenn sich die Sonne dem Untergang neigt?",
+   "options": [
+    "Dass der Mensch als Beamter Gottes Gast ist und alle Dinge vergänglich sind",
+    "Dass die Arbeit beginnt",
+    "Dass der Tag ewig dauert",
+    "Dass die Sonne das mächtigste Wesen ist"
+   ],
+   "correct": 0,
+   "explanation": "Die Zeit lässt die Melancholie des Herbstes und die Trübsal des Alters ahnen; die Gnadengaben des Tages haben sich angehäuft.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-10",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 77,
+   "q": "Was bedeutet laut Text die Anrede «Iyyake na'budu wa iyyake nasta'in» im Gebet?",
+   "options": [
+    "Eine Bitte um Reichtum",
+    "Dienst für eine Herrschaft ohne Beamte, eine Gottheit ohne Teilhaber und eine Königsherrschaft ohne Minister",
+    "Einen Gruss an die Engel",
+    "Ein Bekenntnis zu den Propheten"
+   ],
+   "correct": 1,
+   "explanation": "Der Betende bietet Gott seine Dienste an, bittet um Hilfe und bekennt mit dem ganzen All seine Schwäche und Hilflosigkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-11",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 79,
+   "q": "Welchen Ausspruch Abrahams zitiert das Neunte Wort beim Nachtgebet?",
+   "options": [
+    "«Mein Herr, zeige mir, wie Du die Toten belebst»",
+    "«Feuer, sei kühl»",
+    "«Ich liebe nicht die, welche untergehen»",
+    "«Ich gehe zu meinem Herrn»"
+   ],
+   "correct": 2,
+   "explanation": "Der Mensch, hilflos und ins Dunkel der Zukunft getaucht, nimmt Zuflucht beim Angebeteten ohne Anfang und Geliebten ohne Ende (Sure 6, 76).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-12",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 80,
+   "q": "Wie nennt das Neunte Wort den Schlaf?",
+   "options": [
+    "Die Tür zum Traum",
+    "Die Ruhe der Seele",
+    "Das Ende des Tages",
+    "Den Bruder des Todes"
+   ],
+   "correct": 3,
+   "explanation": "Vor dem Schlaf tritt der Mensch zum Nachtgebet hin, um das Tagebuch seiner Werke mit einer guten Eintragung abzuschliessen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-13",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 81,
+   "q": "Was geschieht laut Text in der Fatiha mit der Anrede «Iyyake na'budu»?",
+   "options": [
+    "Sie wechselt von der dritten zur zweiten Person",
+    "Sie wird wiederholt",
+    "Sie wird nur gedacht, nicht gesprochen",
+    "Sie richtet sich an die Gemeinde"
+   ],
+   "correct": 0,
+   "explanation": "Der Mensch, der niemanden hat, wendet sich dem König zu und erlangt die Stufe eines bevorzugten Gastes. Danach erbittet er Rechtleitung (hidayet) auf dem geraden Weg.",
+   "term": "sirat-i mustaqim",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-09-14",
+   "sec": 9,
+   "secTitle": "Neuntes Wort",
+   "page": 82,
+   "q": "Womit vergleicht das Neunte Wort das Verrichten des Nachtgebets?",
+   "options": [
+    "Mit einer Pilgerfahrt",
+    "Mit der Himmelfahrt des Propheten",
+    "Mit einem Fest",
+    "Mit dem Fasten"
+   ],
+   "correct": 1,
+   "explanation": "Wie die ganze Schöpfung sich jährlich auf dem Gebetsteppich des Untergangs niederwirft, wirft sich auch der Mensch in Liebe und im Bewusstsein seiner Nichtigkeit nieder.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-01",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 84,
+   "q": "Warum hat der Autor laut Vorbemerkung zum Zehnten Wort Vergleiche in Form von Erzählungen geschrieben?",
+   "options": [
+    "Um besser verständlich zu sein und zu zeigen, wie sehr die Wahrheiten des Islam der Logik des Verstandes entsprechen",
+    "Zur Unterhaltung der Leser",
+    "Weil er keine Beweise hatte",
+    "Um Kinder anzusprechen"
+   ],
+   "correct": 0,
+   "explanation": "Der Sinn der Erzählungen ist die Wahrheit, die sich an ihrem Ende herausstellt; es sind keine blossen Phantasiegeschichten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-02",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 85,
+   "q": "Was antwortet der Gefährte auf die Frage des Strolchs «Wer ist der König?»",
+   "options": [
+    "Das wisse niemand",
+    "Kein Dorf ohne Bürgermeister, keine Nadel ohne Meister, kein Buchstabe ohne Schreiber",
+    "Der König sei weit weg",
+    "Das Land gehöre dem Volk"
+   ],
+   "correct": 1,
+   "explanation": "Ein so wohlgeordnetes Land kann nicht ohne Herrscher sein. Dazu kommt der Zug, der stündlich aus dem Unsichtbaren Güter bringt; laut Fussnote steht er für den Jahreskreis.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-03",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 86,
+   "q": "Wie beschreibt der Gefährte das Land, um zu zeigen, dass es umgestaltet wird?",
+   "options": [
+    "Als ewige Heimat",
+    "Als Festung",
+    "Als Übungsgelände, Museum der Kunstwerke des Sultans und Wanderherberge ohne Basis",
+    "Als verlassene Wüste"
+   ],
+   "correct": 2,
+   "explanation": "Täglich kommt eine Schar, eine andere geht; bald werden die Bewohner in ein ewiges Königreich verpflanzt und empfangen Lohn oder Strafe.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-04",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 87,
+   "q": "Was zeigt das Erste Bild?",
+   "options": [
+    "Dass das Land keinen König hat",
+    "Dass es Lohn und Strafe nur im Diesseits gibt",
+    "Dass die Untertanen frei sind",
+    "Dass in einem so glänzenden Königreich Gute Lohn und Aufständische Strafe empfangen müssen, was hier nicht geschieht; also muss es anderswo einen Obersten Gerichtshof geben"
+   ],
+   "correct": 3,
+   "explanation": "Dieser Schluss auf einen Obersten Gerichtshof wiederholt sich in den folgenden Bildern.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-05",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 87,
+   "q": "Welcher Gedanke steht hinter dem Zweiten Bild?",
+   "options": [
+    "Freigiebigkeit, Erbarmen und Würde des Königs erfordern Huld und Bestrafung der Würdelosen, die hier kaum zu einem Tausendstel geschehen",
+    "Der König ist geizig",
+    "Nur die Reichen werden versorgt",
+    "Die Kranken sind vergessen"
+   ],
+   "correct": 0,
+   "explanation": "Alle, auch die Ärmsten und Kranken, werden vollkommen versorgt. Doch der Unterdrücker bleibt im Stolz und der Beleidigte in der Erniedrigung; das bleibt dem Obersten Gerichtshof überlassen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-06",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 89,
+   "q": "Warum kann sich laut dem Vierten Bild eine immerwährende Schönheit nicht mit einem sterblichen Bewunderer zufriedengeben?",
+   "options": [
+    "Weil sie keine Bewunderer braucht",
+    "Weil die Liebe des zum Tod Verurteilten sich angesichts des Todes in Feindschaft verwandelt",
+    "Weil sie sich verändert",
+    "Weil Sterbliche keine Schönheit sehen"
+   ],
+   "correct": 1,
+   "explanation": "Der Mensch ist ein Feind dessen, was er nicht kennt und nicht erreicht. Jeder sieht das Licht nur einen Augenblick und geht ungesättigt; also geht er hinüber in ewige Gärten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-07",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 89,
+   "q": "Welches Beispiel zeigt im Fünften Bild die Liebe des Königs auch für das Geringste?",
+   "options": [
+    "Er baut Paläste für die Armen",
+    "Er verteilt Gold an alle",
+    "Für das verstauchte Bein des Schafes eines Hirten schickt er eine Salbe oder einen Arzt",
+    "Er besucht jedes Dorf"
+   ],
+   "correct": 2,
+   "explanation": "Ein König, der den einfachsten Wunsch erfüllt, wird die Bitte seines höchsten Botschafters, zugleich die Bitte aller, nicht ablehnen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-08",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 90,
+   "q": "Was erbittet der höchste Botschafter im Fünften Bild vom König?",
+   "options": [
+    "Mehr Reichtum für das Land",
+    "Einen Sieg über die Feinde",
+    "Ein langes Leben im Diesseits",
+    "Dass er sie in seine Gegenwart ruft, mit den Gaben speist, deren Vorgeschmack sie hatten, und nicht mit Tod und Verbannung bestraft"
+   ],
+   "correct": 3,
+   "explanation": "Alle Einwohner bestätigen: «Das ist es, was wir wünschen.» Dem König fällt die Erfüllung leichter als die Rastplätze, die er für fünf, sechs Tage geschaffen hat.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-09",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 91,
+   "q": "Womit vergleicht die Fussnote zum Sechsten Bild die blühende Erde im Frühling?",
+   "options": [
+    "Mit einem Heerlager bei einer königlichen Parade, in dem jede Pflanzenart ihre Auszeichnungen vorführt",
+    "Mit einem Marktplatz",
+    "Mit einem leeren Feld",
+    "Mit einer Bibliothek"
+   ],
+   "correct": 0,
+   "explanation": "Auf den Befehl «Sei! Und es ist» pflanzen dornige Sträucher ihre Bajonette auf, und jeder Frühlingstag ist wie ein Feiertag für eine bestimmte Pflanzenart.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-10",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 92,
+   "q": "Was folgt laut Text daraus, dass die Herberge sich täglich füllt und leert und die Gäste nur Muster sehen?",
+   "options": [
+    "Dass alles zufällig ist",
+    "Dass es dahinter immerwährende Schlösser und Schatzhäuser mit den Originalen gibt: hier Arbeit, dort Lohn",
+    "Dass niemand zurückkehren will",
+    "Dass die Muster wertlos sind"
+   ],
+   "correct": 1,
+   "explanation": "Jeder empfängt dort Glückseligkeit entsprechend seiner Fähigkeit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-11",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 93,
+   "q": "Was zeigen die Schreiber und der riesige Photoapparat auf dem Berg?",
+   "options": [
+    "Dass der König neugierig ist",
+    "Dass die Untertanen überwacht und sofort bestraft werden",
+    "Dass alles für eine Abrechnung genau aufgezeichnet wird",
+    "Dass Geschichte geschrieben wird"
+   ],
+   "correct": 2,
+   "explanation": "Ein König, der die geringsten Handlungen nicht vernachlässigt, muss die bedeutendsten Taten abrechnen; weil sie hier unbestraft bleiben, bleibt das dem Obersten Gerichtshof überlassen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-12",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 94,
+   "q": "Womit vergleicht das Achte Bild den, der die Versprechen des Königs leugnet?",
+   "options": [
+    "Mit einem Kind",
+    "Mit einem Soldaten",
+    "Mit einem Kaufmann",
+    "Mit einem Reisenden, der vor dem Sonnenlicht die Augen schliesst und mit dem Schein seines Verstandes wie ein Leuchtkäfer seinen Weg erhellen will"
+   ],
+   "correct": 3,
+   "explanation": "Er nennt eine Persönlichkeit einen Lügner, deren offensichtliche Werke für ihre Aufrichtigkeit zeugen; ein Wortbruch wäre mit der Würde ihrer Regierung unvereinbar.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-13",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 94,
+   "q": "Wofür steht laut Fussnote im Neunten Bild das Telefon der führenden Persönlichkeiten?",
+   "options": [
+    "Für eine vom Herzen ausgehende Verbindung mit dem Herrn",
+    "Für Briefe",
+    "Für Gebete in der Moschee",
+    "Für Boten"
+   ],
+   "correct": 0,
+   "explanation": "Die führenden Persönlichkeiten sind die Propheten und Heiligen. Das Herz ist Spiegel der Offenbarung und Empfangsorgan der Eingebungen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-14",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 95,
+   "q": "Was bedeutet «Tevatur» im Neunten Bild?",
+   "options": [
+    "Ein Gesetz des Königs",
+    "Übereinstimmende Berichte mit der Überzeugungskraft einer ganzen Gemeinde",
+    "Ein Ort der Strafe",
+    "Ein Fest"
+   ],
+   "correct": 1,
+   "explanation": "Alle Kundschafter berichten übereinstimmend, dass Quelle und Sitz des Reiches anderswo liegen und die Gebäude hier nur vorübergehend sind.",
+   "term": "Tevatur",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-15",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 96,
+   "q": "Was folgt laut dem Zehnten Bild aus dem Aufwand von zehn Jahren für ein Beisammensein von einer Stunde?",
+   "options": [
+    "Dass Verschwendung herrscht",
+    "Dass der König kein Mass kennt",
+    "Dass die Formen nicht Selbstzweck, sondern Muster sind, deren Bilder aufbewahrt werden",
+    "Dass die Zeit unwichtig ist"
+   ],
+   "correct": 2,
+   "explanation": "Das Bild des Nauruzfestes steht für den Frühling: Die Szenen wechseln wie auf einer Kinoleinwand. Die vergänglichen Formen bringen beständige Bilder und bleibende Früchte hervor.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-16",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 98,
+   "q": "Wie würde man laut dem Elften Bild den Herrn ansehen müssen, wenn es keinen anderen Ort gäbe?",
+   "options": [
+    "Als gerechten Richter",
+    "Als fernen König",
+    "Als freundlichen Gastgeber",
+    "Als primitiven Spieler oder grausamen Tyrannen; das wäre eine Umkehr der Realität"
+   ],
+   "correct": 3,
+   "explanation": "Man müsste die offensichtliche Weisheit, das Mitleid und die Gerechtigkeit leugnen wie die Sonne am helllichten Tag. Das tun nur Sophisten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-17",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 99,
+   "q": "Was zeigt das Soldbuch des Offiziers im Zwölften Bild?",
+   "options": [
+    "Dass Rang, Konto und Anweisungen für einen anderen Ort und ein langes, glückseliges Leben bestimmt sind",
+    "Dass sein Sold sofort ausgezahlt wird",
+    "Dass er bald entlassen wird",
+    "Dass er nichts besitzt"
+   ],
+   "correct": 0,
+   "explanation": "Der Sold wird an einem bestimmten Tag aus der königlichen Privatschatulle gezahlt, erst nach Verlassen des Ortes. Ohne bleibende Stätte wären Ausweis und Soldbuch sinnlos.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-18",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 102,
+   "q": "Welche drei Paare entsprechen laut der Ersten Anmerkung dem Verblendeten und seinem Gefährten?",
+   "options": [
+    "Arm und Reich, Jung und Alt, Mann und Frau",
+    "Seele und Herz, Adept der Philosophie und Jünger des Qur'an, Leute des Unglaubens und Gemeinschaft des Islam",
+    "Herrscher und Volk, Lehrer und Schüler, Vater und Sohn",
+    "Engel und Teufel, Himmel und Erde, Tag und Nacht"
+   ],
+   "correct": 1,
+   "explanation": "Der Irrtum der triebverhafteten Seele, der Philosophie und des Unglaubens ist, Gott den Gerechten nicht anzuerkennen.",
+   "term": "nefs-i emmare",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-19",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 102,
+   "q": "Welches Bild verwendet die Erste Anmerkung für den Kosmos?",
+   "options": [
+    "Eine Maschine ohne Ziel",
+    "Ein leerer Raum",
+    "Ein Buch, in dem jede Seite viele Bücher, jedes Wort ein Buch und jeder Buchstabe eine Kasside enthält",
+    "Ein Meer"
+   ],
+   "correct": 2,
+   "explanation": "Das Antlitz der Erde ist eine Seite, ein Baum ein Wort, eine Frucht ein Buchstabe, ein Kern ein Punkt mit dem Programm eines ganzen Baumes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-20",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 103,
+   "q": "Mit wie vielen Arten von Geschöpfen deckt der Baumeister laut Text jeden Frühling den Gabentisch der Erde?",
+   "options": [
+    "Mit dreihunderttausend",
+    "Mit dreihundert",
+    "Mit drei Millionen",
+    "Mit dreitausend"
+   ],
+   "correct": 0,
+   "explanation": "Das Universum ist ein Schloss mit Sonne und Mond als Lampen und Sternen als Kerzen; die Bilder werden auf dreihundertsechzig Arten erneuert.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-21",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 104,
+   "q": "Was müsste man laut Text annehmen, wenn man die eine Sonne leugnet, die sich in jedem Tropfen spiegelt?",
+   "options": [
+    "Dass es dunkel ist",
+    "Dass es so viele kleine, reale Sonnen gibt wie Tropfen und Teilchen",
+    "Dass die Tropfen selbst leuchten",
+    "Dass es keine Spiegelung gibt"
+   ],
+   "correct": 1,
+   "explanation": "Ebenso müsste man, wer den Schöpfer leugnet, in jedem Ding und jedem Stäubchen eine absolute Gottheit anerkennen; etwa ein Atom, das Form und Ablauf aller Arten kennen müsste.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-22",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 105,
+   "q": "Was muss laut Text anerkennen, wer die Einheit und Einzigartigkeit Gottes (Vahid-i Ahad) nicht anerkennt?",
+   "options": [
+    "Dass die Welt ewig ist",
+    "Dass nichts existiert",
+    "So viele Götter, wie es Geschöpfe gibt",
+    "Dass der Zufall herrscht"
+   ],
+   "correct": 2,
+   "explanation": "In jedem Ding liegen Beweise der Einheit: Aus allen Dingen eines und aus einem alle zu machen, ist dem Schöpfer eigen. «Es gibt kein Ding, das Ihn nicht mit Lob und Dank preist.»",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-23",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 105,
+   "q": "Womit vergleicht die Zweite Anmerkung die Notwendigkeit eines Gesandten Gottes?",
+   "options": [
+    "Mit einem Brief ohne Absender",
+    "Mit einem Baum ohne Wurzeln",
+    "Mit einem Haus ohne Dach",
+    "Mit der Sonne, die notwendig Licht und Wärme ausstrahlt"
+   ],
+   "correct": 3,
+   "explanation": "So wie es der Sonne unmöglich ist, keine Strahlen auszusenden, ist es der Gottheit unmöglich, sich nicht durch Gesandte zu offenbaren. Der höchste Botschafter im Gleichnis ist der Gesandte Gottes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-24",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 107,
+   "q": "Welche drei schwierigen Fragen soll laut Text ein Botschafter beantworten?",
+   "options": [
+    "Woher? Wohin? Was bist du?",
+    "Wann? Wo? Wie viel?",
+    "Wer? Warum? Wozu?",
+    "Was ist gut? Was ist böse? Was ist wahr?"
+   ],
+   "correct": 0,
+   "explanation": "Der Herr des Alls löst das Rätsel nach Sinn und Zweck des sich wandelnden Universums durch einen Botschafter und teilt so Seinen Willen mit.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-25",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 108,
+   "q": "Was nennt das Zehnte Wort als grösstes aller Wunder des Propheten?",
+   "options": [
+    "Die Spaltung des Mondes",
+    "Den Qur'an, ein Wunder in vierzigfacher Hinsicht",
+    "Das Wasser aus seinen Fingern",
+    "Die Himmelfahrt"
+   ],
+   "correct": 1,
+   "explanation": "Unter fast tausend bestätigten Wundern genügt der Qur'an als Ozean der Wahrheit; seine etwa vierzig Aspekte bespricht das Fünfundzwanzigste Wort.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-26",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 108,
+   "q": "Warum verdient der Unglaube laut der Dritten Anmerkung trotz kurzen Lebens eine ewige Strafe?",
+   "options": [
+    "Weil er lange dauert",
+    "Weil er ansteckend ist",
+    "Weil er das Universum zur Sinnlosigkeit herabsetzt, alle Namen Gottes verleugnet und damit ein grenzenloses Verbrechen ist",
+    "Weil er im Verborgenen geschieht"
+   ],
+   "correct": 2,
+   "explanation": "Der Mensch ist nicht unbedeutend: Er ist Meister allen Seins durch seine umfassenden Anlagen und Diener stellvertretend für die ganze Schöpfung. Ein grenzenloses Verbrechen erfordert eine grenzenlose Strafe.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-27",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 109,
+   "q": "Welche Namen bilden laut der Ersten Wahrheit das Tor zum Königreich?",
+   "options": [
+    "Kerim und Rahim",
+    "Hakim und Adil",
+    "Djevvad und Djemil",
+    "Der Name «Herr» (Rabb)"
+   ],
+   "correct": 3,
+   "explanation": "Eine Herrschaft, die die Welt zu erhabenen Zielen geschaffen hat, muss die Gläubigen belohnen und die Irregeleiteten bestrafen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-28",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 110,
+   "q": "Worauf beruht laut Fussnote zur Zweiten Wahrheit der erlaubte Unterhalt?",
+   "options": [
+    "Auf Bedürftigkeit, nicht auf Befähigung",
+    "Auf Fleiss",
+    "Auf Intelligenz",
+    "Auf Stärke"
+   ],
+   "correct": 0,
+   "explanation": "Säuglinge werden bestens versorgt, Wölfe leiden trotz Stärke; Fische werden fett, der schlaue Fuchs und der Affe bleiben mager. Unterhalt und Befähigung verhalten sich umgekehrt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-29",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 110,
+   "q": "Welches Beispiel für Freigiebigkeit nennt die Zweite Wahrheit bei der Biene?",
+   "options": [
+    "Sie bestäubt Blumen",
+    "Aus der Hand der Biene mit ihrem giftigen Stachel empfangen wir gesunden, wohlschmeckenden Honig",
+    "Sie baut Waben",
+    "Sie arbeitet ohne Pause"
+   ],
+   "correct": 1,
+   "explanation": "Ebenso werden wir aus der Hand eines Insekts ohne Hände in seidenweiche Kleider gehüllt, und in einem winzigen Kern ist eine Schatzkammer aufbewahrt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-30",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 111,
+   "q": "Welches Beispiel für das Erbarmen nennt die Fussnote zur Zweiten Wahrheit?",
+   "options": [
+    "Ein Vogel, der nach Süden zieht",
+    "Ein Hirte, der seine Herde zählt",
+    "Ein furchtsames Huhn, das zum Schutz seiner Küken einen Hund oder Löwen angreift",
+    "Ein Bauer, der sät"
+   ],
+   "correct": 2,
+   "explanation": "Dazu gibt der hungrige Löwe sein Fleisch dem Jungen, und der Feigenbaum, der sich vom Schlamm ernährt, gibt seinen Früchten reine Milch; das tun sie im Namen eines Barmherzigen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-31",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 112,
+   "q": "Was würde laut Text ein Tod ohne Wiederkehr aus Liebe und Mitgefühl machen?",
+   "options": [
+    "Erinnerungen",
+    "Nichts, sie blieben gleich",
+    "Freude",
+    "Liebe würde zu Leid, Mitgefühl zu Hass und ein Gnadengeschenk zu einem Racheakt"
+   ],
+   "correct": 3,
+   "explanation": "Dann müsste das göttliche Erbarmen aufhören, Realität zu sein. Deshalb muss es einen Ort der Glückseligkeit geben, wie man die Sonne am Tag nicht leugnen kann.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-32",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 113,
+   "q": "Warum wiederholt das Zehnte Wort laut Fussnote so oft die Frage «Ist es denn überhaupt möglich?»",
+   "options": [
+    "Weil Unglaube das für unmöglich Gehaltene leugnet; gezeigt wird, dass die Unmöglichkeit auf der Seite des Unglaubens liegt",
+    "Aus Gewohnheit",
+    "Um den Leser zu ermüden",
+    "Weil der Autor zweifelt"
+   ],
+   "correct": 0,
+   "explanation": "Auf dem Weg des Glaubens sind die Tatsachen möglich und verstandesgemäss, auf dem des Unglaubens erscheint die Wahrheit unvorstellbar. Die Philosophen halten etwas für unmöglich und leugnen es deshalb.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-33",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 114,
+   "q": "Was enthält laut der Dritten Wahrheit das winzige Samenkorn einer Blume?",
+   "options": [
+    "Nur Nährstoffe",
+    "Programm, Arbeitsplan, Lebensgeschichte und Ausrüstungsliste eines grossen Baumes, mit dem Stift der Vorsehung geschrieben",
+    "Nichts Besonderes",
+    "Die Erinnerung an frühere Pflanzen"
+   ],
+   "correct": 1,
+   "explanation": "Dies ist die Spur einer Feder voll unendlicher Weisheit. Im winzigen Körper des Menschen findet sich sogar das Inhaltsverzeichnis des ganzen Universums.",
+   "term": "qader",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-34",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 116,
+   "q": "Wonach müsste der Mensch laut der Dritten Wahrheit Lohn und Strafe erhalten?",
+   "options": [
+    "Nach seiner Grösse und Lebensdauer",
+    "Nach seinem Reichtum",
+    "Nicht nach seiner Winzigkeit, sondern nach der Grösse seines Verbrechens, der Bedeutung seines Daseins und seiner Aufgabe",
+    "Nach dem Urteil der Menschen"
+   ],
+   "correct": 2,
+   "explanation": "Diese Gerechtigkeit erfährt er im kurzen Leben nicht; also wird der Herr eine immerwährende Hölle und ein ewiges Paradies haben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-35",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 118,
+   "q": "Was zeigt die Anekdote vom Mann, der von einer gefeierten Schönheit weggeschickt wurde?",
+   "options": [
+    "Dass Schönheit vergänglich ist",
+    "Dass man sich nicht verlieben soll",
+    "Dass Schönheit relativ ist",
+    "Wer etwas nicht erreicht, verleugnet seinen Wert, wie der Mann, der sich mit «Puh, ist die aber hässlich!» tröstete"
+   ],
+   "correct": 3,
+   "explanation": "Ohne Fortleben der Bewunderer erlischt in ihren Augen der Wert der Vollkommenheit. Daraus erklärt der Text, wie der Ungläubige zum Feind Allahs wird.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-36",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 119,
+   "q": "Auf welche zwei Weisen will laut Text die verborgene Schönheit (Djemal) sich betrachten?",
+   "options": [
+    "In jedem Spiegel in anderer Farbe und in der Sehnsucht und Begeisterung ihrer Betrachter",
+    "In Büchern und Bildern",
+    "Im Himmel und auf der Erde",
+    "Am Tag und in der Nacht"
+   ],
+   "correct": 0,
+   "explanation": "Sehen und Gesehen-Werden verlangen nach beständiger Anwesenheit sehnsüchtiger Betrachter; ein sterblicher Bewunderer genügt einer immerwährenden Schönheit nicht.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-37",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 120,
+   "q": "Welche Namen bilden laut der Fünften Wahrheit das Tor der selbstlosen Liebe und des Gottesdienstes Mohammeds?",
+   "options": [
+    "Kerim und Rahim",
+    "Mudjib und Rahim",
+    "Rabb und Malik",
+    "Hakim und Adil"
+   ],
+   "correct": 1,
+   "explanation": "Der Herr hört die leiseste Stimme und befriedigt das primitivste Bedürfnis; also wird er das höchste Gebet Seines grössten Dieners nicht unerhört lassen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-38",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 122,
+   "q": "Was sind laut Fussnote alle Gebete und Segenswünsche der Gemeinde für das Gebet des Propheten?",
+   "options": [
+    "Ein eigenes, unabhängiges Gebet",
+    "Eine Wiederholung ohne Wirkung",
+    "Ein ununterbrochenes «Amen» zu seinem Gebet um die ewige Glückseligkeit",
+    "Eine Pflicht ohne Bezug"
+   ],
+   "correct": 2,
+   "explanation": "Er bittet im Namen des Menschengeschlechtes um Beständigkeit, und die Erleuchteten der Menschheit sagen hinter ihm «Amen».",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-39",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 123,
+   "q": "Wozu soll die Glückseligkeit, um die der Prophet betet, den Menschen erheben?",
+   "options": [
+    "Zu Reichtum und Macht",
+    "Zu einem langen irdischen Leben",
+    "Zu Wissen über die Natur",
+    "Aus absoluter Negation und Sinnlosigkeit zu den Höhen von Illiyyun, zu Wert und Beständigkeit"
+   ],
+   "correct": 3,
+   "explanation": "Laut Fussnote hat sich im Lichte Ahmeds die Gestalt der Welt verändert: Jedes Sein wurde zu einem Brief des Unwandelbaren; ohne dieses Licht bliebe alles ein Spielzeug des Zufalls.",
+   "term": "Illiyyun",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-40",
+   "sec": 10,
+   "secTitle": "Zehntes Wort (Die Auferstehung)",
+   "page": 125,
+   "q": "Was würde laut Text schon ein einziges Gebet dieser Persönlichkeit bewirken?",
+   "options": [
+    "Es würde genügen, das Paradies zu erbauen, so leicht wie den Frühling",
+    "Es würde den Tod abschaffen",
+    "Es würde alle Menschen bekehren",
+    "Es würde die Welt sofort beenden"
+   ],
+   "correct": 0,
+   "explanation": "Laut Fussnote ist der Erdball im Vergleich zum Jenseits nur eine knappe Seite; die Gärten des Frühlings zu erschaffen ist schwieriger als das Paradies.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   }
