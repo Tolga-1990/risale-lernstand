@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23d",
+ "version": "2026-10-23e",
  "questions": [
   {
    "id": "mek-01-01",
@@ -2740,7 +2740,7 @@
    "page": 81,
    "q": "Was geschieht laut Text in der Fatiha mit der Anrede «Iyyake na'budu»?",
    "options": [
-    "Sie wechselt von der dritten zur zweiten Person",
+    "Mit ihr wechselt das Gebet von der dritten zur zweiten Person",
     "Sie wird wiederholt",
     "Sie wird nur gedacht, nicht gesprochen",
     "Sie richtet sich an die Gemeinde"
@@ -3217,7 +3217,7 @@
    "sec": 10,
    "secTitle": "Zehntes Wort (Die Auferstehung)",
    "page": 109,
-   "q": "Welche Namen bilden laut der Ersten Wahrheit das Tor zum Königreich?",
+   "q": "Welcher Name bildet laut der Ersten Wahrheit das Tor zum Königreich?",
    "options": [
     "Kerim und Rahim",
     "Hakim und Adil",
@@ -3892,7 +3892,7 @@
     "Die öffentliche und die private"
    ],
    "correct": 0,
-   "explanation": "Die positive Gerechtigkeit ist in dieser Welt offensichtlich: Jedes Ding erhält, was es seiner Veranlagung nach braucht. Die negative zeigt sich hier nicht vollständig.",
+   "explanation": "Die positive Gerechtigkeit ist in dieser Welt offensichtlich: Jedes Ding erhält, was es seiner Veranlagung nach braucht. Die negative besteht darin, dass das Recht der Ungerechten ihre Züchtigung und Strafe ist.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   },
@@ -4029,7 +4029,7 @@
     "Nur der Name Allah"
    ],
    "correct": 0,
-   "explanation": "Auch die Beweise sind nicht auf die zwölf Wahrheiten beschränkt; der Qur'an zeigt tausend weitere Aspekte. Jedes Zeichen in der Natur öffnet sich wie zwei Vorhänge: zum Baumeister und zur Wiederversammlung.",
+   "explanation": "Auch die Beweise sind nicht auf die zwölf Wahrheiten beschränkt; der Qur'an zeigt tausend weitere Aspekte. Die meisten Dinge zeigen zwei Seiten wie zwei Vorhänge: zum Baumeister und zur Wiederversammlung.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   },
@@ -4098,6 +4098,313 @@
    ],
    "correct": 0,
    "explanation": "Abstufungen entstehen durch Gegensätze, etwa Hitzegrade durch Kälte. Darum ist der Frühling so leicht wie eine Blume, und die Menschheit aufzuerwecken so leicht wie eine Seele.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-79",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 164,
+   "q": "Welchen Ausspruch von Ibn-i Sina (Avicenna) zitiert der Anhang zum Zehnten Wort?",
+   "options": [
+    "«Die Wiederversammlung ist nicht mit dem Verstand zu ermessen»",
+    "«Die Seele ist unsterblich»",
+    "«Alles Wissen beginnt mit dem Zweifel»",
+    "«Die Welt ist ewig»"
+   ],
+   "correct": 0,
+   "explanation": "Auch die islamischen Gelehrten urteilten übereinstimmend, die Wiederversammlung sei eine Frage der Offenbarung. Wer das Zehnte Wort nicht sofort versteht, soll deshalb nicht bedrückt sein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-80",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 165,
+   "q": "Warum ist es laut S. 165 unmöglich, die Wiederversammlung allein mit dem Verstand zu erfassen?",
+   "options": [
+    "Weil sie in ferner Zukunft liegt",
+    "Weil die Gewaltige Versammlung (Hashr-i A'zam) eine Manifestation des Gewaltigen Namens (Ism-i A'zam) ist",
+    "Weil der Verstand zu schwach ist, um irgendetwas zu verstehen",
+    "Weil es keine Beweise gibt"
+   ],
+   "correct": 1,
+   "explanation": "Nur wer diese gewaltigen Taten selbst gesehen hat, kann die Gewaltige Versammlung so leicht wie den Frühling beweisen; im Zehnten Wort geschieht das mit dem Segen (feyz) des Qur'an.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-81",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 167,
+   "q": "Was geschah laut S. 167 mit der «Zweiten Abhandlung» des Alten Said über zwei Verse der Wiederversammlung?",
+   "options": [
+    "Sie wurde verboten",
+    "Sie ging verloren",
+    "Sie wurde nach der Basmala unterbrochen und erst dreissig Jahre später durch Gottes Güte vollendet",
+    "Sie wurde von einem Schüler fortgeführt"
+   ],
+   "correct": 2,
+   "explanation": "Er schrieb sie, als er «Urteile» (Muhakemat) als Einführung zu seinem Kommentar beendete. Später entstanden aus der Ayah Sure 30, 50 das Zehnte und das Neunundzwanzigste Wort und schliesslich der Neunte Strahl.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-82",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 169,
+   "q": "Womit trösten sich laut dem Ersten Beweis Kinder über den Tod eines Bruders oder Freundes?",
+   "options": [
+    "Mit Spielen",
+    "Mit dem Vergessen",
+    "Mit Geschenken",
+    "Mit dem Gedanken, er sei nun ein Vogel im Paradies"
+   ],
+   "correct": 3,
+   "explanation": "Kinder, etwa die Hälfte der Menschheit, können Tod und Trennung nur im Gedanken an das Paradies ertragen. Sonst würden sie wie verstörte, unglückselige Tiere.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-83",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 170,
+   "q": "Was hält laut dem Dritten Beweis die Jugendlichen von Ausschreitungen zurück?",
+   "options": [
+    "Der Gedanke an die Hölle",
+    "Die Polizei",
+    "Die Schule",
+    "Der Wunsch nach Ansehen"
+   ],
+   "correct": 0,
+   "explanation": "Ohne diese Furcht würden sie nach dem Motto «Das Recht ist auf Seiten des Stärkeren» den Schwachen das Leben zur Hölle machen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-84",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 171,
+   "q": "Wie kann laut dem Vierten Beweis ein Mann seiner alt gewordenen Frau mit gleicher Liebe begegnen?",
+   "options": [
+    "Durch Gewohnheit",
+    "Durch den Gedanken, dass sie in einem ewigen Leben seine immerwährende Gefährtin sein wird",
+    "Durch Pflichtgefühl",
+    "Durch die Hoffnung auf Erbe"
+   ],
+   "correct": 1,
+   "explanation": "Das Familienleben ist ein Paradies irdischer Glückseligkeit; treue Verehrung ist nur im Gedanken an ewige Partnerschaft möglich. Sonst bliebe Erbarmen nur ein Wort.",
+   "term": "huri",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-85",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 172,
+   "q": "Welche Frage richtet der Text auf S. 172 an Politiker, Moralisten und Soziologen?",
+   "options": [
+    "Wie sie Kriege verhindern wollen",
+    "Wie sie Armut beseitigen wollen",
+    "Womit sie die Leere füllen wollen, die ohne den Glauben an die Wiederversammlung entsteht",
+    "Wie sie Bildung verbessern wollen"
+   ],
+   "correct": 2,
+   "explanation": "Ohne die Wiederversammlung fiele die Seele der Menschheit auf die Stufe eines ungeniessbaren (murdar) Kadavers. Das Bedürfnis im Magen beweist die Nahrung, ebenso das Bedürfnis der Menschheit das Jenseits.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-86",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 173,
+   "q": "Welcher Anteil des Qur'an handelt laut S. 173 von der Wiederversammlung?",
+   "options": [
+    "Etwa ein Zehntel",
+    "Etwa die Hälfte",
+    "Nur wenige Verse",
+    "Fast ein Drittel"
+   ],
+   "correct": 3,
+   "explanation": "Die meisten kurzen Suren beginnen mit starken Versen darüber, etwa «Wenn die Sonne zusammengefaltet wird» (81, 1) oder «Wenn die Erde gewaltig erbebt» (99, 1).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-87",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 184,
+   "q": "Mit welchem Vergleich erklärt S. 184, warum man der Kunde der Engel über das Jenseits glauben kann?",
+   "options": [
+    "Wie man vom amerikanischen Kontinent weiss, ohne dort gewesen zu sein, durch Nachrichten derer, die von dort kamen",
+    "Wie man einem Arzt vertraut",
+    "Wie man einer Landkarte folgt",
+    "Wie man einem Wetterbericht glaubt"
+   ],
+   "correct": 0,
+   "explanation": "Die Engel vor Gottes Thron (melaike-i muqarrebin) berichten übereinstimmend über diese Welten; das hat die hundertfache Kraft einstimmiger Überlieferung (tevatur).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-88",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 182,
+   "q": "Welche Lebensspanne erhielt der Prophet laut S. 182 für Verdienste, die eine Million Jahre erfordert hätten?",
+   "options": [
+    "Vierzig Jahre",
+    "Siebzig Jahre",
+    "Dreiundsechzig Jahre",
+    "Hundert Jahre"
+   ],
+   "correct": 2,
+   "explanation": "Diese kurze Spanne war voller Mühen und Kämpfe. Dass er nicht mit seinen Gefährten auferweckt würde, ist «tausendmal nein».",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-89",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 183,
+   "q": "Welches sind laut S. 183 die drei Grundpfeiler des Glaubens (erkan-i imaniye), die zugleich die Wiederversammlung bezeugen?",
+   "options": [
+    "Gebet, Fasten, Almosen",
+    "Allah, die Propheten und die heiligen Schriften",
+    "Engel, Qader, Jenseits",
+    "Glaube, Wissen, Tat"
+   ],
+   "correct": 1,
+   "explanation": "Kurzum: Da es Allah gibt, gibt es mit Sicherheit auch ein Jenseits. Auf S. 184 kommen die anderen beiden Grundpfeiler hinzu: Engel und Qader.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-90",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 185,
+   "q": "Wozu dienen laut S. 185 die Aufzeichnungen aller Taten auf den Wohlverwahrten Tafeln (elvah-i mahfudha)?",
+   "options": [
+    "Zur Geschichtsschreibung",
+    "Zur Unterhaltung der Engel",
+    "Zu einer öffentlichen Verhandlung vor einem Obersten Gerichtshof mit ewiger Belohnung oder Bestrafung",
+    "Sie haben keinen Zweck"
+   ],
+   "correct": 2,
+   "explanation": "Ohne Wiederversammlung wäre diese bis ins Kleinste reichende Aufzeichnung sinnlos; das widerspräche der Weisheit und wäre ein Fieberwahn.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-91",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 187,
+   "q": "Wie vergleicht S. 187 den Menschen mit einem Sperling, wenn es kein ewiges Leben gäbe?",
+   "options": [
+    "Der Mensch wäre zwanzigmal wertvoller, fiele aber zwanzigmal tiefer und würde zum unglücklichsten Geschöpf",
+    "Beide wären gleich glücklich",
+    "Der Sperling wäre wertvoller",
+    "Der Mensch wäre freier"
+   ],
+   "correct": 0,
+   "explanation": "Der Verstand würde dann Trauer über die Vergangenheit und Furcht vor der Zukunft bringen und in einen Tropfen Freude neun Körnchen Schmerz mischen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-92",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 188,
+   "q": "Welchen Vergleich zieht S. 188 für die Vorstellung, Gott höre die verborgene Stimme des kleinsten Lebewesens, aber nicht das donnergleiche Gebet des Lebens um Beständigkeit?",
+   "options": [
+    "Einen Garten ohne Wasser",
+    "Ein Haus ohne Tür",
+    "Einen Lehrer ohne Schüler",
+    "Als könnte Er das Sirren einer Mücke hören, das Grollen des Donners aber nicht"
+   ],
+   "correct": 3,
+   "explanation": "Ebenso: einen einzelnen Soldaten sorgfältig ausrüsten, aber ein ganzes Heer vernachlässigen; ein Stäubchen sehen, die Sonne nicht.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-93",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 189,
+   "q": "Welches Gleichnis zeigt auf S. 189 das Leben als Zeugnis für den Lebendigen?",
+   "options": [
+    "Ein Feuer, das erlischt",
+    "Wassertropfen auf dem Meer, die im Sonnenlicht als winzige Sonnen aufblitzen und vergehen und so die eine Sonne bezeugen",
+    "Ein Fluss, der ins Meer mündet",
+    "Ein Baum im Herbst"
+   ],
+   "correct": 1,
+   "explanation": "So spricht alles Lebende «Ya Hayy», verschwindet hinter dem Vorhang und macht Platz; es bezeugt den Herrn des Lebens (Hayy) und der Ewigkeit (Qayyum).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-94",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 191,
+   "q": "Warum folgt laut S. 191 aus dem Leben auf der Erde die Existenz der Engel?",
+   "options": [
+    "Weil Engel auf der Erde leben",
+    "Weil die Propheten sie gesehen haben",
+    "Weil die Himmelskörper, feinstofflicher und grösser als die Erde, nicht tot und ohne Bewusstsein sein können",
+    "Weil Menschen sie brauchen"
+   ],
+   "correct": 2,
+   "explanation": "Die Erde ist sogar bis in die wertlosesten Dinge mit Leben erfüllt. Also muss es bewusste himmlische Lebewesen geben, die die Himmel bewohnen und Partner im Dialog sind.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-95",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 193,
+   "q": "Was wäre laut S. 193 die Folge, wenn der Qur'an aus der Welt entschwände?",
+   "options": [
+    "Die Erde verlöre Kopf und Verstand, das All würde verrückt, und vielleicht bräche der Jüngste Tag herein",
+    "Nichts würde sich ändern",
+    "Andere Bücher träten an seine Stelle",
+    "Die Menschen würden freier"
+   ],
+   "correct": 0,
+   "explanation": "Das Prophetentum Mohammeds ist Bewusstsein und Licht des kosmischen Bewusstseins, der Qur'an Geist des kosmischen Lebens und Vernunft des kosmischen Bewusstseins.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
+  },
+  {
+   "id": "soz-10-96",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 194,
+   "q": "Was zeigen laut S. 194 die Samenkörner eines Baumes im Zusammenhang mit Qader?",
+   "options": [
+    "Dass jeder Baum anders ist",
+    "Dass sie die Gesetze des Lebens in noch verfeinerterer Form tragen als der ganze Baum",
+    "Dass Bäume sich zufällig vermehren",
+    "Dass der Herbst das Leben beendet"
+   ],
+   "correct": 1,
+   "explanation": "Was im Wissen Gottes existiert (vudjud-u ilmi), zeigt sich ebenso als Offenbarung des Geistes (manevi) wie das sichtbar Existierende (vudjud-u haridji); die Bestimmung kommt von den Tafeln der Bestimmung (elvah-i qaderiye).",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»"
   }
