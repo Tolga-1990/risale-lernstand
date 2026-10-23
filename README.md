@@ -18,7 +18,7 @@ Nach dem ersten Öffnen funktioniert die App auch offline.
 
 Die Fragen stehen in `questions.json`.
 
-- **Sözler:** Seitenangaben nach der deutschen Ausgabe «Worte», wie sie im Buch «Worte» der Lese-App «Risale-i Nur Okuma Programı» erscheint (Seitenmarken #7, #8 …). Der Link «In Lese-App öffnen» springt in die Nähe der Seite; die Position ist aus fünf in der App gemessenen Punkten (S. 7, 26, 84, 150, 194) hochgerechnet und kann um etwa eine Seite abweichen.
+- **Sözler:** Seitenangaben nach der deutschen Ausgabe «Worte», wie sie im Buch «Worte» der Lese-App «Risale-i Nur Okuma Programı» erscheint (Seitenmarken #7, #8 …). Der Link «In Lese-App öffnen» springt in die Nähe der Seite; die Position ist aus fünf in der App gemessenen Punkten (S. 7, 26, 84, 150, 194) hochgerechnet und kann um etwa eine Seite abweichen. Ab S. 195 ist die Position über den letzten Messpunkt hinaus fortgeschrieben und kann stärker abweichen.
 - **Mektubat:** Seitenangaben nach der deutschen Ausgabe «Briefe», übersetzt von Davut Korkmaz (Lichtstrasse, Köln). Dieselbe Ausgabe und Seitenzählung wie im Buch «Briefe» der Lese-App «Risale-i Nur Okuma Programı». Der Link «In Lese-App öffnen» springt in die Nähe der Seite; die Position ist aus zwei gemessenen Punkten hochgerechnet und kann um eine Seite abweichen.
 
 Fragen und Erklärungen sind eigene Formulierungen. Der Text der Werke wird nicht wiedergegeben.

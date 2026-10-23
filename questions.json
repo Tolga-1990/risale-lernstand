@@ -1,5 +1,5 @@
 {
- "version": "2026-10-23f",
+ "version": "2026-10-23g",
  "questions": [
   {
    "id": "mek-01-01",
@@ -3164,12 +3164,12 @@
    "page": 92,
    "q": "Was folgt laut Text daraus, dass die Herberge sich täglich füllt und leert und die Gäste nur Muster sehen?",
    "options": [
-    "Dass alles zufällig ist",
     "Dass es dahinter immerwährende Schlösser und Schatzhäuser mit den Originalen gibt: hier Arbeit, dort Lohn",
+    "Dass alles zufällig ist",
     "Dass niemand zurückkehren will",
     "Dass die Muster wertlos sind"
    ],
-   "correct": 1,
+   "correct": 0,
    "explanation": "Jeder empfängt dort Glückseligkeit entsprechend seiner Fähigkeit.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3184,11 +3184,11 @@
    "q": "Was zeigen die Schreiber und der riesige Photoapparat auf dem Berg?",
    "options": [
     "Dass der König neugierig ist",
-    "Dass die Untertanen überwacht und sofort bestraft werden",
     "Dass alles für eine Abrechnung genau aufgezeichnet wird",
+    "Dass die Untertanen überwacht und sofort bestraft werden",
     "Dass Geschichte geschrieben wird"
    ],
-   "correct": 2,
+   "correct": 1,
    "explanation": "Ein König, der die geringsten Handlungen nicht vernachlässigt, muss die bedeutendsten Taten abrechnen; weil sie hier unbestraft bleiben, bleibt das dem Obersten Gerichtshof überlassen.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3204,10 +3204,10 @@
    "options": [
     "Mit einem Kind",
     "Mit einem Soldaten",
-    "Mit einem Kaufmann",
-    "Mit einem Reisenden, der vor dem Sonnenlicht die Augen schliesst und mit dem Schein seines Verstandes wie ein Leuchtkäfer seinen Weg erhellen will"
+    "Mit einem Reisenden, der vor dem Sonnenlicht die Augen schliesst und mit dem Schein seines Verstandes wie ein Leuchtkäfer seinen Weg erhellen will",
+    "Mit einem Kaufmann"
    ],
-   "correct": 3,
+   "correct": 2,
    "explanation": "Er nennt eine Persönlichkeit einen Lügner, deren offensichtliche Werke für ihre Aufrichtigkeit zeugen; ein Wortbruch wäre mit der Würde ihrer Regierung unvereinbar.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3221,12 +3221,12 @@
    "page": 94,
    "q": "Wofür steht laut Fussnote im Neunten Bild das Telefon der führenden Persönlichkeiten?",
    "options": [
-    "Für eine vom Herzen ausgehende Verbindung mit dem Herrn",
+    "Für Boten",
     "Für Briefe",
     "Für Gebete in der Moschee",
-    "Für Boten"
+    "Für eine vom Herzen ausgehende Verbindung mit dem Herrn"
    ],
-   "correct": 0,
+   "correct": 3,
    "explanation": "Die führenden Persönlichkeiten sind die Propheten und Heiligen. Das Herz ist Spiegel der Offenbarung und Empfangsorgan der Eingebungen.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3240,12 +3240,12 @@
    "page": 95,
    "q": "Was bedeutet «Tevatur» im Neunten Bild?",
    "options": [
-    "Ein Gesetz des Königs",
     "Übereinstimmende Berichte mit der Überzeugungskraft einer ganzen Gemeinde",
+    "Ein Gesetz des Königs",
     "Ein Ort der Strafe",
     "Ein Fest"
    ],
-   "correct": 1,
+   "correct": 0,
    "explanation": "Alle Kundschafter berichten übereinstimmend, dass Quelle und Sitz des Reiches anderswo liegen und die Gebäude hier nur vorübergehend sind.",
    "term": "Tevatur",
    "book": "soz",
@@ -3261,11 +3261,11 @@
    "q": "Was folgt laut dem Zehnten Bild aus dem Aufwand von zehn Jahren für ein Beisammensein von einer Stunde?",
    "options": [
     "Dass Verschwendung herrscht",
-    "Dass der König kein Mass kennt",
     "Dass die Formen nicht Selbstzweck, sondern Muster sind, deren Bilder aufbewahrt werden",
+    "Dass der König kein Mass kennt",
     "Dass die Zeit unwichtig ist"
    ],
-   "correct": 2,
+   "correct": 1,
    "explanation": "Das Bild des Nauruzfestes steht für den Frühling: Die Szenen wechseln wie auf einer Kinoleinwand. Die vergänglichen Formen bringen beständige Bilder und bleibende Früchte hervor.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3281,10 +3281,10 @@
    "options": [
     "Als gerechten Richter",
     "Als fernen König",
-    "Als freundlichen Gastgeber",
-    "Als primitiven Spieler oder grausamen Tyrannen; das wäre eine Umkehr der Realität"
+    "Als primitiven Spieler oder grausamen Tyrannen; das wäre eine Umkehr der Realität",
+    "Als freundlichen Gastgeber"
    ],
-   "correct": 3,
+   "correct": 2,
    "explanation": "Man müsste die offensichtliche Weisheit, das Mitleid und die Gerechtigkeit leugnen wie die Sonne am helllichten Tag. Das tun nur Sophisten.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3298,12 +3298,12 @@
    "page": 99,
    "q": "Was zeigt das Soldbuch des Offiziers im Zwölften Bild?",
    "options": [
-    "Dass Rang, Konto und Anweisungen für einen anderen Ort und ein langes, glückseliges Leben bestimmt sind",
+    "Dass er nichts besitzt",
     "Dass sein Sold sofort ausgezahlt wird",
     "Dass er bald entlassen wird",
-    "Dass er nichts besitzt"
+    "Dass Rang, Konto und Anweisungen für einen anderen Ort und ein langes, glückseliges Leben bestimmt sind"
    ],
-   "correct": 0,
+   "correct": 3,
    "explanation": "Der Sold wird an einem bestimmten Tag aus der königlichen Privatschatulle gezahlt, erst nach Verlassen des Ortes. Ohne bleibende Stätte wären Ausweis und Soldbuch sinnlos.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -3317,12 +3317,12 @@
    "page": 102,
    "q": "Welche drei Paare entsprechen laut der Ersten Anmerkung dem Verblendeten und seinem Gefährten?",
    "options": [
-    "Arm und Reich, Jung und Alt, Mann und Frau",
     "Seele und Herz, Adept der Philosophie und Jünger des Qur'an, Leute des Unglaubens und Gemeinschaft des Islam",
+    "Arm und Reich, Jung und Alt, Mann und Frau",
     "Herrscher und Volk, Lehrer und Schüler, Vater und Sohn",
     "Engel und Teufel, Himmel und Erde, Tag und Nacht"
    ],
-   "correct": 1,
+   "correct": 0,
    "explanation": "Der Irrtum der triebverhafteten Seele, der Philosophie und des Unglaubens ist, Gott den Gerechten nicht anzuerkennen.",
    "term": "nefs-i emmare",
    "book": "soz",
@@ -3338,11 +3338,11 @@
    "q": "Welches Bild verwendet die Erste Anmerkung für den Kosmos?",
    "options": [
     "Eine Maschine ohne Ziel",
-    "Ein leerer Raum",
     "Ein Buch, in dem jede Seite viele Bücher, jedes Wort ein Buch und jeder Buchstabe eine Kasside enthält",
+    "Ein leerer Raum",
     "Ein Meer"
    ],
-   "correct": 2,
+   "correct": 1,
    "explanation": "Das Antlitz der Erde ist eine Seite, ein Baum ein Wort, eine Frucht ein Buchstabe, ein Kern ein Punkt mit dem Programm eines ganzen Baumes.",
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
@@ -4816,6 +4816,1184 @@
    "book": "soz",
    "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
    "url": "https://syesilova72.github.io/?kitap=alsozler_363767",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-97",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 195,
+   "q": "Was wäre laut S. 195 die Welt in den Augen der Irregeleiteten, wenn die Manifestation des Lebens auf die bezeugte Welt beschränkt wäre?",
+   "options": [
+    "Ein ewiger Garten",
+    "Ein neutraler Raum ohne Bedeutung",
+    "Ein grosser und furchtbarer Leichnam, erfüllt von Finsternis und Zerfall",
+    "Ein Spiegel der Engel"
+   ],
+   "correct": 2,
+   "explanation": "Jede Welt empfängt nach ihrer Fähigkeit eine Manifestation des Lichts des urewigen Lebens; sonst erschiene jede Welt wie ein Leichnam.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_365741",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-98",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 195,
+   "q": "Welcher Glaubensgrundsatz wird laut S. 195 durch das Geheimnis des Lebens verständlich und erhärtet?",
+   "options": [
+    "Der Glaube an die Engel",
+    "Der Glaube an die Propheten",
+    "Der Glaube an die heiligen Bücher",
+    "Der Glaube an die göttliche Vorherbestimmung und ihre Erfüllung (qader ve qaza)"
+   ],
+   "correct": 3,
+   "explanation": "Auch die Geschöpfe vergangener und künftiger Zeit (alem-i gayb) haben eine geistige Existenz (vudjud-u manevi), die durch die Tafeln der Vorherbestimmung (lauh-i qader ve qaza) sichtbar wird.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_365741",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-99",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 196,
+   "q": "Welches Problem stellt der «Dritte Teil» des Anhangs (S. 196) an den Anfang?",
+   "options": [
+    "Wie die gewaltige Wiederversammlung in einem einzigen Augenblick («ein einziger Schrei») zustande kommen kann",
+    "Warum es zwei Engel im Grab gibt",
+    "Warum der Mensch altert",
+    "Wie lange das Jenseits dauert"
+   ],
+   "correct": 0,
+   "explanation": "Der Qur'an sagt, die Auferstehung sei wie ein einziger Schrei (36,29) und die Angelegenheit der Stunde ein Augenblick (16,77); der Verstand verlangt dafür ein anschauliches Beispiel.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_367715",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-100",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 196,
+   "q": "In welche drei Problemstellungen gliedert S. 196 die Lösung?",
+   "options": [
+    "Gericht, Waage, Brücke",
+    "Rückkehr der Seelen, Wiederbelebung der Körper, Wiedererbauung der Körper",
+    "Tod, Grab, Paradies",
+    "Glaube, Gebet, Fasten"
+   ],
+   "correct": 1,
+   "explanation": "Die Seelen kehren zu ihren Körpern zurück, sodann werden die Körper wiederbelebt und dann wiedererbaut; daraus ergeben sich die drei Problemstellungen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_367715",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-101",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 196,
+   "q": "Welches Gleichnis erklärt auf S. 196 die Rückkehr der Seelen zu ihren Körpern?",
+   "options": [
+    "Ein Hirte ruft seine Herde",
+    "Vögel kehren im Frühling zurück",
+    "Zerstreute Soldaten eines disziplinierten Heeres werden durch einen Posaunenstoss wieder versammelt",
+    "Schiffe laufen in den Hafen ein"
+   ],
+   "correct": 2,
+   "explanation": "Die Posaune Israfils (Sur) erschallt nicht schwächer als die eines Heeres, und die Seelen, die auf «Bin ich nicht euer Herr?» mit «Ja» antworteten (S. 197), sind tausendmal gehorsamer als Soldaten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_367715",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-102",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 197,
+   "q": "Mit welchem Beispiel veranschaulicht S. 197 die Wiederbelebung der Körper in einem Augenblick?",
+   "options": [
+    "Mit einem Erdbeben",
+    "Mit dem Sonnenaufgang über dem Meer",
+    "Mit einem Feuerwerk",
+    "Mit einer Stadt, in der ein einziges Kraftwerk in einer festlichen Nacht hunderttausend elektrische Lampen auf einmal aufleuchten lässt"
+   ],
+   "correct": 3,
+   "explanation": "Wenn ein Geschöpf wie die Elektrizität das kann, kann auch die Wiederversammlung in einem Augenblick nach den Gesetzen der göttlichen Weisheit stattfinden.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_369688",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-103",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 198,
+   "q": "Welche Tiere nennt S. 198 als Beispiel, deren Zahl jährlich die aller Kinder Adams übersteigt und die jeden Frühling in wenigen Tagen wiederbelebt werden?",
+   "options": [
+    "Fliegen",
+    "Bienen",
+    "Ameisen",
+    "Schwalben"
+   ],
+   "correct": 0,
+   "explanation": "Die Fliegen erinnern, wenn sie Gesicht, Augen und Flügel putzen, an Abdest und Reinheit; sie sind eines von tausenden Beispielen für die Wiedererbauung der Körper.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_371662",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-104",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 198,
+   "q": "Wie unterscheidet S. 198 die diesseitige von der jenseitigen Welt?",
+   "options": [
+    "Diesseits = Haus der Prüfung, Jenseits = Haus der Ruhe",
+    "Diesseits = Haus der Weisheit, Jenseits = Haus der Macht",
+    "Diesseits = Haus der Zeit, Jenseits = Haus des Raumes",
+    "Diesseits = Haus der Arbeit, Jenseits = Haus des Lohnes"
+   ],
+   "correct": 1,
+   "explanation": "Namen wie Hakim, Murattib, Mudabbir und Murabbi erfordern hier eine stufenweise Entfaltung; im Jenseits treten Macht und Barmherzigkeit stärker hervor, die Dinge entstehen auf einmal, ohne Materie und Zeitablauf.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_371662",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-105",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 199,
+   "q": "Welche Wörter empfiehlt S. 199 dem, der mit der Sicherheit des kommenden Frühlings an die Auferstehung glauben möchte?",
+   "options": [
+    "Das Erste und das Zweite Wort",
+    "Das Dreizehnte und das Zwanzigste Wort",
+    "Das Zehnte und das Neunundzwanzigste Wort",
+    "Das Dreiunddreissigste Wort"
+   ],
+   "correct": 2,
+   "explanation": "Wer diese beiden Wörter aufmerksam liest und dann noch zweifelt, möge den Verfasser tadeln, wenn er das Gegenteil beweisen kann.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_373636",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-106",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 199,
+   "q": "Wie veranschaulicht die Vierte Problemstellung (S. 199) den Untergang der Welt?",
+   "options": [
+    "Durch das Austrocknen der Meere",
+    "Durch eine Seuche",
+    "Durch das Erlöschen der Sterne",
+    "Ein Planet oder Komet könnte auf Befehl mit der Erde zusammenstossen; ein in zehn Jahren erbautes Schloss kann in einer Minute zerstört werden"
+   ],
+   "correct": 3,
+   "explanation": "Die Erde wird hier als unsere Herberge bezeichnet, die durch einen Zusammenstoss zerstört werden könnte.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_373636",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-107",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 200,
+   "q": "Auf welchen Einwand antwortet der «Vierte Teil» des Anhangs (S. 200) mit Sure 36,78-79?",
+   "options": [
+    "Wer wird die vermoderten Gebeine wieder beleben?",
+    "Wer hat die Sterne erschaffen?",
+    "Wann kommt die Stunde?",
+    "Warum gibt es das Böse?"
+   ],
+   "correct": 0,
+   "explanation": "Die Antwort lautet: Der sie am Anfang erschuf und ihnen Leben verlieh, der wird sie auch wiederbeleben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_375609",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-108",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 201,
+   "q": "Auf wie viele Arten beweist der Qur'an laut S. 201 die Auferstehung?",
+   "options": [
+    "Auf eine einzige",
+    "Auf sieben, acht Arten, in verschiedener Form",
+    "Auf vierzig Arten",
+    "Auf drei Arten"
+   ],
+   "correct": 1,
+   "explanation": "Zunächst stellt er die erste Entstehung (nesh'ei 'ula) vor Augen: Samentropfen (nutfa), Blutstropfen (alaqa), Fleischklumpen (mudgha); die zweite Entstehung (nesh'e-i uhra) gleicht der ersten und ist vielleicht noch einfacher.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_377583",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-109",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 202,
+   "q": "Welche Schlussfolgerung soll man laut S. 202 aus den toten Bäumen ziehen, die wieder grün werden?",
+   "options": [
+    "Dass Bäume ewig leben",
+    "Dass der Winter unnötig ist",
+    "Dass Er, der knochentrockenes Holz wiederbelebt, auch den Menschen nach dem Tod wieder auferwecken wird",
+    "Dass Holz zu Feuer werden muss"
+   ],
+   "correct": 2,
+   "explanation": "Wer den Baum der Schöpfung geformt hat, lässt dessen Frucht, den Menschen, nicht wertlos; einen Frühling zu erschaffen ist für Ihn so leicht wie eine Blume.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_379556",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-110",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 203,
+   "q": "Womit vergleicht S. 203 Diesseits und Jenseits?",
+   "options": [
+    "Mit zwei Ufern eines Flusses",
+    "Mit zwei Büchern im Regal",
+    "Mit Tag und Nacht",
+    "Mit zwei Wohnstätten, deren eine Er öffnet und deren andere Er schliesst"
+   ],
+   "correct": 3,
+   "explanation": "Er hält die Zügel aller Dinge und blättert Tag und Nacht, Sommer und Winter so leicht um wie die Seiten eines Buches.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_381530",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-111",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 204,
+   "q": "Wofür steht die Ayah «Wenn die Blätter ausgebreitet werden» (81,10) laut S. 204?",
+   "options": [
+    "Dafür, dass bei der Wiederversammlung alle Taten jedes Menschen wie auf einer Seite ausgebreitet werden",
+    "Für das Fallen des Laubes im Herbst",
+    "Für das Aufschlagen des Qur'an",
+    "Für die Verbreitung von Briefen"
+   ],
+   "correct": 0,
+   "explanation": "Ihre Entsprechung zeigt sich im Frühling: Jede Pflanze trägt ihre Lebensgeschichte im Samen und breitet im neuen Frühling Äste, Blätter, Blüten und Früchte aus, gleichsam die Blätter ihrer Taten (S. 205).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_383504",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-112",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 206,
+   "q": "Wie wird die Sonne im Zusammenhang mit «Wenn die Sonne zusammengefaltet wird» (81,1) auf S. 206 beschrieben?",
+   "options": [
+    "Als ewige Lampe, die nie erlischt",
+    "Als eine Art Beamter, der einmal von seinen Pflichten entbunden wird und in dessen Gesicht zwei Flecken wachsen",
+    "Als Herrin der Planeten",
+    "Als Quelle allen Lebens, die angebetet werden darf"
+   ],
+   "correct": 1,
+   "explanation": "Auf Befehl windet sie ihr Licht um den eigenen Kopf; zu ihr wird gesagt, sie solle diejenigen verbrennen, die sie angebetet und so eine gehorsame Dienerin verspottet haben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_387451",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-113",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 207,
+   "q": "Welche Zeugen nennt der «Fünfte Teil» des Anhangs (S. 207) für die Existenz des Jenseits?",
+   "options": [
+    "Nur die Philosophen",
+    "Die Gelehrten der Naturwissenschaft",
+    "Die 124'000 Propheten und 124 Millionen Heilige",
+    "Nur die Engel"
+   ],
+   "correct": 2,
+   "explanation": "Die Propheten verkünden es übereinstimmend (tevatur) aus Zeugenschaft (shuhud) und Gewissheit (haqqa l-yaqin); die Heiligen bestätigen es durch Entdeckungen (keshif) als gesichertes Wissen ('ilme l-yaqin).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_389425",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-114",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 208,
+   "q": "Was zeigt das Beispiel vom «Garten, wo Milch in Dosen wächst» (S. 208)?",
+   "options": [
+    "Dass das Paradies ein Bauernhof ist",
+    "Dass Wunder unmöglich sind",
+    "Dass man Gerüchten nicht glauben soll",
+    "Wie leicht eine Nachricht zu bestätigen und wie schwer sie zu widerlegen ist: Der Behauptende zeigt den Garten, der Leugner müsste die ganze Welt vorführen"
+   ],
+   "correct": 3,
+   "explanation": "Wer die Existenz des Jenseits bestreiten will, müsste das grenzenlose All und die unbegrenzte Zeit durchsieben; das Zeugnis zweier zuverlässiger Zeugen genügt dagegen zum Beweis.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_391398",
+   "appLink": true
+  },
+  {
+   "id": "soz-10-115",
+   "sec": 10,
+   "secTitle": "Zehntes Wort, Anhang",
+   "page": 209,
+   "q": "Was bietet der Glaube an das Jenseits laut S. 209 den alten Menschen?",
+   "options": [
+    "Eine Tröstung, die dem Alter hunderttausendfach Widerpart bietet",
+    "Eine Erklärung der Krankheiten",
+    "Ein längeres Leben",
+    "Eine Rente"
+   ],
+   "correct": 0,
+   "explanation": "Der Anhang stammt aus einer Abhandlung für alte Leute; sie sollen «Dank sei Allah für die Vollkommenheit des Glaubens» sagen und sich ihres Alters erfreuen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_393372",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-01",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 210,
+   "q": "Mit welcher Sure beginnt das Elfte Wort (S. 210)?",
+   "options": [
+    "Sure Yasin",
+    "Sure 91 (Die Sonne), Verse 1-10",
+    "Sure al-Fatiha",
+    "Sure al-Ikhlas"
+   ],
+   "correct": 1,
+   "explanation": "Die Verse schwören bei Sonne, Mond, Tag, Nacht, Himmel, Erde und Seele; wohl dem, der die Seele läutert, elend der, der sie unter Sünden begräbt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_395346",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-02",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 210,
+   "q": "Was soll die gleichnishafte Erzählung des Elften Wortes laut S. 210 erschliessen?",
+   "options": [
+    "Die Geschichte eines Propheten",
+    "Die Regeln des Handels",
+    "Die Geheimnisse der Erschaffung von Kosmos und Mensch sowie Sinn und Weisheit des Gebets",
+    "Die Entstehung der Sprachen"
+   ],
+   "correct": 2,
+   "explanation": "Es folgt die Erzählung von einem König mit vielen Schatzkammern voller Juwelen und verborgener Schätze.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_395346",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-03",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 211,
+   "q": "Auf welche zwei Weisen will der König laut S. 211 seine Schönheit und Vollkommenheit bezeugen?",
+   "options": [
+    "Durch Krieg und Frieden",
+    "Durch Bücher und Lieder",
+    "Durch Gesetze und Steuern",
+    "Selbst mit den Augen des sachkundigen Fachmanns und mit den Augen der anderen"
+   ],
+   "correct": 3,
+   "explanation": "Dazu baut er ein prachtvolles Schloss, eröffnet eine Messe und lädt seine Untertanen zu Besichtigung und Gastmahl ein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_397319",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-04",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 212,
+   "q": "Welche Aufgabe gibt der König seinem ehrwürdigen Botschafter (S. 212)?",
+   "options": [
+    "Lehrer und Sprecher im Schloss zu sein, der den Besuchern Erbauer, Dekorationen und Zeremoniell erklärt",
+    "Die Schatzkammern zu bewachen",
+    "Die Speisen zuzubereiten",
+    "Die Soldaten zu führen"
+   ],
+   "correct": 0,
+   "explanation": "In jedem Teil des Schlosses hat er Stellvertreter und Gehilfen; er selbst nimmt den höchsten Platz unter seinen Schülern ein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_399293",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-05",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 212,
+   "q": "Was folgt laut der Rede des Botschafters (S. 212) daraus, dass der König den Besuchern durch Gaben seine Zuneigung zeigt?",
+   "options": [
+    "Sie sollen die Gaben verkaufen",
+    "Sie sollen Ihm durch Gehorsam ihre Zuneigung erweisen",
+    "Sie sollen schweigen",
+    "Sie sollen mehr verlangen"
+   ],
+   "correct": 1,
+   "explanation": "Ebenso: Er will sich bekannt machen, also sollen sie Ihn kennenlernen; Er zeigt Erbarmen, also sollen sie danken; Er zeigt die Schönheit Seiner Namen, also sollen sie sich nach Ihm sehnen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_399293",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-06",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 213,
+   "q": "Woran erkennt man laut S. 213, dass alles dem König allein gehört?",
+   "options": [
+    "An der Grösse des Schlosses",
+    "An den Wachen",
+    "Er hat jedem Kunstwerk mit Seinem eigenen Stempel und Siegel eine unfälschbare Prägung verliehen",
+    "An den Inschriften der Gäste"
+   ],
+   "correct": 2,
+   "explanation": "Daraus folgt, dass Er der Eine und Einzige ist, der nicht Seinesgleichen kennt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_401266",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-07",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 213,
+   "q": "Was sagte die erste Gruppe beim Anblick der Werke im Schloss (S. 213)?",
+   "options": [
+    "«Das ist alles Zufall.»",
+    "«Wir wollen nach Hause.»",
+    "«Wo gibt es zu essen?»",
+    "«In ihnen muss etwas Grosses verborgen sein.»"
+   ],
+   "correct": 3,
+   "explanation": "Sie verstanden, dass die Werke kein Spielzeug sind, gingen zum Lehrer und baten ihn um Erklärung; der König lud sie dafür in ein noch grösseres, unbeschreiblich schönes Schloss ein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_401266",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-08",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 214,
+   "q": "Wie verhielt sich die zweite Gruppe im Schloss (S. 214)?",
+   "options": [
+    "Sie interessierte sich nur für die Speisen, verschloss Augen und Ohren, trank den Rauschtrank und wurde ins Gefängnis geworfen",
+    "Sie studierte die Kunstwerke",
+    "Sie half den Dienern",
+    "Sie verliess das Schloss sofort"
+   ],
+   "correct": 0,
+   "explanation": "Sie schlugen sich den Bauch voll wie die Tiere und begingen Unverschämtheiten gegen die Anweisungen des Schlossherrn.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_403240",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-09",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 214,
+   "q": "Von welchen zwei Dingen hängt laut S. 214 die Durchführung des königlichen Plans ab?",
+   "options": [
+    "Von Geld und Soldaten",
+    "Von der Existenz des Botschafters und davon, dass die Menschen seine Worte annehmen und ihm gehorchen",
+    "Vom Wetter und von der Ernte",
+    "Von der Zahl der Gäste und der Grösse der Säle"
+   ],
+   "correct": 1,
+   "explanation": "Ein Buch, das man nicht versteht, bleibt ohne Lehrer Papier ohne Sinn; werden die Anweisungen des Botschafters nicht mehr befolgt, wird das Schloss umgebaut und umgewandelt (S. 215).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_403240",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-10",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 215,
+   "q": "Wofür stehen in der Ausdeutung (S. 215) die Säle des Schlosses?",
+   "options": [
+    "Für die sieben Kontinente",
+    "Für die zwölf Monate",
+    "Für die achtzehntausend Welten",
+    "Für die Moscheen der Erde"
+   ],
+   "correct": 2,
+   "explanation": "Das Schloss ist diese Welt, das Dach der Himmel mit den Sternen, der Boden das blumenübersäte Antlitz der Erde.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_405214",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-11",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 215,
+   "q": "Was entspricht laut S. 215 der Schlossküche und ihrem Herd?",
+   "options": [
+    "Die Sonne",
+    "Der Mond",
+    "Die Gärten von Barla",
+    "Unsere Erde und das Feuer in ihrem Inneren"
+   ],
+   "correct": 3,
+   "explanation": "Das Gastmahl entspricht den Früchten der göttlichen Allmacht, wie man sie besonders im Sommer in den Gärten von Barla findet.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_405214",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-12",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 216,
+   "q": "Wer ist in der Ausdeutung (S. 216) der Botschafter, und wer sind seine Helfer?",
+   "options": [
+    "Mohammed; seine Helfer sind die Propheten, ihre Schüler die Heiligen und Gelehrten",
+    "Ein Engel; seine Helfer sind die Sterne",
+    "Ein Philosoph; seine Helfer sind die Wissenschaftler",
+    "Ein König; seine Helfer sind die Minister"
+   ],
+   "correct": 0,
+   "explanation": "Die Diener des Herrschers entsprechen den Engeln, die Besucher den Dschinnen, Menschen und Tieren.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_407187",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-13",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 216,
+   "q": "Inwiefern ist der Wirkungsbereich des Botschafters laut S. 216 zweiseitig?",
+   "options": [
+    "Er herrscht und richtet",
+    "Als Diener und Verehrer Gottes stellt er seinen Herrn vor und ist Anwalt seiner Gemeinde; als Gesandter verkündet er Menschen und Dschinnen die Gesetze, den Qur'an",
+    "Er lehrt und heilt",
+    "Er betet und kämpft"
+   ],
+   "correct": 1,
+   "explanation": "Die glückliche Gemeinde hörte auf ihn und öffnete ihr Ohr der Verkündigung des Qur'an.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_407187",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-14",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 217,
+   "q": "Was ist laut S. 217 das Gebet im Verhältnis zur Anbetung?",
+   "options": [
+    "Nur eine von vielen gleichrangigen Pflichten",
+    "Eine freiwillige Zusatzübung",
+    "Es umfasst alle Arten der Anbetung",
+    "Ersatz für das Fasten"
+   ],
+   "correct": 2,
+   "explanation": "Durch seine Worte und Handlungen weist es auf die einzelnen Aufgaben hin, etwa «Allahu Ekber» als Anerkennung Seiner Grösse.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_409161",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-15",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 217,
+   "q": "Welche Formel entspricht laut S. 217 der Aufgabe, die Schönheiten der Werke als Manifestationen der heiligen Namen zu verkünden?",
+   "options": [
+    "«Allahu Ekber»",
+    "«Amin»",
+    "«Bismillah»",
+    "«Subhanallahi velhamdulillah»"
+   ],
+   "correct": 3,
+   "explanation": "Damit entsprechen sie ihrer Berufung zur Heiligung und Danksagung; «Allahu Ekber» gehört zur ersten Aufgabe, der Anerkennung Seiner Grösse.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_409161",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-16",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 218,
+   "q": "Was sagen die Gläubigen auf S. 218, als sie die Taten des allweisen Baumeisters betrachten?",
+   "options": [
+    "«Gepriesen seist Du! Nicht konnten wir Dich erkennen, wie Du mit Recht erkannt werden solltest!»",
+    "«Wir haben Dich vollkommen erkannt.»",
+    "«Wir brauchen keine Hilfe.»",
+    "«Das genügt uns.»"
+   ],
+   "correct": 0,
+   "explanation": "Danach entgegnen sie in Liebe «Dich allein beten wir an und nur von Dir erbitten wir Hilfe» und in Dank «Subhaneke ve bihamdik».",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_411135",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-17",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 220,
+   "q": "Was rufen die Gläubigen laut S. 220 voller Freude zur Zeugenschaft aus?",
+   "options": [
+    "«Seid still!»",
+    "«Kommt zu eurem Heil!» (Hayya ala-l-felah)",
+    "«Geht nach Hause!»",
+    "«Bleibt fern!»"
+   ],
+   "correct": 1,
+   "explanation": "Vorher sagen sie «Maşaallah», «Barekallah» und «Wir glauben»; dem König, der Seine Einheit offenbart, antworten sie mit «Wir hören und gehorchen» (2,285).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_415082",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-18",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 221,
+   "q": "Welches Amt erlangen die Gläubigen laut S. 221 durch die Erfüllung ihrer Aufgaben?",
+   "options": [
+    "Das Amt eines Richters",
+    "Das Amt eines Engels",
+    "Das Amt eines vertrauten Kalifen der Erde",
+    "Das Amt eines Königs"
+   ],
+   "correct": 2,
+   "explanation": "Nach dem Prüfstand verleiht ihnen der Herr den Sold der ewigen Glückseligkeit und lädt sie ins Haus des Friedens ein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_417056",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-19",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 221,
+   "q": "Warum verdient die andere Gruppe laut S. 221 in kurzer Zeit eine unendliche Strafe?",
+   "options": [
+    "Weil sie wenig gearbeitet hat",
+    "Weil sie die falschen Speisen ass",
+    "Weil sie zu spät kam",
+    "Weil sie allen Beweisen Unglauben, den Gaben Undankbarkeit und allen Manifestationen der Gottesnamen Zurückweisung entgegenbrachte und so ein unendliches Verbrechen beging"
+   ],
+   "correct": 3,
+   "explanation": "Sie betrachtete alles Sein verleumderisch als wertlos und verleugnete Gott.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_417056",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-20",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 222,
+   "q": "Welche zwei Gründe nennt S. 222 dafür, dass dem Menschen Sinne, Organe und Fähigkeiten gegeben wurden?",
+   "options": [
+    "Die Gaben in Dankbarkeit wahrzunehmen und die Erscheinungen der Namen Gottes nach und nach zu erfahren, um Ihn zu erkennen",
+    "Arbeit und Erholung",
+    "Wohlstand und Macht",
+    "Fortpflanzung und Selbsterhaltung"
+   ],
+   "correct": 0,
+   "explanation": "Aus diesen beiden Wurzeln entfaltet sich die menschliche Vollkommenheit, und so wird der Mensch zum Menschen; nicht für die Befriedigung primitiver Begierden.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_419029",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-21",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 223,
+   "q": "Was lehrt das Gleichnis von den zwei Dienern mit 20 und 1000 Goldstücken (S. 222-223)?",
+   "options": [
+    "Sparsamkeit beim Kleiderkauf",
+    "Das Lebenskapital des Menschen ist nicht nur für dieses vergängliche Leben da; wer es dafür ausgibt, begeht eine grenzenlose Dummheit",
+    "Dass Reichtum gefährlich ist",
+    "Dass man Zettel nicht lesen muss"
+   ],
+   "correct": 1,
+   "explanation": "Der Mensch steht von der Qualität seines Lebens her fünfzigmal über dem höchstentwickelten Tier, fällt aber sonst fünfzigmal tiefer als das niederste.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_421003",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-22",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 223,
+   "q": "In wie vielen Anweisungen liegen laut S. 223 alle Ziele des menschlichen Lebens beschlossen?",
+   "options": [
+    "In drei",
+    "In zwölf",
+    "In neun",
+    "In vierzig"
+   ],
+   "correct": 2,
+   "explanation": "Die erste lautet, mit der Waage der Sinne die Gnadengaben aus den Schatzkammern der Barmherzigkeit zu wägen und dafür dankbar zu sein.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_421003",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-23",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 224,
+   "q": "Welches Bild verwendet die fünfte Anweisung (S. 224)?",
+   "options": [
+    "Ein Händler auf dem Markt",
+    "Ein Schüler vor der Prüfung",
+    "Ein Gärtner im Frühling",
+    "Ein Soldat, der an offiziellen Tagen die Orden seines Königs anlegt"
+   ],
+   "correct": 3,
+   "explanation": "So soll sich der Mensch mit seinen Qualitäten, die die Gottesnamen ihm verliehen haben, schmücken und vor dem Ewigen Zeugen erscheinen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_422976",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-24",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 225,
+   "q": "Was dient laut der neunten Anweisung (S. 225) als Massstab, um die Abstufungen der göttlichen Macht und des Reichtums zu erkennen?",
+   "options": [
+    "Die eigene Hilflosigkeit, Schwäche, Armseligkeit und Bedürftigkeit",
+    "Die Zahl der Sterne",
+    "Die Grösse der Berge",
+    "Das eigene Wissen"
+   ],
+   "correct": 0,
+   "explanation": "Wie der Hunger den Geschmack des Essens erschliesst, so erschliessen Schwäche und Armut die grenzenlose Macht und den Reichtum Gottes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_424950",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-25",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 225,
+   "q": "Womit vergleicht S. 225 das Wesen des menschlichen Lebens unter anderem?",
+   "options": [
+    "Mit einem Wassertropfen",
+    "Mit einer Landkarte des Kosmos, einem Inhaltsverzeichnis der Welt und einem Schlüsselbund für die verborgenen Schatzkammern",
+    "Mit einer Kerze im Wind",
+    "Mit einem Schiff ohne Steuer"
+   ],
+   "correct": 1,
+   "explanation": "Weitere Blickpunkte: Elle für die Attribute Gottes, Waage aller Welten, Auszug aus dem Grossen Buch, vollkommene Symphonie.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_424950",
+   "appLink": true
+  },
+  {
+   "id": "soz-11-26",
+   "sec": 11,
+   "secTitle": "Elftes Wort",
+   "page": 226,
+   "q": "Worin besteht laut S. 226 das vollkommene Glück im Leben?",
+   "options": [
+    "Im Besitz vieler Güter",
+    "In einem langen Leben",
+    "Die Lichtfülle der Urewigen Sonne im Spiegel des eigenen Lebens einzufangen, sie zu lieben und ihrem Widerschein im Herzen eine Heimstatt zu bereiten",
+    "Im Ruhm bei den Menschen"
+   ],
+   "correct": 2,
+   "explanation": "Dazu wird das ausserqur'anische Wort Gottes angeführt: Er fand keinen Platz in Himmeln und Erde, wohl aber im Herzen Seines Gläubigen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_426924",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-01",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 228,
+   "q": "Was vergleicht das Zwölfte Wort (S. 228)?",
+   "options": [
+    "Zwei Rechtsschulen",
+    "Das Diesseits mit dem Jenseits",
+    "Zwei Propheten",
+    "Die heilige Weisheit des Qur'an mit der Weisheit der Philosophie"
+   ],
+   "correct": 3,
+   "explanation": "Es enthält vier Grundsätze und ist eine kurze Zusammenfassung der qur'anischen Unterweisung für das persönliche und gesellschaftliche Leben.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_430871",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-02",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 228,
+   "q": "Mit welcher Sure beginnt das Zwölfte Wort (S. 228)?",
+   "options": [
+    "Sure 2,269: Wem Weisheit gegeben wurde, dem wurde viel Gutes gegeben",
+    "Sure 91,1",
+    "Sure 36,78",
+    "Sure 50,16"
+   ],
+   "correct": 0,
+   "explanation": "Der Vers stellt die Weisheit als grosses anvertrautes Gut vor; danach folgt der Vergleich der beiden Weisheiten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_430871",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-03",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 229,
+   "q": "Worüber schreibt der fremde Philosoph im Gleichnis des Ersten Grundsatzes (S. 229)?",
+   "options": [
+    "Über den Sinn des Buches",
+    "Nur über die Buchstaben, ihre Verzierungen und die Eigenschaften der Juwelen",
+    "Über die Geschichte des Königs",
+    "Über die arabische Grammatik"
+   ],
+   "correct": 1,
+   "explanation": "Er kann kein Arabisch und weiss vielleicht nicht einmal, dass es ein Buch mit Sinn ist; er ist ein guter Ingenieur, Chemiker, Goldschmied und Juwelier.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_432845",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-04",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 230,
+   "q": "Wie reagiert der König auf das Werk des Philosophen (S. 230)?",
+   "options": [
+    "Er belohnt ihn reich",
+    "Er lässt es übersetzen",
+    "Er schlägt ihm das Werk auf den Kopf und verstösst ihn",
+    "Er stellt es in die Bibliothek"
+   ],
+   "correct": 2,
+   "explanation": "Der Philosoph hat den Qur'an, die Quelle aller Wahrheit, als bedeutungsloses Schmuckstück angesehen; der Gelehrte erhält zehn Goldstücke für jeden Buchstaben seines Werkes.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_434818",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-05",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 231,
+   "q": "Wofür steht in der Ausdeutung (S. 231) der kunstvoll verzierte Qur'an des Gleichnisses?",
+   "options": [
+    "Für die Bibliotheken der Welt",
+    "Für die Geschichte der Menschheit",
+    "Für die Moschee",
+    "Für das kunstvoll erschaffene Weltall"
+   ],
+   "correct": 3,
+   "explanation": "Der Fremde stellt die Philosophie dar, der Gelehrte den Qur'an und seine Schüler; der Qur'an ist Kommentator des kosmischen Qur'an.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_436792",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-06",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 231,
+   "q": "Worin liegt laut S. 231 der Unterschied zwischen «Wie schön ist es erschaffen worden!» und «Wie schön ist es!»?",
+   "options": [
+    "Der Qur'an betrachtet jedes Geschöpf als Buchstaben, der auf seinen Meister hinweist; die Philosophie betrachtet die Schöpfung als aus sich selbst sinnvoll",
+    "Es gibt keinen Unterschied",
+    "Der erste Satz ist poetisch, der zweite wissenschaftlich",
+    "Der erste Satz ist türkisch, der zweite arabisch"
+   ],
+   "correct": 0,
+   "explanation": "Dadurch behandelt die Philosophie den Kosmos abschätzig und macht ihn zu ihrem Ankläger; die atheistische Philosophie ist eine sinnlose Spiegelfechterei.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_436792",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-07",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 232,
+   "q": "Mit wem vergleicht der Zweite Grundsatz (S. 232) den aufrichtigen Schüler der Philosophie?",
+   "options": [
+    "Mit einem Weisen",
+    "Mit einem Pharao, aber einem elenden",
+    "Mit einem Mönch",
+    "Mit einem Soldaten"
+   ],
+   "correct": 1,
+   "explanation": "Er dient um seines Vorteils willen niedersten Dingen und sieht in jedem gewinnbringenden Ding seinen Herrn; er ist starrköpfig, aber erbärmlich, ein Tyrann, aber armselig.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_438766",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-08",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 232,
+   "q": "Was nimmt der aufrichtige Schüler des Qur'an laut S. 232 nicht einmal als Zweck seiner Anbetung an?",
+   "options": [
+    "Das Wohlgefallen Allahs",
+    "Das Gebet",
+    "Das Paradies",
+    "Die Gemeinschaft"
+   ],
+   "correct": 2,
+   "explanation": "Er erniedrigt sich nicht einmal vor den grössten Geschöpfen; er ist arm und schwach, aber reich durch das im Jenseits aufgesparte Vermögen und stark durch die Macht seines Herrn.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_438766",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-09",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 233,
+   "q": "Was ist laut dem Dritten Grundsatz (S. 233) der Eckpfeiler des gesellschaftlichen Lebens nach der Philosophie, und was nach dem Qur'an?",
+   "options": [
+    "Philosophie: Gerechtigkeit; Qur'an: Macht",
+    "Philosophie: Freiheit; Qur'an: Gehorsam",
+    "Philosophie: Wissen; Qur'an: Glaube",
+    "Philosophie: Macht; Qur'an: Gerechtigkeit"
+   ],
+   "correct": 3,
+   "explanation": "Aus der Macht folgt Angriff; aus der Gerechtigkeit folgt Einigkeit (S. 234).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_440739",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-10",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 233,
+   "q": "Was ist nach dem Qur'an laut S. 233 das Band der Gemeinschaft?",
+   "options": [
+    "Die Liebe zum Glauben, zum Beruf und zur Heimat",
+    "Rassismus und Nationalismus",
+    "Gemeinsamer Gewinn",
+    "Die gleiche Sprache"
+   ],
+   "correct": 0,
+   "explanation": "Die Philosophie hält dagegen an Rassismus und Nationalismus fest, woraus Aggressivität folgt, weil er andere verschlingt.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_440739",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-11",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 233,
+   "q": "Welche Konsequenz hat laut S. 233 der Lebensgrundsatz des Kampfes?",
+   "options": [
+    "Einigkeit",
+    "Interessenkonflikt",
+    "Wohlstand",
+    "Brüderlichkeit"
+   ],
+   "correct": 1,
+   "explanation": "Der Qur'an setzt stattdessen den Grundsatz, einander Beistand zu leisten; dessen Konsequenz ist, einander zu Hilfe zu eilen (S. 234).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_440739",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-12",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 234,
+   "q": "Was erlangt laut S. 234 derjenige, der zuerst seine Seele bändigt und dann den Geist zur Vollkommenheit emportreibt?",
+   "options": [
+    "Reichtum in dieser Welt",
+    "Macht über andere",
+    "Glückseligkeit in beiden Welten",
+    "Ein langes Leben"
+   ],
+   "correct": 2,
+   "explanation": "Ziel der Qur'an-Weisheit ist, Lüste einzudämmen, den Geist emporzuführen und den Menschen zur menschlichen Vollkommenheit zu leiten.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_442713",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-13",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 235,
+   "q": "Was zeigt das Gleichnis vom Spiegel und vom Fenster zur Sonne im Vierten Grundsatz (S. 234-235)?",
+   "options": [
+    "Dass Spiegel wertvoller sind als Fenster",
+    "Dass man Häuser ohne Dach bauen soll",
+    "Dass die Sonne gefährlich ist",
+    "Der direkte Umgang mit der Sonne durch das Fenster ist dem begrenzten Widerschein im Spiegel überlegen, so wie der Qur'an über allen anderen Worten steht"
+   ],
+   "correct": 3,
+   "explanation": "Der Nutzen des Spiegels entspricht seiner Kapazität, nicht dem Wert der Sonne; ebenso steht der Ferman des Sultans über seinem schlichten Wort an einen einfachen Mann (S. 237).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_444686",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-14",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 235,
+   "q": "Warum hat der Qur'an laut S. 235 den höchsten Rang unter den unendlich vielen Worten Gottes?",
+   "options": [
+    "Weil er durch Gottes höchsten Namen offenbart und durch alle Seine Namen auf höchster Stufe bestätigt wurde",
+    "Weil er das älteste Buch ist",
+    "Weil er am längsten ist",
+    "Weil er in Reimen verfasst ist"
+   ],
+   "correct": 0,
+   "explanation": "Er ist Wort Gottes als Herr aller Welten, Erlass im Namen des Gottes allen Seins und Ansprache des Schöpfers der Himmel und der Erde; daher trägt er den Ehrentitel «Wort Gottes» (S. 236).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_444686",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-15",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 236,
+   "q": "Was sagt ein Heiliger laut S. 236, wenn er in seinem Herzen betend spricht?",
+   "options": [
+    "«Der Herr der Welten berichtet es.»",
+    "«Mein Herz gibt Kunde von meinem Herrn.»",
+    "«Ich habe den Thron gesehen.»",
+    "«Ich bin ein Prophet.»"
+   ],
+   "correct": 1,
+   "explanation": "Er empfängt das Wort Gottes nur nach seiner Fähigkeit und hinter etwa siebzigtausend Schleiern; die Eingebungen sind abgestuft von den Tieren bis zu den Erzengeln.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_446660",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-16",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 240,
+   "q": "Was folgt laut S. 240 aus dem Geheimnis des Vierten Grundsatzes über die Heiligen?",
+   "options": [
+    "Sie stehen über den Propheten",
+    "Sie empfangen dieselbe Offenbarung",
+    "Auch der grösste Heilige kann nicht auf die Stufe eines Propheten gelangen",
+    "Sie brauchen keine Eingebung"
+   ],
+   "correct": 2,
+   "explanation": "Die meisten Offenbarungen an die Propheten wurden von Engeln überbracht, während die meisten Eingebungen unvermittelt kommen.",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_454555",
+   "appLink": true
+  },
+  {
+   "id": "soz-12-17",
+   "sec": 12,
+   "secTitle": "Zwölftes Wort",
+   "page": 240,
+   "q": "Wie unterscheidet S. 240 die Mondspaltung von der Himmelfahrt?",
+   "options": [
+    "Beide beweisen dasselbe vor denselben Zeugen",
+    "Die Himmelfahrt war vor der Sendung",
+    "Die Mondspaltung war ein Traum",
+    "Die Mondspaltung bewies vor Dschinnen und Menschen sein Prophetentum; die Himmelfahrt bewies vor Geistern und Engeln seine Stellung als Diener Gottes und dass er der Geliebte Gottes ist"
+   ],
+   "correct": 3,
+   "explanation": "Die Himmelfahrt führte bis zum «Grenzbaum» und zur «Zwei-Bogenlängen-Nähe» zu dem, der uns näher ist als die Halsschlagader (50,16).",
+   "book": "soz",
+   "edition": "Deutsche Ausgabe «Worte», Buch «Worte» in der Lese-App «Risale-i Nur Okuma Programı»",
+   "url": "https://syesilova72.github.io/?kitap=alsozler_454555",
    "appLink": true
   }
  ]
